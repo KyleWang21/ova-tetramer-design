@@ -1,0 +1,6 @@
+candidate	length_aa	external_oligomerization_module	mutations_vs_p3	c4_models	c4_confidence_pass	median_c4_iptm	median_c4_weakest_interface	median_interface_pae_a	clean_complete_designed_ss	median_c3_iptm	decision
+P3-13R_C4_baseline	386	no	0	15	0/15	0.18	0.15	26.44	NA	NA	negative control
+OVA-BODY-C4-C3HOT-AI01	386	no	19	40	40/40	0.79	0.78	1.723	39/40	0.75	primary C4-forming candidate; not stoichiometry-specific
+OVA-BODY-C4-SS3-AI03	386	no	15	40	40/40	0.77	0.76	1.905	29/40	0.79	robust pure-body backup; strong C3
+OVA-BODY-C4-P208F-AI01	386	no	15	40	30/40	0.795	0.80	1.878	30/40	0.84	seed-sensitive mechanism control
+AI-C4-06	424	yes; appended tetrameric helix	0 OVA-body mutations	40	35/40	0.565	0.53	NA	NA	engineering positive control only

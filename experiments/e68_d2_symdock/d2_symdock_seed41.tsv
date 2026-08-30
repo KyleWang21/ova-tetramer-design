@@ -1,0 +1,2 @@
+name	seed	elapsed_seconds	mover_status	total_score	separated_score	interface_energy	contacting_chain_pairs	ca_pairs_lt8_sorted	interface_residues_sorted	minimum_ca_distance	pdb
+d2_symdock_seed41	41	333.2864603996277	MoverStatus.MS_SUCCESS	-4645.56105742798	-4632.829602403361	-12.731455024619208	2	15,15,0,0,0,0	16.0,16.0,2.0,2.0,1.0,1.0	6.587855796843159	experiments/e68_d2_symdock/d2_symdock_seed41.pdb

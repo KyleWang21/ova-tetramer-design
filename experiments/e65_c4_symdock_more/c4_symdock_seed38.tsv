@@ -1,0 +1,2 @@
+name	seed	elapsed_seconds	mover_status	total_score	separated_score	interface_energy	mean_adjacent_ca_pairs_lt8	mean_adjacent_interface_residues	min_adjacent_ca_distance	min_opposite_ca_distance	pdb
+c4_symdock_seed38	38	228.48644542694092	MoverStatus.MS_SUCCESS	-4347.484876518328	-4291.067552774165	-56.417323744162786	28.0	22.0	4.58481210083903	20.00731156352597	experiments/e65_c4_symdock_more/c4_symdock_seed38.pdb

@@ -1,0 +1,8 @@
+name	shard	kind	n_chains	chain_ids	chain_length	ova_ranges	module_ranges	architecture	seeds	expected_samples	description	input_json
+wt_monomer	0	monomer_control	1	A	386	1-386	0-0	wt_monomer	5	25	OVA WT single-chain fold control	experiments/e01_dimer_baseline/in_s0/wt_monomer.json
+p3_monomer	1	monomer_control	1	A	386	1-386	0-0	p3_monomer	5	25	OVA P3-13R single-chain fold control	experiments/e01_dimer_baseline/in_s1/p3_monomer.json
+wt_dimer	2	dimer_control	2	AB	386,386	1-386;1-386	0-0;0-0	wt_dimer	5	25	OVA WT two-chain control	experiments/e01_dimer_baseline/in_s2/wt_dimer.json
+p3_dimer	3	dimer_baseline	2	AB	386,386	1-386;1-386	0-0;0-0	p3_dimer	5	25	Required P3-13R dimer baseline	experiments/e01_dimer_baseline/in_s3/p3_dimer.json
+p3_tetramer_nodomain	4	tetramer_negative	4	ABCD	386,386,386,386	1-386;1-386;1-386;1-386	0-0;0-0;0-0;0-0	p3_tetramer_nodomain	5	25	Four P3 chains without added tetramer domain	experiments/e01_dimer_baseline/in_s4/p3_tetramer_nodomain.json
+gcn4pli_tetramer	5	tetramer_positive	4	ABCD	33,33,33,33	0-0;0-0;0-0;0-0	1-33;1-33;1-33;1-33	gcn4pli_tetramer	5	25	PDB 1GCL tetrameric coiled-coil positive control	experiments/e01_dimer_baseline/in_s5/gcn4pli_tetramer.json
+cctet_tetramer	6	tetramer_positive	4	ABCD	32,32,32,32	0-0;0-0;0-0;0-0	1-32;1-32;1-32;1-32	cctet_tetramer	5	25	Experimentally defined CC-Tet positive control	experiments/e01_dimer_baseline/in_s6/cctet_tetramer.json

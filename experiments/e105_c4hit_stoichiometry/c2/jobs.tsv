@@ -1,0 +1,2 @@
+submitted_utc	shard	tag	job_id	queue_id	mode	status	response
+2026-08-30T09:51:01.398518+00:00	0	ky-102	t-20260830175059-vrxkj	q-20251224105744-qhrgl	submit	ok	"{     ""ResponseMetadata"": {         ""Action"": ""CreateJob"",         ""Region"": ""cn-beijing"",         ""RequestId"": ""202608301750587F7A822580E014AB25AF"",         ""Service"": ""ml_platform"",         ""Version"": ""2024-07-01""     },     ""Result"": {         ""Id"": ""t-20260830175059-vrxkj""     } }"

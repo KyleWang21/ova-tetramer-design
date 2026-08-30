@@ -1,0 +1,22 @@
+{
+  "candidate": "OVA-NC-C4-D2-92-AI01",
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "n_models": 25,
+  "median_iptm": 0.79,
+  "median_weakest_chain": 0.75,
+  "median_interface_pae_a": 3.9450000000000003,
+  "median_min_ova_plddt": 86.02284968084622,
+  "confidence_passing_models": 25,
+  "full_connected_models": 25,
+  "unclashed_models": 25,
+  "chemical_mode": "noncovalent",
+  "chemically_clean_models": 25,
+  "joint_passing_models": 25,
+  "unexpected_ss_models": 0
+}

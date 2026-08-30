@@ -1,0 +1,17 @@
+rank	index	phi_deg	fitted_dimer_rotation_deg	min_interdimer_heavy_a	clash_atom_pairs	ca_pairs_lt8	residue_contact_pairs	chain_pair_contacts	pdb
+1	31	62.0	179.58885519559564	0.14026227610853897	2964	3012	3205	4	experiments/e77_d2_completion_geometry/d2_complete_01_phi62.0.pdb
+2	76	152.0	179.58885519559564	0.133148218035057	2983	3006	3194	4	experiments/e77_d2_completion_geometry/d2_complete_02_phi152.0.pdb
+3	78	156.0	179.58885519559564	0.08484490269042336	3030	3030	3166	4	experiments/e77_d2_completion_geometry/d2_complete_03_phi156.0.pdb
+4	77	154.0	179.58885519559564	0.27893269850147434	3030	2998	3158	4	experiments/e77_d2_completion_geometry/d2_complete_04_phi154.0.pdb
+5	32	64.0	179.58885519559564	0.3111311476168015	3048	3004	3149	4	experiments/e77_d2_completion_geometry/d2_complete_05_phi64.0.pdb
+6	75	150.0	179.58885519559564	0.12288204627954859	3051	3124	3320	4	experiments/e77_d2_completion_geometry/d2_complete_06_phi150.0.pdb
+7	30	60.0	179.58885519559564	0.12074010739607537	3054	3120	3312	4	experiments/e77_d2_completion_geometry/d2_complete_07_phi60.0.pdb
+8	33	66.0	179.58885519559564	0.1344407801621262	3054	3031	3165	4	experiments/e77_d2_completion_geometry/d2_complete_08_phi66.0.pdb
+9	74	148.0	179.58885519559564	0.11233990160522267	3206	3278	3425	4	experiments/e77_d2_completion_geometry/d2_complete_09_phi148.0.pdb
+10	79	158.0	179.58885519559564	0.11626747176623291	3213	3048	3216	4	experiments/e77_d2_completion_geometry/d2_complete_10_phi158.0.pdb
+11	34	68.0	179.58885519559564	0.14307134061551322	3215	3040	3224	4	experiments/e77_d2_completion_geometry/d2_complete_11_phi68.0.pdb
+12	29	58.0	179.58885519559564	0.16517188059765658	3242	3283	3430	4	experiments/e77_d2_completion_geometry/d2_complete_12_phi58.0.pdb
+13	28	56.0	179.58885519559564	0.2867547016943705	3424	3492	3664	4	experiments/e77_d2_completion_geometry/d2_complete_13_phi56.0.pdb
+14	73	146.0	179.58885519559564	0.1829131820900495	3454	3488	3683	4	experiments/e77_d2_completion_geometry/d2_complete_14_phi146.0.pdb
+15	80	160.0	179.58885519559564	0.1762415128394998	3493	3164	3304	4	experiments/e77_d2_completion_geometry/d2_complete_15_phi160.0.pdb
+16	35	70.0	179.58885519559564	0.12947452345361854	3503	3162	3299	4	experiments/e77_d2_completion_geometry/d2_complete_16_phi70.0.pdb

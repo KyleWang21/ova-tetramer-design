@@ -1,0 +1,16 @@
+{
+  "reference": "references/1OVA.cif",
+  "reference_chain": "A",
+  "reference_matched_residues": 385,
+  "n_af3_chains": 15,
+  "sequence_identity": 0.8779220779220779,
+  "median_ca_rmsd_a": 1.7831,
+  "range_ca_rmsd_a": [
+    1.7618,
+    1.8278
+  ],
+  "median_ca_rmsd_plddt70_a": 1.2503,
+  "median_within_2a": 0.90649,
+  "median_within_3a": 0.93506,
+  "median_within_5a": 0.96883
+}

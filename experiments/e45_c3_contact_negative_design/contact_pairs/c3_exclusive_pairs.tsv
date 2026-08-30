@@ -1,0 +1,7 @@
+position_i	position_j	c4_recurrence	c3_recurrence	c3_minus_c4	c3_exclusive
+95	192	0.0	1.0	1.0	1
+96	342	0.0	1.0	1.0	1
+98	192	0.0	1.0	1.0	1
+155	210	0.0	1.0	1.0	1
+183	192	0.0	1.0	1.0	1
+95	190	0.025	1.0	0.975	1

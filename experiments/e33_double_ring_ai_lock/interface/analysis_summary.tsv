@@ -1,0 +1,2 @@
+passing_models	best_iptm	best_weakest_chain	best_cif	selected_positions
+10	0.64	0.64	experiments/e31_double_ring_reseed/out_s0/ova_body_double_ring_reseed/seed-2_sample-0/ova_body_double_ring_reseed_seed-2_sample-0_model.cif	93,95,97,99,101,152,153,184,195,213,237,239,282,340

@@ -1,0 +1,24 @@
+{
+  "candidate": "OVA-BODY-C4-SS3-AI03",
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_models": 40,
+  "median_iptm": 0.77,
+  "median_weakest_chain": 0.76,
+  "median_interface_pae_a": 1.905,
+  "median_min_ova_plddt": 88.92659326167922,
+  "confidence_passing_models": 40,
+  "full_connected_models": 40,
+  "unclashed_models": 40,
+  "chemically_clean_ring_models": 29,
+  "joint_passing_models": 29,
+  "unexpected_ss_models": 0
+}

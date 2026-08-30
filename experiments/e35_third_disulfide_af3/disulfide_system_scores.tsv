@@ -1,0 +1,5 @@
+system	n_models	full_ss_ring_models	full_ss_ring_fraction	chemically_clean_models	chemically_clean_fraction	median_observed_ss_bonds	median_native_c74_c121_bonds	median_unexpected_ss_bonds	median_iptm
+ova_body_c4_01	15	10	0.6666666666666666	10	0.6666666666666666	12.0	4.0	0.0	0.78
+ova_body_c4_02	15	10	0.6666666666666666	10	0.6666666666666666	12.0	4.0	0.0	0.78
+ova_body_c4_03	15	13	0.8666666666666667	13	0.8666666666666667	12.0	4.0	0.0	0.78
+ova_body_c4_04	15	12	0.8	12	0.8	12.0	4.0	0.0	0.71

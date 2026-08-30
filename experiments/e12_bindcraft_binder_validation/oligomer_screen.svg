@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="289">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#172033}.label{font-size:16px}.small{font-size:13px}.title{font-size:22px;font-weight:700}</style>
+<text x="28" y="34" class="title">AF3 oligomer screen</text>
+<rect x="245" y="18" width="16" height="16" fill="#2563eb" rx="3"/>
+<text x="267" y="31" class="small">median ipTM</text>
+<rect x="430" y="18" width="16" height="16" fill="#f59e0b" rx="3"/>
+<text x="452" y="31" class="small">weak-chain ipTM</text>
+<rect x="615" y="18" width="16" height="16" fill="#16a34a" rx="3"/>
+<text x="637" y="31" class="small">all-chain fraction</text>
+<rect x="800" y="18" width="16" height="16" fill="#7c3aed" rx="3"/>
+<text x="822" y="31" class="small">OVA pLDDT / 100</text>
+<rect x="985" y="18" width="16" height="16" fill="#0891b2" rx="3"/>
+<text x="1007" y="31" class="small">interface consistency</text>
+<line x1="245.0" y1="58" x2="245.0" y2="264" stroke="#e5e7eb"/>
+<text x="238.0" y="76" class="small">0.0</text>
+<line x1="385.0" y1="58" x2="385.0" y2="264" stroke="#e5e7eb"/>
+<text x="378.0" y="76" class="small">0.2</text>
+<line x1="525.0" y1="58" x2="525.0" y2="264" stroke="#e5e7eb"/>
+<text x="518.0" y="76" class="small">0.4</text>
+<line x1="665.0" y1="58" x2="665.0" y2="264" stroke="#e5e7eb"/>
+<text x="658.0" y="76" class="small">0.6</text>
+<line x1="805.0" y1="58" x2="805.0" y2="264" stroke="#e5e7eb"/>
+<text x="798.0" y="76" class="small">0.8</text>
+<line x1="945.0" y1="58" x2="945.0" y2="264" stroke="#e5e7eb"/>
+<text x="938.0" y="76" class="small">1.0</text>
+<text x="28" y="120" class="label">bindcraft_patch1_binder_monomer</text>
+<rect x="245" y="95" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="106" class="small">0.00</text>
+<rect x="245" y="112" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="123" class="small">0.00</text>
+<rect x="245" y="129" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="140" class="small">0.00</text>
+<rect x="245" y="146" width="0.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="251.0" y="157" class="small">0.00</text>
+<rect x="245" y="163" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="174" class="small">0.00</text>
+<text x="28" y="212" class="label">p3_bindcraft_patch1_complex</text>
+<rect x="245" y="187" width="525.0" height="12" fill="#2563eb" rx="3"/>
+<text x="776.0" y="198" class="small">0.75</text>
+<rect x="245" y="204" width="525.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="776.0" y="215" class="small">0.75</text>
+<rect x="245" y="221" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="232" class="small">1.00</text>
+<rect x="245" y="238" width="634.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="885.6" y="249" class="small">0.91</text>
+<rect x="245" y="255" width="612.5" height="12" fill="#0891b2" rx="3"/>
+<text x="863.5" y="266" class="small">0.88</text>
+</svg>

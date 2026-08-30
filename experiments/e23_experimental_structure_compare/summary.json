@@ -1,0 +1,16 @@
+{
+  "reference": "experiments/e23_experimental_structure_compare/1OVA.cif",
+  "reference_chain": "A",
+  "reference_matched_residues": 385,
+  "n_af3_chains": 50,
+  "sequence_identity": 0.9818181818181818,
+  "median_ca_rmsd_a": 1.46795,
+  "range_ca_rmsd_a": [
+    1.1083,
+    1.7931
+  ],
+  "median_ca_rmsd_plddt70_a": 0.62735,
+  "median_within_2a": 0.94026,
+  "median_within_3a": 0.96104,
+  "median_within_5a": 0.97662
+}

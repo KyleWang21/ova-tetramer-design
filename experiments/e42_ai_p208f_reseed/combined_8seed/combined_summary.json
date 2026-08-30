@@ -1,0 +1,24 @@
+{
+  "candidate": "OVA-BODY-C4-P208F-AI01",
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_models": 40,
+  "median_iptm": 0.795,
+  "median_weakest_chain": 0.8,
+  "median_interface_pae_a": 1.8775,
+  "median_min_ova_plddt": 90.04449471784997,
+  "confidence_passing_models": 30,
+  "full_connected_models": 40,
+  "unclashed_models": 40,
+  "chemically_clean_ring_models": 30,
+  "joint_passing_models": 30,
+  "unexpected_ss_models": 2
+}

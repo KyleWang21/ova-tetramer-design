@@ -1,0 +1,16 @@
+model	chain	matched_ca	sequence_identity	ca_rmsd_a	ca_rmsd_plddt70_a	within_2a	within_3a	within_5a	cif_path
+seed-1_sample-0	A	385	0.87792	1.7618	1.2394	0.90909	0.93506	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-1_sample-0/ova_body_c1_01_seed-1_sample-0_model.cif
+seed-1_sample-1	A	385	0.87792	1.7761	1.2471	0.90649	0.93766	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-1_sample-1/ova_body_c1_01_seed-1_sample-1_model.cif
+seed-1_sample-2	A	385	0.87792	1.7815	1.2634	0.90909	0.93506	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-1_sample-2/ova_body_c1_01_seed-1_sample-2_model.cif
+seed-1_sample-3	A	385	0.87792	1.7894	1.178	0.90649	0.92987	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-1_sample-3/ova_body_c1_01_seed-1_sample-3_model.cif
+seed-1_sample-4	A	385	0.87792	1.7869	1.2287	0.90909	0.93247	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-1_sample-4/ova_body_c1_01_seed-1_sample-4_model.cif
+seed-2_sample-0	A	385	0.87792	1.8278	1.3078	0.90649	0.93247	0.96623	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-2_sample-0/ova_body_c1_01_seed-2_sample-0_model.cif
+seed-2_sample-1	A	385	0.87792	1.7876	1.2542	0.90649	0.93506	0.96623	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-2_sample-1/ova_body_c1_01_seed-2_sample-1_model.cif
+seed-2_sample-2	A	385	0.87792	1.7932	1.2647	0.90909	0.93506	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-2_sample-2/ova_body_c1_01_seed-2_sample-2_model.cif
+seed-2_sample-3	A	385	0.87792	1.8149	1.2821	0.9039	0.94026	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-2_sample-3/ova_body_c1_01_seed-2_sample-3_model.cif
+seed-2_sample-4	A	385	0.87792	1.7645	1.2346	0.90909	0.93506	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-2_sample-4/ova_body_c1_01_seed-2_sample-4_model.cif
+seed-3_sample-0	A	385	0.87792	1.7831	1.269	0.90649	0.93247	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-3_sample-0/ova_body_c1_01_seed-3_sample-0_model.cif
+seed-3_sample-1	A	385	0.87792	1.7793	1.2503	0.90649	0.94026	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-3_sample-1/ova_body_c1_01_seed-3_sample-1_model.cif
+seed-3_sample-2	A	385	0.87792	1.7694	1.2746	0.9039	0.93766	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-3_sample-2/ova_body_c1_01_seed-3_sample-2_model.cif
+seed-3_sample-3	A	385	0.87792	1.78	1.1455	0.90909	0.93247	0.96883	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-3_sample-3/ova_body_c1_01_seed-3_sample-3_model.cif
+seed-3_sample-4	A	385	0.87792	1.7926	1.1831	0.9039	0.93247	0.96623	experiments/e105_c4hit_stoichiometry/c1/out_s0/ova_body_c1_01/seed-3_sample-4/ova_body_c1_01_seed-3_sample-4_model.cif

@@ -1,0 +1,2 @@
+name	shard	kind	n_chains	chain_ids	chain_length	ova_ranges	module_ranges	architecture	seeds	expected_samples	description	input_json
+p3_pli_c_f05	0	tetramer_candidate	4	ABCD	424,424,424,424	1-386;1-386;1-386;1-386	392-424;392-424;392-424;392-424	P3-f05-pli	5	25	Four-chain P3-f05-pli; 424 aa per chain	experiments/e03b_pli_f05_domain_msa/in_s0/p3_pli_c_f05.json

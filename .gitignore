@@ -1,0 +1,54 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python bytecode, environments, and tooling caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.venv_*/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and scheduler output
+*.log
+*.err
+slurm-*.out
+
+# Local scientific-computing caches
+experiments/_jaxcache/
+experiments/msa_cache*/
+
+# Large, reproducible AlphaFold/structure-prediction intermediates
+# Keep experiment summaries, FASTA files, figures, and score tables in Git.
+experiments/**/in_s*/
+experiments/**/out_s*/
+experiments/**/msas/
+experiments/**/*.a3m
+
+# Bulk generated structures stay local; curated final models live in structures/.
+experiments/**/*.pdb
+experiments/**/*.cif

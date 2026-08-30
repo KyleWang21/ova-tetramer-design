@@ -1,0 +1,24 @@
+{
+  "c4_models": 40,
+  "c3_models": 15,
+  "positive_positions": [
+    239,
+    282,
+    341,
+    373
+  ],
+  "negative_positions": [
+    194,
+    210,
+    342
+  ],
+  "all_design_positions": [
+    194,
+    210,
+    239,
+    282,
+    341,
+    342,
+    373
+  ]
+}

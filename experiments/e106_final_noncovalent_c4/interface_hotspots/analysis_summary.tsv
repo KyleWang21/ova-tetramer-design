@@ -1,0 +1,2 @@
+passing_models	best_iptm	best_weakest_chain	best_cif	selected_positions
+25	0.83	0.8	experiments/e104_c4hit_multiseed/prepared/out_s1/ova_body_c4_02/seed-3_sample-1/ova_body_c4_02_seed-3_sample-1_model.cif	3,110,113,114,116,119,120,123,131,132,134,145,148,149,152,155,156,186,217,237,239,271,275,276,277,278,340,341,354,372,373,375

@@ -1,0 +1,2 @@
+system	n_models	full_ss_ring_models	full_ss_ring_fraction	chemically_clean_models	chemically_clean_fraction	median_observed_ss_bonds	median_native_c74_c121_bonds	median_unexpected_ss_bonds	median_iptm
+ova_body_c3hot_ai01_reseed	25	24	0.96	24	0.96	12.0	4.0	0.0	0.79

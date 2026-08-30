@@ -1,0 +1,9 @@
+[
+  {
+    "rank": 1,
+    "name": "patch1_r182",
+    "hotspots": "A99,A155,A157,A182,A184,A334,A336,A338",
+    "settings": "/vepfs-mlp2/c20250508/400083/ova_p3_tetramer_design/experiments/e04_hotspot_bindcraft/bindcraft_runs_v2/patch1_r182/settings",
+    "design_path": "/vepfs-mlp2/c20250508/400083/ova_p3_tetramer_design/experiments/e04_hotspot_bindcraft/bindcraft_runs_v2/patch1_r182/design"
+  }
+]

@@ -1,0 +1,9 @@
+seed	models	median_iptm	median_weakest_chain	passing_models
+1	5	0.54	0.54	5
+2	5	0.62	0.61	5
+3	5	0.25	0.32	0
+4	5	0.25	0.3	0
+5	5	0.24	0.3	0
+6	5	0.25	0.33	0
+7	5	0.24	0.3	0
+8	5	0.24	0.29	0

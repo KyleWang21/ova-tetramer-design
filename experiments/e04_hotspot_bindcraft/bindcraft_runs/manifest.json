@@ -1,0 +1,16 @@
+[
+  {
+    "rank": 1,
+    "name": "patch1_r182",
+    "hotspots": "A99,A155,A157,A182,A184,A334,A336,A338",
+    "settings": "/vepfs-mlp2/c20250508/400083/ova_p3_tetramer_design/experiments/e04_hotspot_bindcraft/bindcraft_runs/patch1_r182/settings",
+    "design_path": "/vepfs-mlp2/c20250508/400083/ova_p3_tetramer_design/experiments/e04_hotspot_bindcraft/bindcraft_runs/patch1_r182/design"
+  },
+  {
+    "rank": 2,
+    "name": "patch2_r195",
+    "hotspots": "A195,A196,A198,A208,A210,A285",
+    "settings": "/vepfs-mlp2/c20250508/400083/ova_p3_tetramer_design/experiments/e04_hotspot_bindcraft/bindcraft_runs/patch2_r195/settings",
+    "design_path": "/vepfs-mlp2/c20250508/400083/ova_p3_tetramer_design/experiments/e04_hotspot_bindcraft/bindcraft_runs/patch2_r195/design"
+  }
+]

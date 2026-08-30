@@ -1,0 +1,7 @@
+name	shard	kind	n_chains	chain_ids	chain_length	ova_ranges	module_ranges	architecture	seeds	expected_samples	description	input_json
+p3_pli_f05_n1	0	stoichiometry_competition	1	A	424	1-386	392-424	P3-GGGGS-pLI	3	15	P3-GGGGS-pLI forced input stoichiometry n=1	experiments/e05_pli_f05_stoichiometry/in_s0/p3_pli_f05_n1.json
+p3_pli_f05_n2	1	stoichiometry_competition	2	AB	424,424	1-386;1-386	392-424;392-424	P3-GGGGS-pLI	3	15	P3-GGGGS-pLI forced input stoichiometry n=2	experiments/e05_pli_f05_stoichiometry/in_s1/p3_pli_f05_n2.json
+p3_pli_f05_n3	2	stoichiometry_competition	3	ABC	424,424,424	1-386;1-386;1-386	392-424;392-424;392-424	P3-GGGGS-pLI	3	15	P3-GGGGS-pLI forced input stoichiometry n=3	experiments/e05_pli_f05_stoichiometry/in_s2/p3_pli_f05_n3.json
+p3_pli_f05_n4	3	stoichiometry_competition	4	ABCD	424,424,424,424	1-386;1-386;1-386;1-386	392-424;392-424;392-424;392-424	P3-GGGGS-pLI	3	15	P3-GGGGS-pLI forced input stoichiometry n=4	experiments/e05_pli_f05_stoichiometry/in_s3/p3_pli_f05_n4.json
+p3_pli_f05_n5	4	stoichiometry_competition	5	ABCDE	424,424,424,424,424	1-386;1-386;1-386;1-386;1-386	392-424;392-424;392-424;392-424;392-424	P3-GGGGS-pLI	3	15	P3-GGGGS-pLI forced input stoichiometry n=5	experiments/e05_pli_f05_stoichiometry/in_s4/p3_pli_f05_n5.json
+p3_pli_f05_n6	5	stoichiometry_competition	6	ABCDEF	424,424,424,424,424,424	1-386;1-386;1-386;1-386;1-386;1-386	392-424;392-424;392-424;392-424;392-424;392-424	P3-GGGGS-pLI	3	15	P3-GGGGS-pLI forced input stoichiometry n=6	experiments/e05_pli_f05_stoichiometry/in_s5/p3_pli_f05_n6.json

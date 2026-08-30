@@ -1,0 +1,7 @@
+n_chains	median_iptm	median_min_incident_iptm	models	confidence_pass	chemically_clean_full_ring	note
+1	0.00	0.00	15	NA	NA	monomer pTM=0.92; ipTM not defined
+2	0.74	0.74	15	15	0	two designed cross-chain S-S; no four-chain ring
+3	0.75	0.73	15	15	14	nine-bond triangular ring; strong C3 competitor
+4	0.79	0.78	40	40	39	eight seeds; twelve-bond four-chain network
+5	0.36	0.37	15	0	4	below interface-confidence threshold
+6	0.34	0.40	15	0	0	below interface-confidence threshold

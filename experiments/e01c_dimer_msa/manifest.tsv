@@ -1,0 +1,3 @@
+name	shard	kind	n_chains	chain_ids	chain_length	ova_ranges	module_ranges	architecture	seeds	expected_samples	description	input_json
+wt_dimer_msa	0	dimer_msa_confirmation	2	AB	386,386	1-386;1-386	0-0;0-0	wt_dimer_msa	5	25	OVA homodimer with ColabFold unpaired MSA and no templates	experiments/e01c_dimer_msa/in_s0/wt_dimer_msa.json
+p3_dimer_msa	1	dimer_msa_confirmation	2	AB	386,386	1-386;1-386	0-0;0-0	p3_dimer_msa	5	25	OVA homodimer with ColabFold unpaired MSA and no templates	experiments/e01c_dimer_msa/in_s1/p3_dimer_msa.json

@@ -1,0 +1,62 @@
+{
+  "source_cif": "/root/400083/ova_p3_tetramer_design/experiments/e01d_dimer_msa/out_s1/p3_dimer_msa/seed-2_sample-4/p3_dimer_msa_seed-2_sample-4_model.cif",
+  "target_pdb": "/root/400083/ova_p3_tetramer_design/experiments/e04_hotspot_bindcraft/hotspots/p3_af3_monomer_chainA.pdb",
+  "msa_sequences": 11631,
+  "score_definition": "0.45*dimer_contact_frequency + 0.20*RSA + 0.15*pLDDT + 0.10*conservation + 0.10*anchor_chemistry",
+  "caveat": "dimer contact recurrence locates candidate surfaces; the dimer AF3 confidence itself failed",
+  "patches": [
+    {
+      "center": 182,
+      "score": 0.6326662369055568,
+      "recurrence": 0.815,
+      "members": [
+        99,
+        155,
+        157,
+        182,
+        184,
+        334,
+        336,
+        338
+      ],
+      "rank": 1,
+      "name": "patch1_r182",
+      "bindcraft_hotspots": "A99,A155,A157,A182,A184,A334,A336,A338"
+    },
+    {
+      "center": 195,
+      "score": 0.52910658488249,
+      "recurrence": 0.49333333333333335,
+      "members": [
+        195,
+        196,
+        198,
+        208,
+        210,
+        285
+      ],
+      "rank": 2,
+      "name": "patch2_r195",
+      "bindcraft_hotspots": "A195,A196,A198,A208,A210,A285"
+    },
+    {
+      "center": 145,
+      "score": 0.4738642931773999,
+      "recurrence": 0.39111111111111113,
+      "members": [
+        131,
+        134,
+        140,
+        141,
+        144,
+        145,
+        148,
+        151,
+        152
+      ],
+      "rank": 3,
+      "name": "patch3_r145",
+      "bindcraft_hotspots": "A131,A134,A140,A141,A144,A145,A148,A151,A152"
+    }
+  ]
+}

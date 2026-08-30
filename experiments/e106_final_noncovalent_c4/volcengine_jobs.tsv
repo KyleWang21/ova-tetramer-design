@@ -1,0 +1,10 @@
+name	job_id	purpose	queue_id
+ky-20260830-098	t-20260830174933-27kc2	AF2 weak-interface design seed0	q-20251224105744-qhrgl
+ky-20260830-099	t-20260830174936-cxgfd	AF2 weak-interface design seed1	q-20251224105744-qhrgl
+ky-20260830-100	t-20260830174940-dvj9t	AF2 weak-interface design seed2	q-20251224105744-qhrgl
+ky-20260830-101	t-20260830174943-m6wv5	AF2 weak-interface design seed3	q-20251224105744-qhrgl
+ky-20260830-102	t-20260830175059-vrxkj	C2 forced-stoichiometry AF3	q-20251224105744-qhrgl
+ky-20260830-103	t-20260830175104-9bq6k	C3 forced-stoichiometry AF3	q-20251224105744-qhrgl
+ky-20260830-104	t-20260830175109-d8n25	C5 forced-stoichiometry AF3	q-20251224105744-qhrgl
+ky-20260830-105	t-20260830175114-q257k	C6 forced-stoichiometry AF3	q-20251224105744-qhrgl
+ky-20260830-106	t-20260830175747-l9snq	C1 monomer-fold AF3	q-20251224105744-qhrgl

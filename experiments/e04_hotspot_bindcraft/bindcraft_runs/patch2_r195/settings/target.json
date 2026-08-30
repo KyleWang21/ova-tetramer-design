@@ -1,0 +1,12 @@
+{
+  "design_path": "/vepfs-mlp2/c20250508/400083/ova_p3_tetramer_design/experiments/e04_hotspot_bindcraft/bindcraft_runs/patch2_r195/design",
+  "binder_name": "ova_p3_patch2_r195",
+  "starting_pdb": "/vepfs-mlp2/c20250508/400083/ova_p3_tetramer_design/experiments/e04_hotspot_bindcraft/hotspots/p3_af3_monomer_chainA.pdb",
+  "chains": "A",
+  "target_hotspot_residues": "A195,A196,A198,A208,A210,A285",
+  "lengths": [
+    45,
+    60
+  ],
+  "number_of_final_designs": 2
+}

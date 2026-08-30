@@ -1,0 +1,6 @@
+system	model	iptm	has_clash	intended_pairs	expected_ss_bonds	observed_ss_bonds	chain_component	full_ss_ring	native_c74_c121_bonds	unexpected_ss_bonds	chemically_clean_ring	interchain_ss_bonds	no_interchain_ss	noncovalent_chemically_clean	median_ss_distance_a	bonds_json	unexpected_bonds_json	cif_path
+ova_body_c4_01	seed-1_sample-0	0.31	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e86_d2_mpnn_multistate_ai02_af3/prepared/out_s0/ova_body_c4_01/seed-1_sample-0/ova_body_c4_01_seed-1_sample-0_model.cif
+ova_body_c4_01	seed-1_sample-1	0.31	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e86_d2_mpnn_multistate_ai02_af3/prepared/out_s0/ova_body_c4_01/seed-1_sample-1/ova_body_c4_01_seed-1_sample-1_model.cif
+ova_body_c4_01	seed-1_sample-2	0.35	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e86_d2_mpnn_multistate_ai02_af3/prepared/out_s0/ova_body_c4_01/seed-1_sample-2/ova_body_c4_01_seed-1_sample-2_model.cif
+ova_body_c4_01	seed-1_sample-3	0.34	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e86_d2_mpnn_multistate_ai02_af3/prepared/out_s0/ova_body_c4_01/seed-1_sample-3/ova_body_c4_01_seed-1_sample-3_model.cif
+ova_body_c4_01	seed-1_sample-4	0.34	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e86_d2_mpnn_multistate_ai02_af3/prepared/out_s0/ova_body_c4_01/seed-1_sample-4/ova_body_c4_01_seed-1_sample-4_model.cif

@@ -1,0 +1,6 @@
+state	native_mpnn_score	backbone
+c4	2.0564476165306793	experiments/e26_ova_only_interface_design/c4_ova_only_backbone.pdb
+c2	1.972342733371075	experiments/e28_ova_body_preserve_p3/multistate/backbones/c2_ova_only.pdb
+c3	1.8712074881512317	experiments/e28_ova_body_preserve_p3/multistate/backbones/c3_ova_only.pdb
+dimer	1.825130050355536	experiments/e28_ova_body_preserve_p3/multistate/backbones/p3_dimer_ova_only.pdb
+monomer	1.9514307473428256	experiments/e28_ova_body_preserve_p3/multistate/backbones/c4_chain_a_monomer.pdb

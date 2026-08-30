@@ -1,0 +1,21 @@
+system	model	iptm	has_clash	intended_pairs	expected_ss_bonds	observed_ss_bonds	chain_component	full_ss_ring	native_c74_c121_bonds	unexpected_ss_bonds	chemically_clean_ring	interchain_ss_bonds	no_interchain_ss	noncovalent_chemically_clean	median_ss_distance_a	bonds_json	unexpected_bonds_json	cif_path
+ova_body_c4_01	seed-2_sample-0	0.66	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s0/ova_body_c4_01/seed-2_sample-0/ova_body_c4_01_seed-2_sample-0_model.cif
+ova_body_c4_01	seed-2_sample-1	0.66	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s0/ova_body_c4_01/seed-2_sample-1/ova_body_c4_01_seed-2_sample-1_model.cif
+ova_body_c4_01	seed-2_sample-2	0.64	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s0/ova_body_c4_01/seed-2_sample-2/ova_body_c4_01_seed-2_sample-2_model.cif
+ova_body_c4_01	seed-2_sample-3	0.64	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s0/ova_body_c4_01/seed-2_sample-3/ova_body_c4_01_seed-2_sample-3_model.cif
+ova_body_c4_01	seed-2_sample-4	0.66	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s0/ova_body_c4_01/seed-2_sample-4/ova_body_c4_01_seed-2_sample-4_model.cif
+ova_body_c4_02	seed-3_sample-0	0.82	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s1/ova_body_c4_02/seed-3_sample-0/ova_body_c4_02_seed-3_sample-0_model.cif
+ova_body_c4_02	seed-3_sample-1	0.83	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s1/ova_body_c4_02/seed-3_sample-1/ova_body_c4_02_seed-3_sample-1_model.cif
+ova_body_c4_02	seed-3_sample-2	0.82	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s1/ova_body_c4_02/seed-3_sample-2/ova_body_c4_02_seed-3_sample-2_model.cif
+ova_body_c4_02	seed-3_sample-3	0.83	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s1/ova_body_c4_02/seed-3_sample-3/ova_body_c4_02_seed-3_sample-3_model.cif
+ova_body_c4_02	seed-3_sample-4	0.82	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s1/ova_body_c4_02/seed-3_sample-4/ova_body_c4_02_seed-3_sample-4_model.cif
+ova_body_c4_03	seed-4_sample-0	0.82	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s2/ova_body_c4_03/seed-4_sample-0/ova_body_c4_03_seed-4_sample-0_model.cif
+ova_body_c4_03	seed-4_sample-1	0.83	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s2/ova_body_c4_03/seed-4_sample-1/ova_body_c4_03_seed-4_sample-1_model.cif
+ova_body_c4_03	seed-4_sample-2	0.8	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s2/ova_body_c4_03/seed-4_sample-2/ova_body_c4_03_seed-4_sample-2_model.cif
+ova_body_c4_03	seed-4_sample-3	0.83	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s2/ova_body_c4_03/seed-4_sample-3/ova_body_c4_03_seed-4_sample-3_model.cif
+ova_body_c4_03	seed-4_sample-4	0.82	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s2/ova_body_c4_03/seed-4_sample-4/ova_body_c4_03_seed-4_sample-4_model.cif
+ova_body_c4_04	seed-5_sample-0	0.8	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s3/ova_body_c4_04/seed-5_sample-0/ova_body_c4_04_seed-5_sample-0_model.cif
+ova_body_c4_04	seed-5_sample-1	0.79	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s3/ova_body_c4_04/seed-5_sample-1/ova_body_c4_04_seed-5_sample-1_model.cif
+ova_body_c4_04	seed-5_sample-2	0.8	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s3/ova_body_c4_04/seed-5_sample-2/ova_body_c4_04_seed-5_sample-2_model.cif
+ova_body_c4_04	seed-5_sample-3	0.79	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s3/ova_body_c4_04/seed-5_sample-3/ova_body_c4_04_seed-5_sample-3_model.cif
+ova_body_c4_04	seed-5_sample-4	0.79	0.0		0	0	1	0	4	0	0	0	1	1	nan	[]	[]	experiments/e104_c4hit_multiseed/prepared/out_s3/ova_body_c4_04/seed-5_sample-4/ova_body_c4_04_seed-5_sample-4_model.cif
