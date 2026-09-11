@@ -1,0 +1,11 @@
+shard	candidate	input_json
+0	OVA-C4-IPTM80-19J	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_19j_protenix.json
+0	OVA-C4-IPTM80-20A	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_20a_protenix.json
+1	OVA-C4-IPTM80-20D	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_20d_protenix.json
+1	OVA-C4-IPTM80-20O	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_20o_protenix.json
+2	OVA-C4-IPTM80-20T	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_20t_protenix.json
+3	OVA-C4-IPTM80-21E	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_21e_protenix.json
+4	OVA-C4-IPTM80-21G	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_21g_protenix.json
+5	OVA-C4-IPTM80-21H	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_21h_protenix.json
+6	OVA-C4-IPTM80-21M	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_21m_protenix.json
+7	OVA-C4-IPTM80-21P	/root/400083/ova_p3_tetramer_design/experiments/e148_final20_protenix_v2_all_seed31/input/ova_iptm80_ova_c4_iptm80_21p_protenix.json

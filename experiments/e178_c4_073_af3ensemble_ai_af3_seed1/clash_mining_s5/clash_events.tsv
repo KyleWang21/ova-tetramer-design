@@ -1,0 +1,28 @@
+candidate	seed	sample	chain_pair	chain_a	position_a	resname_a	atom_a	mutation_a	chain_b	position_b	resname_b	atom_b	mutation_b	distance_a	cif_path
+ova_body_c4_06			B-C	B	354	TRP	CE3	S354W	C	354	TRP	CE3	S354W	2.3729472160339355	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-0/ova_body_c4_06_seed-1_sample-0_model.cif
+ova_body_c4_06			A-C	A	96	ASP	OD2		C	345	TRP	O	S345W	2.3261539936065674	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-1/ova_body_c4_06_seed-1_sample-1_model.cif
+ova_body_c4_06			A-C	A	345	TRP	O	S345W	C	96	ASP	OD2		2.3473403453826904	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-1/ova_body_c4_06_seed-1_sample-1_model.cif
+ova_body_c4_06			B-D	B	96	ASP	OD2		D	345	TRP	O	S345W	2.3290176391601562	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-1/ova_body_c4_06_seed-1_sample-1_model.cif
+ova_body_c4_06			B-D	B	345	TRP	N	S345W	D	96	ASP	OD2		2.3966686725616455	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-1/ova_body_c4_06_seed-1_sample-1_model.cif
+ova_body_c4_06			B-D	B	345	TRP	O	S345W	D	96	ASP	OD2		2.2900118827819824	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-1/ova_body_c4_06_seed-1_sample-1_model.cif
+ova_body_c4_06			A-D	A	345	TRP	CZ2	S345W	D	345	TRP	CZ2	S345W	2.0591535568237305	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-2/ova_body_c4_06_seed-1_sample-2_model.cif
+ova_body_c4_06			B-C	B	345	TRP	CZ2	S345W	C	345	TRP	CZ2	S345W	2.0627505779266357	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-2/ova_body_c4_06_seed-1_sample-2_model.cif
+ova_body_c4_06			A-B	A	340	ARG	NH2		B	341	GLU	OE2		2.316368818283081	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			A-B	A	341	GLU	OE2		B	340	ARG	NH2		2.312490463256836	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			A-C	A	96	ASP	OD2		C	345	TRP	O	S345W	2.0762994289398193	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			A-C	A	345	TRP	O	S345W	C	96	ASP	OD2		2.0932114124298096	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			A-D	A	354	TRP	CE3	S354W	D	354	TRP	CE3	S354W	2.2953245639801025	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			B-C	B	354	TRP	CE3	S354W	C	354	TRP	CE3	S354W	2.2382686138153076	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			B-D	B	96	ASP	OD2		D	345	TRP	O	S345W	2.010694980621338	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			B-D	B	345	TRP	O	S345W	D	96	ASP	OD2		2.074317455291748	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			C-D	C	340	ARG	NH2		D	341	GLU	OE2		2.3151509761810303	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			C-D	C	341	GLU	OE2		D	340	ARG	NH2		2.3656375408172607	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-3/ova_body_c4_06_seed-1_sample-3_model.cif
+ova_body_c4_06			A-C	A	96	ASP	OD2		C	346	PHE	O	A346F	2.364708662033081	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-4/ova_body_c4_06_seed-1_sample-4_model.cif
+ova_body_c4_06			A-C	A	346	PHE	O	A346F	C	96	ASP	OD2		2.3422722816467285	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-4/ova_body_c4_06_seed-1_sample-4_model.cif
+ova_body_c4_06			B-D	B	96	ASP	OD2		D	346	PHE	O	A346F	2.3408257961273193	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-4/ova_body_c4_06_seed-1_sample-4_model.cif
+ova_body_c4_06			B-D	B	346	PHE	O	A346F	D	96	ASP	OD2		2.3176426887512207	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_06/seed-1_sample-4/ova_body_c4_06_seed-1_sample-4_model.cif
+ova_body_c4_14			B-D	B	347	ASP	OD1	E347D	D	346	PHE	CZ	A346F	2.382322072982788	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_14/seed-1_sample-2/ova_body_c4_14_seed-1_sample-2_model.cif
+ova_body_c4_14			A-B	A	1	MET	N		B	1	MET	N		1.8951753377914429	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_14/seed-1_sample-3/ova_body_c4_14_seed-1_sample-3_model.cif
+ova_body_c4_14			A-B	A	90	GLN	NE2		B	271	TRP	CD1	S271W	2.278966188430786	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_14/seed-1_sample-3/ova_body_c4_14_seed-1_sample-3_model.cif
+ova_body_c4_14			A-B	A	271	TRP	CD1	S271W	B	90	GLN	NE2		2.357959032058716	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_14/seed-1_sample-3/ova_body_c4_14_seed-1_sample-3_model.cif
+ova_body_c4_14			C-D	C	271	TRP	CD1	S271W	D	90	GLN	NE2		2.27296781539917	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s5/ova_body_c4_14/seed-1_sample-3/ova_body_c4_14_seed-1_sample-3_model.cif

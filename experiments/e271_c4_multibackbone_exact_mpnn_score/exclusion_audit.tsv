@@ -1,0 +1,7 @@
+metric	value
+excluded_unique_sequences	1454
+source_candidates	512
+novel_ranked_candidates	480
+selected_candidates	32
+minimum_hamming_distance_used	3
+exclusion_files	154

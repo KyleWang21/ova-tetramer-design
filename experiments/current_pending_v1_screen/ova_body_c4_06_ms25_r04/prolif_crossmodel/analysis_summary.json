@@ -1,0 +1,23 @@
+{
+  "prolif_version": "2.2.1",
+  "rdkit_version": "2025.09.6",
+  "interactions": [
+    "Hydrophobic",
+    "HBDonor",
+    "HBAcceptor",
+    "Cationic",
+    "Anionic",
+    "PiStacking",
+    "CationPi",
+    "PiCation",
+    "VdWContact"
+  ],
+  "structures": {
+    "ova_body_c4_06_ms25_r04__AF3": "/root/400083/ova_p3_tetramer_design/experiments/e290_e289_top4_af3_multiseed/out_s14/ova_body_c4_06_ms25_r04/seed-4_sample-2/ova_body_c4_06_ms25_r04_seed-4_sample-2_model.cif",
+    "ova_body_c4_06_ms25_r04__Protenix": "/root/400083/ova_p3_tetramer_design/experiments/current_pending_v1_screen/ova_body_c4_06_ms25_r04/protenix_multiseed/out/ova_iptm80_ova_body_c4_06_ms25_r04_protenix/seed_11/predictions/ova_iptm80_ova_body_c4_06_ms25_r04_protenix_sample_0.cif"
+  },
+  "atom_level_events": 967,
+  "unique_residue_interaction_types": 274,
+  "top_candidate_consensus_interactions": 32,
+  "charge_model": "Lys/Arg +1; Asp/Glu -1; charged termini; neutral His; RDKit explicit H"
+}

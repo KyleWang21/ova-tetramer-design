@@ -1,0 +1,3 @@
+name	job_id	manifest	status	reason
+ky-20260901-405	152053	accelerator_20t_manifest.tsv	COMPLETED	20T_10of10_completed_without_error
+ky-20260831-365	151879	candidate_remaining_manifest.tsv	CANCELLED_AFTER_REQUIRED_OUTPUT_COMPLETE	19L_10of10_complete_and_20T_already_10of10_from_accelerator

@@ -1,0 +1,6 @@
+candidate	seed	sample	atomic_clash_count_2p4	cif_path
+AI-MULTIHIT-01	4	0	0	/root/400083/ova_p3_tetramer_design/experiments/e183_c4_multihit01_multiseed/out_s2/ova_body_c4_multihit01_ms/seed-4_sample-0/ova_body_c4_multihit01_ms_seed-4_sample-0_model.cif
+AI-MULTIHIT-01	4	1	0	/root/400083/ova_p3_tetramer_design/experiments/e183_c4_multihit01_multiseed/out_s2/ova_body_c4_multihit01_ms/seed-4_sample-1/ova_body_c4_multihit01_ms_seed-4_sample-1_model.cif
+AI-MULTIHIT-01	4	2	27	/root/400083/ova_p3_tetramer_design/experiments/e183_c4_multihit01_multiseed/out_s2/ova_body_c4_multihit01_ms/seed-4_sample-2/ova_body_c4_multihit01_ms_seed-4_sample-2_model.cif
+AI-MULTIHIT-01	4	3	3	/root/400083/ova_p3_tetramer_design/experiments/e183_c4_multihit01_multiseed/out_s2/ova_body_c4_multihit01_ms/seed-4_sample-3/ova_body_c4_multihit01_ms_seed-4_sample-3_model.cif
+AI-MULTIHIT-01	4	4	1	/root/400083/ova_p3_tetramer_design/experiments/e183_c4_multihit01_multiseed/out_s2/ova_body_c4_multihit01_ms/seed-4_sample-4/ova_body_c4_multihit01_ms_seed-4_sample-4_model.cif

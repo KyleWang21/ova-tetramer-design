@@ -1,0 +1,643 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="5257">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#172033}.label{font-size:16px}.small{font-size:13px}.title{font-size:22px;font-weight:700}</style>
+<text x="28" y="34" class="title">AF3 oligomer screen</text>
+<rect x="245" y="18" width="16" height="16" fill="#2563eb" rx="3"/>
+<text x="267" y="31" class="small">median ipTM</text>
+<rect x="430" y="18" width="16" height="16" fill="#f59e0b" rx="3"/>
+<text x="452" y="31" class="small">weak-chain ipTM</text>
+<rect x="615" y="18" width="16" height="16" fill="#16a34a" rx="3"/>
+<text x="637" y="31" class="small">all-chain fraction</text>
+<rect x="800" y="18" width="16" height="16" fill="#7c3aed" rx="3"/>
+<text x="822" y="31" class="small">OVA pLDDT / 100</text>
+<rect x="985" y="18" width="16" height="16" fill="#0891b2" rx="3"/>
+<text x="1007" y="31" class="small">interface consistency</text>
+<line x1="245.0" y1="58" x2="245.0" y2="5232" stroke="#e5e7eb"/>
+<text x="238.0" y="76" class="small">0.0</text>
+<line x1="385.0" y1="58" x2="385.0" y2="5232" stroke="#e5e7eb"/>
+<text x="378.0" y="76" class="small">0.2</text>
+<line x1="525.0" y1="58" x2="525.0" y2="5232" stroke="#e5e7eb"/>
+<text x="518.0" y="76" class="small">0.4</text>
+<line x1="665.0" y1="58" x2="665.0" y2="5232" stroke="#e5e7eb"/>
+<text x="658.0" y="76" class="small">0.6</text>
+<line x1="805.0" y1="58" x2="805.0" y2="5232" stroke="#e5e7eb"/>
+<text x="798.0" y="76" class="small">0.8</text>
+<line x1="945.0" y1="58" x2="945.0" y2="5232" stroke="#e5e7eb"/>
+<text x="938.0" y="76" class="small">1.0</text>
+<text x="28" y="120" class="label">ova_body_c4_01</text>
+<rect x="245" y="95" width="574.0" height="12" fill="#2563eb" rx="3"/>
+<text x="825.0" y="106" class="small">0.82</text>
+<rect x="245" y="112" width="553.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="804.0" y="123" class="small">0.79</text>
+<rect x="245" y="129" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="140" class="small">1.00</text>
+<rect x="245" y="146" width="628.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="879.7" y="157" class="small">0.90</text>
+<rect x="245" y="163" width="633.4" height="12" fill="#0891b2" rx="3"/>
+<text x="884.4" y="174" class="small">0.90</text>
+<text x="28" y="212" class="label">ova_body_c4_02</text>
+<rect x="245" y="187" width="588.0" height="12" fill="#2563eb" rx="3"/>
+<text x="839.0" y="198" class="small">0.84</text>
+<rect x="245" y="204" width="567.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="818.0" y="215" class="small">0.81</text>
+<rect x="245" y="221" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="232" class="small">1.00</text>
+<rect x="245" y="238" width="638.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="889.8" y="249" class="small">0.91</text>
+<rect x="245" y="255" width="657.5" height="12" fill="#0891b2" rx="3"/>
+<text x="908.5" y="266" class="small">0.94</text>
+<text x="28" y="304" class="label">ova_body_c4_03</text>
+<rect x="245" y="279" width="210.0" height="12" fill="#2563eb" rx="3"/>
+<text x="461.0" y="290" class="small">0.30</text>
+<rect x="245" y="296" width="189.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="440.0" y="307" class="small">0.27</text>
+<rect x="245" y="313" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="324" class="small">1.00</text>
+<rect x="245" y="330" width="594.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="845.1" y="341" class="small">0.85</text>
+<rect x="245" y="347" width="611.6" height="12" fill="#0891b2" rx="3"/>
+<text x="862.6" y="358" class="small">0.87</text>
+<text x="28" y="396" class="label">ova_body_c4_04</text>
+<rect x="245" y="371" width="574.0" height="12" fill="#2563eb" rx="3"/>
+<text x="825.0" y="382" class="small">0.82</text>
+<rect x="245" y="388" width="546.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="797.0" y="399" class="small">0.78</text>
+<rect x="245" y="405" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="416" class="small">1.00</text>
+<rect x="245" y="422" width="628.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="879.0" y="433" class="small">0.90</text>
+<rect x="245" y="439" width="664.1" height="12" fill="#0891b2" rx="3"/>
+<text x="915.1" y="450" class="small">0.95</text>
+<text x="28" y="488" class="label">ova_body_c4_05</text>
+<rect x="245" y="463" width="511.0" height="12" fill="#2563eb" rx="3"/>
+<text x="762.0" y="474" class="small">0.73</text>
+<rect x="245" y="480" width="490.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="741.0" y="491" class="small">0.70</text>
+<rect x="245" y="497" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="508" class="small">1.00</text>
+<rect x="245" y="514" width="621.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="872.6" y="525" class="small">0.89</text>
+<rect x="245" y="531" width="657.9" height="12" fill="#0891b2" rx="3"/>
+<text x="908.9" y="542" class="small">0.94</text>
+<text x="28" y="580" class="label">ova_body_c4_06</text>
+<rect x="245" y="555" width="574.0" height="12" fill="#2563eb" rx="3"/>
+<text x="825.0" y="566" class="small">0.82</text>
+<rect x="245" y="572" width="546.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="797.0" y="583" class="small">0.78</text>
+<rect x="245" y="589" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="600" class="small">1.00</text>
+<rect x="245" y="606" width="629.5" height="12" fill="#7c3aed" rx="3"/>
+<text x="880.5" y="617" class="small">0.90</text>
+<rect x="245" y="623" width="656.2" height="12" fill="#0891b2" rx="3"/>
+<text x="907.2" y="634" class="small">0.94</text>
+<text x="28" y="672" class="label">ova_body_c4_07</text>
+<rect x="245" y="647" width="287.0" height="12" fill="#2563eb" rx="3"/>
+<text x="538.0" y="658" class="small">0.41</text>
+<rect x="245" y="664" width="364.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="615.0" y="675" class="small">0.52</text>
+<rect x="245" y="681" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="692" class="small">1.00</text>
+<rect x="245" y="698" width="603.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="854.9" y="709" class="small">0.86</text>
+<rect x="245" y="715" width="614.2" height="12" fill="#0891b2" rx="3"/>
+<text x="865.2" y="726" class="small">0.88</text>
+<text x="28" y="764" class="label">ova_body_c4_08</text>
+<rect x="245" y="739" width="567.0" height="12" fill="#2563eb" rx="3"/>
+<text x="818.0" y="750" class="small">0.81</text>
+<rect x="245" y="756" width="539.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="790.0" y="767" class="small">0.77</text>
+<rect x="245" y="773" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="784" class="small">1.00</text>
+<rect x="245" y="790" width="628.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="879.1" y="801" class="small">0.90</text>
+<rect x="245" y="807" width="674.2" height="12" fill="#0891b2" rx="3"/>
+<text x="925.2" y="818" class="small">0.96</text>
+<text x="28" y="856" class="label">ova_body_c4_09</text>
+<rect x="245" y="831" width="539.0" height="12" fill="#2563eb" rx="3"/>
+<text x="790.0" y="842" class="small">0.77</text>
+<rect x="245" y="848" width="511.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="762.0" y="859" class="small">0.73</text>
+<rect x="245" y="865" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="876" class="small">1.00</text>
+<rect x="245" y="882" width="626.5" height="12" fill="#7c3aed" rx="3"/>
+<text x="877.5" y="893" class="small">0.90</text>
+<rect x="245" y="899" width="682.1" height="12" fill="#0891b2" rx="3"/>
+<text x="933.1" y="910" class="small">0.97</text>
+<text x="28" y="948" class="label">ova_body_c4_10</text>
+<rect x="245" y="923" width="581.0" height="12" fill="#2563eb" rx="3"/>
+<text x="832.0" y="934" class="small">0.83</text>
+<rect x="245" y="940" width="560.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="811.0" y="951" class="small">0.80</text>
+<rect x="245" y="957" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="968" class="small">1.00</text>
+<rect x="245" y="974" width="631.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="882.2" y="985" class="small">0.90</text>
+<rect x="245" y="991" width="665.8" height="12" fill="#0891b2" rx="3"/>
+<text x="916.8" y="1002" class="small">0.95</text>
+<text x="28" y="1040" class="label">ova_body_c4_11</text>
+<rect x="245" y="1015" width="560.0" height="12" fill="#2563eb" rx="3"/>
+<text x="811.0" y="1026" class="small">0.80</text>
+<rect x="245" y="1032" width="532.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="783.0" y="1043" class="small">0.76</text>
+<rect x="245" y="1049" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1060" class="small">1.00</text>
+<rect x="245" y="1066" width="630.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="881.1" y="1077" class="small">0.90</text>
+<rect x="245" y="1083" width="649.4" height="12" fill="#0891b2" rx="3"/>
+<text x="900.4" y="1094" class="small">0.93</text>
+<text x="28" y="1132" class="label">ova_body_c4_12</text>
+<rect x="245" y="1107" width="259.0" height="12" fill="#2563eb" rx="3"/>
+<text x="510.0" y="1118" class="small">0.37</text>
+<rect x="245" y="1124" width="322.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="573.0" y="1135" class="small">0.46</text>
+<rect x="245" y="1141" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1152" class="small">1.00</text>
+<rect x="245" y="1158" width="600.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="851.9" y="1169" class="small">0.86</text>
+<rect x="245" y="1175" width="560.8" height="12" fill="#0891b2" rx="3"/>
+<text x="811.8" y="1186" class="small">0.80</text>
+<text x="28" y="1224" class="label">ova_body_c4_13</text>
+<rect x="245" y="1199" width="280.0" height="12" fill="#2563eb" rx="3"/>
+<text x="531.0" y="1210" class="small">0.40</text>
+<rect x="245" y="1216" width="392.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="643.0" y="1227" class="small">0.56</text>
+<rect x="245" y="1233" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1244" class="small">1.00</text>
+<rect x="245" y="1250" width="607.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="858.2" y="1261" class="small">0.87</text>
+<rect x="245" y="1267" width="616.3" height="12" fill="#0891b2" rx="3"/>
+<text x="867.3" y="1278" class="small">0.88</text>
+<text x="28" y="1316" class="label">ova_body_c4_14</text>
+<rect x="245" y="1291" width="210.0" height="12" fill="#2563eb" rx="3"/>
+<text x="461.0" y="1302" class="small">0.30</text>
+<rect x="245" y="1308" width="196.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="447.0" y="1319" class="small">0.28</text>
+<rect x="245" y="1325" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1336" class="small">1.00</text>
+<rect x="245" y="1342" width="593.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="844.2" y="1353" class="small">0.85</text>
+<rect x="245" y="1359" width="528.6" height="12" fill="#0891b2" rx="3"/>
+<text x="779.6" y="1370" class="small">0.76</text>
+<text x="28" y="1408" class="label">ova_body_c4_15</text>
+<rect x="245" y="1383" width="252.0" height="12" fill="#2563eb" rx="3"/>
+<text x="503.0" y="1394" class="small">0.36</text>
+<rect x="245" y="1400" width="308.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="559.0" y="1411" class="small">0.44</text>
+<rect x="245" y="1417" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1428" class="small">1.00</text>
+<rect x="245" y="1434" width="600.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="851.0" y="1445" class="small">0.86</text>
+<rect x="245" y="1451" width="511.8" height="12" fill="#0891b2" rx="3"/>
+<text x="762.8" y="1462" class="small">0.73</text>
+<text x="28" y="1500" class="label">ova_body_c4_16</text>
+<rect x="245" y="1475" width="147.0" height="12" fill="#2563eb" rx="3"/>
+<text x="398.0" y="1486" class="small">0.21</text>
+<rect x="245" y="1492" width="112.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="363.0" y="1503" class="small">0.16</text>
+<rect x="245" y="1509" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1520" class="small">1.00</text>
+<rect x="245" y="1526" width="593.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="844.6" y="1537" class="small">0.85</text>
+<rect x="245" y="1543" width="349.9" height="12" fill="#0891b2" rx="3"/>
+<text x="600.9" y="1554" class="small">0.50</text>
+<text x="28" y="1592" class="label">ova_body_c4_17</text>
+<rect x="245" y="1567" width="217.0" height="12" fill="#2563eb" rx="3"/>
+<text x="468.0" y="1578" class="small">0.31</text>
+<rect x="245" y="1584" width="252.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="503.0" y="1595" class="small">0.36</text>
+<rect x="245" y="1601" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1612" class="small">1.00</text>
+<rect x="245" y="1618" width="607.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="858.9" y="1629" class="small">0.87</text>
+<rect x="245" y="1635" width="562.0" height="12" fill="#0891b2" rx="3"/>
+<text x="813.0" y="1646" class="small">0.80</text>
+<text x="28" y="1684" class="label">ova_body_c4_18</text>
+<rect x="245" y="1659" width="476.0" height="12" fill="#2563eb" rx="3"/>
+<text x="727.0" y="1670" class="small">0.68</text>
+<rect x="245" y="1676" width="539.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="790.0" y="1687" class="small">0.77</text>
+<rect x="245" y="1693" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1704" class="small">1.00</text>
+<rect x="245" y="1710" width="619.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="870.1" y="1721" class="small">0.88</text>
+<rect x="245" y="1727" width="596.0" height="12" fill="#0891b2" rx="3"/>
+<text x="847.0" y="1738" class="small">0.85</text>
+<text x="28" y="1776" class="label">ova_body_c4_19</text>
+<rect x="245" y="1751" width="581.0" height="12" fill="#2563eb" rx="3"/>
+<text x="832.0" y="1762" class="small">0.83</text>
+<rect x="245" y="1768" width="553.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="804.0" y="1779" class="small">0.79</text>
+<rect x="245" y="1785" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1796" class="small">1.00</text>
+<rect x="245" y="1802" width="629.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="880.7" y="1813" class="small">0.90</text>
+<rect x="245" y="1819" width="633.4" height="12" fill="#0891b2" rx="3"/>
+<text x="884.4" y="1830" class="small">0.90</text>
+<text x="28" y="1868" class="label">ova_body_c4_20</text>
+<rect x="245" y="1843" width="560.0" height="12" fill="#2563eb" rx="3"/>
+<text x="811.0" y="1854" class="small">0.80</text>
+<rect x="245" y="1860" width="532.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="783.0" y="1871" class="small">0.76</text>
+<rect x="245" y="1877" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1888" class="small">1.00</text>
+<rect x="245" y="1894" width="628.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="879.9" y="1905" class="small">0.90</text>
+<rect x="245" y="1911" width="682.5" height="12" fill="#0891b2" rx="3"/>
+<text x="933.5" y="1922" class="small">0.97</text>
+<text x="28" y="1960" class="label">ova_body_c4_21</text>
+<rect x="245" y="1935" width="567.0" height="12" fill="#2563eb" rx="3"/>
+<text x="818.0" y="1946" class="small">0.81</text>
+<rect x="245" y="1952" width="546.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="797.0" y="1963" class="small">0.78</text>
+<rect x="245" y="1969" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1980" class="small">1.00</text>
+<rect x="245" y="1986" width="631.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="882.7" y="1997" class="small">0.90</text>
+<rect x="245" y="2003" width="637.1" height="12" fill="#0891b2" rx="3"/>
+<text x="888.1" y="2014" class="small">0.91</text>
+<text x="28" y="2052" class="label">ova_body_c4_22</text>
+<rect x="245" y="2027" width="567.0" height="12" fill="#2563eb" rx="3"/>
+<text x="818.0" y="2038" class="small">0.81</text>
+<rect x="245" y="2044" width="546.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="797.0" y="2055" class="small">0.78</text>
+<rect x="245" y="2061" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2072" class="small">1.00</text>
+<rect x="245" y="2078" width="631.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="882.0" y="2089" class="small">0.90</text>
+<rect x="245" y="2095" width="674.2" height="12" fill="#0891b2" rx="3"/>
+<text x="925.2" y="2106" class="small">0.96</text>
+<text x="28" y="2144" class="label">ova_body_c4_23</text>
+<rect x="245" y="2119" width="581.0" height="12" fill="#2563eb" rx="3"/>
+<text x="832.0" y="2130" class="small">0.83</text>
+<rect x="245" y="2136" width="553.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="804.0" y="2147" class="small">0.79</text>
+<rect x="245" y="2153" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2164" class="small">1.00</text>
+<rect x="245" y="2170" width="631.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="882.6" y="2181" class="small">0.90</text>
+<rect x="245" y="2187" width="608.3" height="12" fill="#0891b2" rx="3"/>
+<text x="859.3" y="2198" class="small">0.87</text>
+<text x="28" y="2236" class="label">ova_body_c4_24</text>
+<rect x="245" y="2211" width="441.0" height="12" fill="#2563eb" rx="3"/>
+<text x="692.0" y="2222" class="small">0.63</text>
+<rect x="245" y="2228" width="413.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="664.0" y="2239" class="small">0.59</text>
+<rect x="245" y="2245" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2256" class="small">1.00</text>
+<rect x="245" y="2262" width="623.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="874.1" y="2273" class="small">0.89</text>
+<rect x="245" y="2279" width="597.7" height="12" fill="#0891b2" rx="3"/>
+<text x="848.7" y="2290" class="small">0.85</text>
+<text x="28" y="2328" class="label">ova_body_c4_25</text>
+<rect x="245" y="2303" width="273.0" height="12" fill="#2563eb" rx="3"/>
+<text x="524.0" y="2314" class="small">0.39</text>
+<rect x="245" y="2320" width="371.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="622.0" y="2331" class="small">0.53</text>
+<rect x="245" y="2337" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2348" class="small">1.00</text>
+<rect x="245" y="2354" width="607.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="858.7" y="2365" class="small">0.87</text>
+<rect x="245" y="2371" width="630.0" height="12" fill="#0891b2" rx="3"/>
+<text x="881.0" y="2382" class="small">0.90</text>
+<text x="28" y="2420" class="label">ova_body_c4_26</text>
+<rect x="245" y="2395" width="525.0" height="12" fill="#2563eb" rx="3"/>
+<text x="776.0" y="2406" class="small">0.75</text>
+<rect x="245" y="2412" width="497.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="748.0" y="2423" class="small">0.71</text>
+<rect x="245" y="2429" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2440" class="small">1.00</text>
+<rect x="245" y="2446" width="628.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="879.3" y="2457" class="small">0.90</text>
+<rect x="245" y="2463" width="674.2" height="12" fill="#0891b2" rx="3"/>
+<text x="925.2" y="2474" class="small">0.96</text>
+<text x="28" y="2512" class="label">ova_body_c4_27</text>
+<rect x="245" y="2487" width="574.0" height="12" fill="#2563eb" rx="3"/>
+<text x="825.0" y="2498" class="small">0.82</text>
+<rect x="245" y="2504" width="553.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="804.0" y="2515" class="small">0.79</text>
+<rect x="245" y="2521" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2532" class="small">1.00</text>
+<rect x="245" y="2538" width="628.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="879.9" y="2549" class="small">0.90</text>
+<rect x="245" y="2555" width="602.4" height="12" fill="#0891b2" rx="3"/>
+<text x="853.4" y="2566" class="small">0.86</text>
+<text x="28" y="2604" class="label">ova_body_c4_28</text>
+<rect x="245" y="2579" width="140.0" height="12" fill="#2563eb" rx="3"/>
+<text x="391.0" y="2590" class="small">0.20</text>
+<rect x="245" y="2596" width="105.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="356.0" y="2607" class="small">0.15</text>
+<rect x="245" y="2613" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2624" class="small">1.00</text>
+<rect x="245" y="2630" width="588.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="839.7" y="2641" class="small">0.84</text>
+<rect x="245" y="2647" width="304.5" height="12" fill="#0891b2" rx="3"/>
+<text x="555.5" y="2658" class="small">0.43</text>
+<text x="28" y="2696" class="label">ova_body_c4_29</text>
+<rect x="245" y="2671" width="133.0" height="12" fill="#2563eb" rx="3"/>
+<text x="384.0" y="2682" class="small">0.19</text>
+<rect x="245" y="2688" width="98.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="349.0" y="2699" class="small">0.14</text>
+<rect x="245" y="2705" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2716" class="small">1.00</text>
+<rect x="245" y="2722" width="593.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="844.0" y="2733" class="small">0.85</text>
+<rect x="245" y="2739" width="311.6" height="12" fill="#0891b2" rx="3"/>
+<text x="562.6" y="2750" class="small">0.45</text>
+<text x="28" y="2788" class="label">ova_body_c4_30</text>
+<rect x="245" y="2763" width="581.0" height="12" fill="#2563eb" rx="3"/>
+<text x="832.0" y="2774" class="small">0.83</text>
+<rect x="245" y="2780" width="560.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="811.0" y="2791" class="small">0.80</text>
+<rect x="245" y="2797" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2808" class="small">1.00</text>
+<rect x="245" y="2814" width="631.5" height="12" fill="#7c3aed" rx="3"/>
+<text x="882.5" y="2825" class="small">0.90</text>
+<rect x="245" y="2831" width="664.1" height="12" fill="#0891b2" rx="3"/>
+<text x="915.1" y="2842" class="small">0.95</text>
+<text x="28" y="2880" class="label">ova_body_c4_31</text>
+<rect x="245" y="2855" width="357.0" height="12" fill="#2563eb" rx="3"/>
+<text x="608.0" y="2866" class="small">0.51</text>
+<rect x="245" y="2872" width="350.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="601.0" y="2883" class="small">0.50</text>
+<rect x="245" y="2889" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2900" class="small">1.00</text>
+<rect x="245" y="2906" width="601.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="852.3" y="2917" class="small">0.86</text>
+<rect x="245" y="2923" width="545.1" height="12" fill="#0891b2" rx="3"/>
+<text x="796.1" y="2934" class="small">0.78</text>
+<text x="28" y="2972" class="label">ova_body_c4_32</text>
+<rect x="245" y="2947" width="266.0" height="12" fill="#2563eb" rx="3"/>
+<text x="517.0" y="2958" class="small">0.38</text>
+<rect x="245" y="2964" width="357.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="608.0" y="2975" class="small">0.51</text>
+<rect x="245" y="2981" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2992" class="small">1.00</text>
+<rect x="245" y="2998" width="608.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="859.6" y="3009" class="small">0.87</text>
+<rect x="245" y="3015" width="581.0" height="12" fill="#0891b2" rx="3"/>
+<text x="832.0" y="3026" class="small">0.83</text>
+<text x="28" y="3064" class="label">ova_body_c4_33</text>
+<rect x="245" y="3039" width="217.0" height="12" fill="#2563eb" rx="3"/>
+<text x="468.0" y="3050" class="small">0.31</text>
+<rect x="245" y="3056" width="224.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="475.0" y="3067" class="small">0.32</text>
+<rect x="245" y="3073" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3084" class="small">1.00</text>
+<rect x="245" y="3090" width="603.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="854.1" y="3101" class="small">0.86</text>
+<rect x="245" y="3107" width="525.2" height="12" fill="#0891b2" rx="3"/>
+<text x="776.2" y="3118" class="small">0.75</text>
+<text x="28" y="3156" class="label">ova_body_c4_34</text>
+<rect x="245" y="3131" width="546.0" height="12" fill="#2563eb" rx="3"/>
+<text x="797.0" y="3142" class="small">0.78</text>
+<rect x="245" y="3148" width="511.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="762.0" y="3159" class="small">0.73</text>
+<rect x="245" y="3165" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3176" class="small">1.00</text>
+<rect x="245" y="3182" width="627.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="878.9" y="3193" class="small">0.90</text>
+<rect x="245" y="3199" width="666.7" height="12" fill="#0891b2" rx="3"/>
+<text x="917.7" y="3210" class="small">0.95</text>
+<text x="28" y="3248" class="label">ova_body_c4_35</text>
+<rect x="245" y="3223" width="238.0" height="12" fill="#2563eb" rx="3"/>
+<text x="489.0" y="3234" class="small">0.34</text>
+<rect x="245" y="3240" width="266.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="517.0" y="3251" class="small">0.38</text>
+<rect x="245" y="3257" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3268" class="small">1.00</text>
+<rect x="245" y="3274" width="610.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="861.1" y="3285" class="small">0.87</text>
+<rect x="245" y="3291" width="544.5" height="12" fill="#0891b2" rx="3"/>
+<text x="795.5" y="3302" class="small">0.78</text>
+<text x="28" y="3340" class="label">ova_body_c4_36</text>
+<rect x="245" y="3315" width="203.0" height="12" fill="#2563eb" rx="3"/>
+<text x="454.0" y="3326" class="small">0.29</text>
+<rect x="245" y="3332" width="252.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="503.0" y="3343" class="small">0.36</text>
+<rect x="245" y="3349" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3360" class="small">1.00</text>
+<rect x="245" y="3366" width="599.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="850.9" y="3377" class="small">0.86</text>
+<rect x="245" y="3383" width="542.5" height="12" fill="#0891b2" rx="3"/>
+<text x="793.5" y="3394" class="small">0.78</text>
+<text x="28" y="3432" class="label">ova_body_c4_37</text>
+<rect x="245" y="3407" width="511.0" height="12" fill="#2563eb" rx="3"/>
+<text x="762.0" y="3418" class="small">0.73</text>
+<rect x="245" y="3424" width="483.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="734.0" y="3435" class="small">0.69</text>
+<rect x="245" y="3441" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3452" class="small">1.00</text>
+<rect x="245" y="3458" width="626.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="877.2" y="3469" class="small">0.89</text>
+<rect x="245" y="3475" width="587.4" height="12" fill="#0891b2" rx="3"/>
+<text x="838.4" y="3486" class="small">0.84</text>
+<text x="28" y="3524" class="label">ova_body_c4_38</text>
+<rect x="245" y="3499" width="217.0" height="12" fill="#2563eb" rx="3"/>
+<text x="468.0" y="3510" class="small">0.31</text>
+<rect x="245" y="3516" width="266.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="517.0" y="3527" class="small">0.38</text>
+<rect x="245" y="3533" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3544" class="small">1.00</text>
+<rect x="245" y="3550" width="610.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="861.3" y="3561" class="small">0.87</text>
+<rect x="245" y="3567" width="447.3" height="12" fill="#0891b2" rx="3"/>
+<text x="698.3" y="3578" class="small">0.64</text>
+<text x="28" y="3616" class="label">ova_body_c4_39</text>
+<rect x="245" y="3591" width="567.0" height="12" fill="#2563eb" rx="3"/>
+<text x="818.0" y="3602" class="small">0.81</text>
+<rect x="245" y="3608" width="546.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="797.0" y="3619" class="small">0.78</text>
+<rect x="245" y="3625" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3636" class="small">1.00</text>
+<rect x="245" y="3642" width="629.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="880.1" y="3653" class="small">0.90</text>
+<rect x="245" y="3659" width="643.0" height="12" fill="#0891b2" rx="3"/>
+<text x="894.0" y="3670" class="small">0.92</text>
+<text x="28" y="3708" class="label">ova_body_c4_40</text>
+<rect x="245" y="3683" width="371.0" height="12" fill="#2563eb" rx="3"/>
+<text x="622.0" y="3694" class="small">0.53</text>
+<rect x="245" y="3700" width="385.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="636.0" y="3711" class="small">0.55</text>
+<rect x="245" y="3717" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3728" class="small">1.00</text>
+<rect x="245" y="3734" width="615.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="866.4" y="3745" class="small">0.88</text>
+<rect x="245" y="3751" width="555.0" height="12" fill="#0891b2" rx="3"/>
+<text x="806.0" y="3762" class="small">0.79</text>
+<text x="28" y="3800" class="label">ova_body_c4_41</text>
+<rect x="245" y="3775" width="574.0" height="12" fill="#2563eb" rx="3"/>
+<text x="825.0" y="3786" class="small">0.82</text>
+<rect x="245" y="3792" width="546.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="797.0" y="3803" class="small">0.78</text>
+<rect x="245" y="3809" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3820" class="small">1.00</text>
+<rect x="245" y="3826" width="627.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="878.6" y="3837" class="small">0.90</text>
+<rect x="245" y="3843" width="615.9" height="12" fill="#0891b2" rx="3"/>
+<text x="866.9" y="3854" class="small">0.88</text>
+<text x="28" y="3892" class="label">ova_body_c4_42</text>
+<rect x="245" y="3867" width="140.0" height="12" fill="#2563eb" rx="3"/>
+<text x="391.0" y="3878" class="small">0.20</text>
+<rect x="245" y="3884" width="105.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="356.0" y="3895" class="small">0.15</text>
+<rect x="245" y="3901" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3912" class="small">1.00</text>
+<rect x="245" y="3918" width="599.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="850.8" y="3929" class="small">0.86</text>
+<rect x="245" y="3935" width="334.8" height="12" fill="#0891b2" rx="3"/>
+<text x="585.8" y="3946" class="small">0.48</text>
+<text x="28" y="3984" class="label">ova_body_c4_43</text>
+<rect x="245" y="3959" width="581.0" height="12" fill="#2563eb" rx="3"/>
+<text x="832.0" y="3970" class="small">0.83</text>
+<rect x="245" y="3976" width="553.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="804.0" y="3987" class="small">0.79</text>
+<rect x="245" y="3993" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4004" class="small">1.00</text>
+<rect x="245" y="4010" width="633.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="884.2" y="4021" class="small">0.90</text>
+<rect x="245" y="4027" width="625.9" height="12" fill="#0891b2" rx="3"/>
+<text x="876.9" y="4038" class="small">0.89</text>
+<text x="28" y="4076" class="label">ova_body_c4_44</text>
+<rect x="245" y="4051" width="546.0" height="12" fill="#2563eb" rx="3"/>
+<text x="797.0" y="4062" class="small">0.78</text>
+<rect x="245" y="4068" width="518.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="769.0" y="4079" class="small">0.74</text>
+<rect x="245" y="4085" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4096" class="small">1.00</text>
+<rect x="245" y="4102" width="627.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="878.4" y="4113" class="small">0.90</text>
+<rect x="245" y="4119" width="634.1" height="12" fill="#0891b2" rx="3"/>
+<text x="885.1" y="4130" class="small">0.91</text>
+<text x="28" y="4168" class="label">ova_body_c4_45</text>
+<rect x="245" y="4143" width="287.0" height="12" fill="#2563eb" rx="3"/>
+<text x="538.0" y="4154" class="small">0.41</text>
+<rect x="245" y="4160" width="420.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="671.0" y="4171" class="small">0.60</text>
+<rect x="245" y="4177" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4188" class="small">1.00</text>
+<rect x="245" y="4194" width="612.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="863.7" y="4205" class="small">0.88</text>
+<rect x="245" y="4211" width="602.5" height="12" fill="#0891b2" rx="3"/>
+<text x="853.5" y="4222" class="small">0.86</text>
+<text x="28" y="4260" class="label">ova_body_c4_46</text>
+<rect x="245" y="4235" width="567.0" height="12" fill="#2563eb" rx="3"/>
+<text x="818.0" y="4246" class="small">0.81</text>
+<rect x="245" y="4252" width="546.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="797.0" y="4263" class="small">0.78</text>
+<rect x="245" y="4269" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4280" class="small">1.00</text>
+<rect x="245" y="4286" width="630.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="881.0" y="4297" class="small">0.90</text>
+<rect x="245" y="4303" width="617.5" height="12" fill="#0891b2" rx="3"/>
+<text x="868.5" y="4314" class="small">0.88</text>
+<text x="28" y="4352" class="label">ova_body_c4_47</text>
+<rect x="245" y="4327" width="595.0" height="12" fill="#2563eb" rx="3"/>
+<text x="846.0" y="4338" class="small">0.85</text>
+<rect x="245" y="4344" width="567.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="818.0" y="4355" class="small">0.81</text>
+<rect x="245" y="4361" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4372" class="small">1.00</text>
+<rect x="245" y="4378" width="636.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="887.7" y="4389" class="small">0.91</text>
+<rect x="245" y="4395" width="658.1" height="12" fill="#0891b2" rx="3"/>
+<text x="909.1" y="4406" class="small">0.94</text>
+<text x="28" y="4444" class="label">ova_body_c4_48</text>
+<rect x="245" y="4419" width="574.0" height="12" fill="#2563eb" rx="3"/>
+<text x="825.0" y="4430" class="small">0.82</text>
+<rect x="245" y="4436" width="553.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="804.0" y="4447" class="small">0.79</text>
+<rect x="245" y="4453" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4464" class="small">1.00</text>
+<rect x="245" y="4470" width="631.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="882.7" y="4481" class="small">0.90</text>
+<rect x="245" y="4487" width="623.5" height="12" fill="#0891b2" rx="3"/>
+<text x="874.5" y="4498" class="small">0.89</text>
+<text x="28" y="4536" class="label">ova_body_c4_100</text>
+<rect x="245" y="4511" width="567.0" height="12" fill="#2563eb" rx="3"/>
+<text x="818.0" y="4522" class="small">0.81</text>
+<rect x="245" y="4528" width="539.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="790.0" y="4539" class="small">0.77</text>
+<rect x="245" y="4545" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4556" class="small">1.00</text>
+<rect x="245" y="4562" width="627.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="878.6" y="4573" class="small">0.90</text>
+<rect x="245" y="4579" width="607.0" height="12" fill="#0891b2" rx="3"/>
+<text x="858.0" y="4590" class="small">0.87</text>
+<text x="28" y="4628" class="label">ova_body_c4_101</text>
+<rect x="245" y="4603" width="574.0" height="12" fill="#2563eb" rx="3"/>
+<text x="825.0" y="4614" class="small">0.82</text>
+<rect x="245" y="4620" width="546.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="797.0" y="4631" class="small">0.78</text>
+<rect x="245" y="4637" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4648" class="small">1.00</text>
+<rect x="245" y="4654" width="624.5" height="12" fill="#7c3aed" rx="3"/>
+<text x="875.5" y="4665" class="small">0.89</text>
+<rect x="245" y="4671" width="631.4" height="12" fill="#0891b2" rx="3"/>
+<text x="882.4" y="4682" class="small">0.90</text>
+<text x="28" y="4720" class="label">ova_body_c4_102</text>
+<rect x="245" y="4695" width="581.0" height="12" fill="#2563eb" rx="3"/>
+<text x="832.0" y="4706" class="small">0.83</text>
+<rect x="245" y="4712" width="553.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="804.0" y="4723" class="small">0.79</text>
+<rect x="245" y="4729" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4740" class="small">1.00</text>
+<rect x="245" y="4746" width="631.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="882.7" y="4757" class="small">0.90</text>
+<rect x="245" y="4763" width="640.4" height="12" fill="#0891b2" rx="3"/>
+<text x="891.4" y="4774" class="small">0.91</text>
+<text x="28" y="4812" class="label">ova_body_c4_103</text>
+<rect x="245" y="4787" width="595.0" height="12" fill="#2563eb" rx="3"/>
+<text x="846.0" y="4798" class="small">0.85</text>
+<rect x="245" y="4804" width="567.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="818.0" y="4815" class="small">0.81</text>
+<rect x="245" y="4821" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4832" class="small">1.00</text>
+<rect x="245" y="4838" width="636.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="887.4" y="4849" class="small">0.91</text>
+<rect x="245" y="4855" width="665.4" height="12" fill="#0891b2" rx="3"/>
+<text x="916.4" y="4866" class="small">0.95</text>
+<text x="28" y="4904" class="label">ova_body_c4_104</text>
+<rect x="245" y="4879" width="567.0" height="12" fill="#2563eb" rx="3"/>
+<text x="818.0" y="4890" class="small">0.81</text>
+<rect x="245" y="4896" width="546.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="797.0" y="4907" class="small">0.78</text>
+<rect x="245" y="4913" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4924" class="small">1.00</text>
+<rect x="245" y="4930" width="628.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="879.9" y="4941" class="small">0.90</text>
+<rect x="245" y="4947" width="636.3" height="12" fill="#0891b2" rx="3"/>
+<text x="887.3" y="4958" class="small">0.91</text>
+<text x="28" y="4996" class="label">ova_body_c4_105</text>
+<rect x="245" y="4971" width="574.0" height="12" fill="#2563eb" rx="3"/>
+<text x="825.0" y="4982" class="small">0.82</text>
+<rect x="245" y="4988" width="553.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="804.0" y="4999" class="small">0.79</text>
+<rect x="245" y="5005" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5016" class="small">1.00</text>
+<rect x="245" y="5022" width="628.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="879.2" y="5033" class="small">0.90</text>
+<rect x="245" y="5039" width="634.9" height="12" fill="#0891b2" rx="3"/>
+<text x="885.9" y="5050" class="small">0.91</text>
+<text x="28" y="5088" class="label">ova_body_c4_106</text>
+<rect x="245" y="5063" width="574.0" height="12" fill="#2563eb" rx="3"/>
+<text x="825.0" y="5074" class="small">0.82</text>
+<rect x="245" y="5080" width="553.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="804.0" y="5091" class="small">0.79</text>
+<rect x="245" y="5097" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5108" class="small">1.00</text>
+<rect x="245" y="5114" width="626.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="877.6" y="5125" class="small">0.90</text>
+<rect x="245" y="5131" width="650.0" height="12" fill="#0891b2" rx="3"/>
+<text x="901.0" y="5142" class="small">0.93</text>
+<text x="28" y="5180" class="label">ova_body_c4_107</text>
+<rect x="245" y="5155" width="567.0" height="12" fill="#2563eb" rx="3"/>
+<text x="818.0" y="5166" class="small">0.81</text>
+<rect x="245" y="5172" width="539.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="790.0" y="5183" class="small">0.77</text>
+<rect x="245" y="5189" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5200" class="small">1.00</text>
+<rect x="245" y="5206" width="627.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="878.8" y="5217" class="small">0.90</text>
+<rect x="245" y="5223" width="605.0" height="12" fill="#0891b2" rx="3"/>
+<text x="856.0" y="5234" class="small">0.86</text>
+</svg>

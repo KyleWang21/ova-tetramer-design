@@ -1,0 +1,9 @@
+system	residue_pair	residue_names	models_with_clash	model_names	atom_pair_count	mutation_involved
+ova_body_c4_03	343-343	LEU	1	seed-1_sample-0	2	1
+ova_body_c4_05	340-345	ARG,GLU	1	seed-1_sample-2	4	1
+ova_body_c4_10	354-354	TRP	1	seed-1_sample-1	1	1
+ova_body_c4_11	343-343	LEU	1	seed-1_sample-1	2	1
+ova_body_c4_12	354-354	TRP	2	seed-1_sample-1,seed-1_sample-3	6	1
+ova_body_c4_12	353-354	ALA,TRP	1	seed-1_sample-1	4	1
+ova_body_c4_15	353-354	ALA,TRP	1	seed-1_sample-2	12	1
+ova_body_c4_15	354-354	TRP	1	seed-1_sample-3	5	1

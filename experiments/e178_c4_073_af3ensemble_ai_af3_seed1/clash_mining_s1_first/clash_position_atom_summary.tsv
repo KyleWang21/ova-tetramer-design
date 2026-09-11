@@ -1,0 +1,4 @@
+position_1	resname_1	atom_1	position_2	resname_2	atom_2	candidate_count	model_count	event_count	min_distance_a	median_distance_a	candidates
+339	GLY	O	342	PHE	CD2	1	3	9	2.210526704788208	2.35394024848938	ova_body_c4_02
+187	LYS	NZ	346	PHE	CE2	1	2	5	2.253394603729248	2.3171908855438232	ova_body_c4_02
+346	PHE	CE1	350	ILE	CD1	1	1	2	2.3113527297973633	2.3142558336257935	ova_body_c4_02

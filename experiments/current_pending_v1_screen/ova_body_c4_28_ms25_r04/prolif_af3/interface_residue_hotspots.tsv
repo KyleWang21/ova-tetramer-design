@@ -1,0 +1,115 @@
+source	candidate	chain	resname	position	mutation	interaction_types	Hydrophobic	HydrogenBond	SaltBridge	PiStacking	CationPi	VdWContact
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	PHE	192		7	2	0	0	0	0	5
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	PHE	192		7	2	0	0	0	0	5
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	PHE	192		7	2	0	0	0	0	5
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	PHE	192		7	2	0	0	0	0	5
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	TRP	271	S271W	6	3	0	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	TRP	271	S271W	6	3	0	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	ASP	86		5	2	1	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	ASP	96		5	0	1	1	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	TRP	271	S271W	5	3	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	PHE	346	A346F	5	2	0	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	ASP	86		5	2	1	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	ASP	96		5	0	1	1	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	PHE	346	A346F	5	2	0	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	ASP	86		5	2	1	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	ASP	96		5	0	1	1	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	TYR	191	A191Y	5	0	2	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	TRP	271	S271W	5	2	0	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	PHE	346	A346F	5	2	0	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	ASP	86		5	2	1	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	ASP	96		5	0	1	1	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	TYR	191	A191Y	5	0	2	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	PHE	346	A346F	5	2	0	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	HIS	182	K182H	4	1	1	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	TYR	191	A191Y	4	0	2	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	VAL	342		4	1	0	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	HIS	182	K182H	4	1	1	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	TYR	191	A191Y	4	0	2	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	VAL	342		4	1	0	0	0	0	3
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	HIS	182	K182H	4	1	1	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	HIS	182	K182H	4	1	1	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	LEU	184		3	1	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	LYS	190		3	0	1	1	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	LEU	217		3	1	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	ASN	272		3	1	1	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	TRP	354	S354W	3	1	0	0	1	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	LEU	184		3	1	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	LYS	190		3	0	1	1	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	ASN	272		3	1	1	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	TRP	354	S354W	3	1	0	0	1	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	LEU	184		3	1	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	LYS	190		3	0	1	1	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	ASN	272		3	1	1	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	TRP	354	S354W	3	1	0	0	1	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	LEU	184		3	1	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	LYS	190		3	0	1	1	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	LEU	217		3	1	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	ASN	272		3	1	1	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	VAL	342		3	1	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	TRP	354	S354W	3	1	0	0	1	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	ILE	87		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	VAL	97		2	0	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	ASN	336		2	0	1	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	ARG	340		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	ILE	350	V350I	2	0	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	ILE	87		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	VAL	97		2	0	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	LEU	217		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	ASN	336		2	0	1	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	ARG	340		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	ILE	87		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	VAL	97		2	0	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	LEU	217		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	ASN	336		2	0	1	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	ARG	340		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	VAL	342		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	ILE	87		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	VAL	97		2	0	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	ASN	336		2	0	1	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	ARG	340		2	1	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	ALA	349	G349A	2	0	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	ILE	350	V350I	2	0	0	0	0	0	2
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	GLN	90		1	1	0	0	0	0	0
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	LYS	93		1	0	0	1	0	0	0
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	TYR	98		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	GLY	216		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	GLU	275		1	0	0	1	0	0	0
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	LEU	278	K278L	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	GLY	344		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	GLU	345	S345E	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	THR	347	E347T	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	ALA	348		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	ALA	349	G349A	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	A	THR	374		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	GLN	90		1	1	0	0	0	0	0
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	LYS	93		1	0	0	1	0	0	0
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	TYR	98		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	GLY	216		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	GLU	275		1	0	0	1	0	0	0
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	GLY	339		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	GLY	344		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	GLU	345	S345E	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	THR	347	E347T	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	ALA	348		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	B	ILE	350	V350I	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	GLN	90		1	1	0	0	0	0	0
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	LYS	93		1	0	0	1	0	0	0
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	TYR	98		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	GLY	216		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	GLY	339		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	GLY	344		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	GLU	345	S345E	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	THR	347	E347T	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	ALA	348		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	ILE	350	V350I	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	C	THR	374		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	TYR	98		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	GLY	216		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	GLU	275		1	0	0	1	0	0	0
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	GLY	339		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	GLY	344		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	GLU	345	S345E	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	THR	347	E347T	1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	ALA	348		1	0	0	0	0	0	1
+ova_body_c4_28_ms25_r04__AF3	ova_body_c4_28_ms25_r04	D	THR	374		1	0	0	0	0	0	1

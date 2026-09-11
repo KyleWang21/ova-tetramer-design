@@ -1,0 +1,99 @@
+{
+  "plddt": 83.84223937988281,
+  "ptm": 0.5428053736686707,
+  "iptm": 0.4107922315597534,
+  "has_clash": false,
+  "chain_pair_iptm": [
+    [
+      0.0,
+      0.22337456047534943,
+      0.29066944122314453,
+      0.508136510848999
+    ],
+    [
+      0.22337456047534943,
+      0.0,
+      0.5036317110061646,
+      0.29443609714508057
+    ],
+    [
+      0.29066944122314453,
+      0.5036317110061646,
+      0.0,
+      0.22192378342151642
+    ],
+    [
+      0.508136510848999,
+      0.29443609714508057,
+      0.22192378342151642,
+      0.0
+    ]
+  ],
+  "min_incident_iptm": 0.5036317110061646,
+  "contacts_8a": {
+    "A-B": 2,
+    "A-C": 42,
+    "A-D": 58,
+    "B-C": 63,
+    "B-D": 43,
+    "C-D": 2
+  },
+  "contact_edges": [
+    "A-C",
+    "A-D",
+    "B-C",
+    "B-D"
+  ],
+  "largest_component": 4,
+  "full_connected": true,
+  "native_c74_c121_bonds": 4,
+  "interchain_ss_bonds": 0,
+  "close_ss": [
+    {
+      "left": [
+        "A",
+        74
+      ],
+      "right": [
+        "A",
+        121
+      ],
+      "distance_a": 1.8972561359405518
+    },
+    {
+      "left": [
+        "B",
+        74
+      ],
+      "right": [
+        "B",
+        121
+      ],
+      "distance_a": 2.0008397102355957
+    },
+    {
+      "left": [
+        "C",
+        74
+      ],
+      "right": [
+        "C",
+        121
+      ],
+      "distance_a": 1.9343963861465454
+    },
+    {
+      "left": [
+        "D",
+        74
+      ],
+      "right": [
+        "D",
+        121
+      ],
+      "distance_a": 1.9680935144424438
+    }
+  ],
+  "summary": "experiments/e148_final20_protenix_v2_all_seed31/out_volc/ova_iptm80_ova_c4_iptm80_20d_protenix/seed_31/predictions/ova_iptm80_ova_c4_iptm80_20d_protenix_summary_confidence_sample_0.json",
+  "cif": "experiments/e148_final20_protenix_v2_all_seed31/out_volc/ova_iptm80_ova_c4_iptm80_20d_protenix/seed_31/predictions/ova_iptm80_ova_c4_iptm80_20d_protenix_sample_0.cif"
+}

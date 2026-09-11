@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ova_c4_iptm80_21c_opendde_c4",
+    "modelSeeds": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MGSIGAASMEFCFRVFKELKVHHANENIFYCPIAIMSALAMVYLGAKDSTRTQINKVVRFDKLPGFGDAIEAQCGTAVAVHSSLRDIIDQITKPNDVYSFSLASRLYAEERYPILPEYLQCVKELYRGGLEPINFQTAADQARELINSWVESQTFGIIRNVLQPSSVDSQTAMVLVNAIVFRGLWEKAFKYFATQAMPFRVTEQESKPVQMMYQIGLFRVASMASEKMKILELPFASGTMSMLVLLPDEVSGLEQLESIINFEKLTEWTSWNVMEHRLIKVYLPKMKMEEKYNLTSVLMAMGITDVFSSSANLSGISSAESLKISQAVHAAHAEIETAGRHFLGHFDEAIDAAYVSEEFRADHPFLFCIKHIATNAVLFFGRCVSP",
+          "count": 4,
+          "unpairedMsaPath": "/data/home/scwb671/run/wky/ova_p3_tetramer_design/experiments/e150_final20_protenix_multiseed_v1/msa/ova_iptm80_ova_c4_iptm80_21c_protenix_1024.a3m"
+        }
+      }
+    ]
+  }
+]

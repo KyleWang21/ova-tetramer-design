@@ -1,0 +1,101 @@
+{
+  "plddt": 86.20982360839844,
+  "ptm": 0.6992223858833313,
+  "iptm": 0.6149908900260925,
+  "has_clash": false,
+  "chain_pair_iptm": [
+    [
+      0.0,
+      0.49446555972099304,
+      0.6626760959625244,
+      0.46012282371520996
+    ],
+    [
+      0.49446555972099304,
+      0.0,
+      0.46198636293411255,
+      0.668310821056366
+    ],
+    [
+      0.6626760959625244,
+      0.46198636293411255,
+      0.0,
+      0.5043939352035522
+    ],
+    [
+      0.46012282371520996,
+      0.668310821056366,
+      0.5043939352035522,
+      0.0
+    ]
+  ],
+  "min_incident_iptm": 0.6626760959625244,
+  "contacts_8a": {
+    "A-B": 16,
+    "A-C": 43,
+    "A-D": 43,
+    "B-C": 39,
+    "B-D": 47,
+    "C-D": 17
+  },
+  "contact_edges": [
+    "A-B",
+    "A-C",
+    "A-D",
+    "B-C",
+    "B-D",
+    "C-D"
+  ],
+  "largest_component": 4,
+  "full_connected": true,
+  "native_c74_c121_bonds": 4,
+  "interchain_ss_bonds": 0,
+  "close_ss": [
+    {
+      "left": [
+        "A",
+        74
+      ],
+      "right": [
+        "A",
+        121
+      ],
+      "distance_a": 2.0415852069854736
+    },
+    {
+      "left": [
+        "B",
+        74
+      ],
+      "right": [
+        "B",
+        121
+      ],
+      "distance_a": 1.9524991512298584
+    },
+    {
+      "left": [
+        "C",
+        74
+      ],
+      "right": [
+        "C",
+        121
+      ],
+      "distance_a": 2.088496208190918
+    },
+    {
+      "left": [
+        "D",
+        74
+      ],
+      "right": [
+        "D",
+        121
+      ],
+      "distance_a": 1.94257652759552
+    }
+  ],
+  "summary": "/root/400083/ova_p3_tetramer_design/experiments/e114_final_lowmut_c4_preferred/protenix/out_seed15/ova_nc_c4_protenix_control/seed_15/predictions/ova_nc_c4_protenix_control_summary_confidence_sample_0.json",
+  "cif": "/root/400083/ova_p3_tetramer_design/experiments/e114_final_lowmut_c4_preferred/protenix/out_seed15/ova_nc_c4_protenix_control/seed_15/predictions/ova_nc_c4_protenix_control_sample_0.cif"
+}

@@ -52,3 +52,19 @@ experiments/**/*.a3m
 # Bulk generated structures stay local; curated final models live in structures/.
 experiments/**/*.pdb
 experiments/**/*.cif
+
+# Runtime caches and recoverable bulk outputs from later design rounds
+experiments/**/jaxcache*/
+experiments/**/out_*/
+experiments/**/interrupted_out*/
+experiments/**/protenix_out*/
+experiments/**/*_data.json
+experiments/**/*.m8
+experiments/**/*.tgz
+experiments/**/*.tar.gz
+experiments/*.lock*
+experiments/*.mutex*
+
+# Keep the current curated delivery, but not timestamped/archive copies
+deliverables/archive/
+deliverables/intermediate_json_archive_*.tgz

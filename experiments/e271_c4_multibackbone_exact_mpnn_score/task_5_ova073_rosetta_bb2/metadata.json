@@ -1,0 +1,15 @@
+{
+  "method": "exact_tied_c4_ProteinMPNN_conditional_NLL",
+  "task_index": 5,
+  "context": "ova073_rosetta_bb2",
+  "family": "OVA073_ROSETTA",
+  "target_pdb": "/data/home/scwb671/run/wky/ova_p3_tetramer_design/experiments/e225_c4_073_rosetta_polar_tied_mpnn/targets/bb2_c4.pdb",
+  "candidate_count": 512,
+  "orders": 4,
+  "batch_size": 32,
+  "score_position_count_per_chain": 49,
+  "scored_residue_count_total": 196,
+  "conditioning": "all fixed scaffold positions precede all score positions",
+  "backbone_noise": 0.0,
+  "dropout": 0.0
+}

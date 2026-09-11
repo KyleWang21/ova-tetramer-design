@@ -1,0 +1,9 @@
+task_name	mode	status	note
+ky-20260901-760	volc_or_local_af3_seed1	QUEUED	OVA073 highgain-v10 weighted-surrogate shortlist shard0
+ky-20260901-761	volc_or_local_af3_seed1	QUEUED	OVA073 highgain-v10 weighted-surrogate shortlist shard1
+ky-20260901-762	volc_or_local_af3_seed1	QUEUED	OVA073 highgain-v10 weighted-surrogate shortlist shard2
+ky-20260901-763	volc_or_local_af3_seed1	QUEUED	OVA073 highgain-v10 weighted-surrogate shortlist shard3
+ky-20260901-764	volc_or_local_af3_seed1	QUEUED	OVA073 highgain-v10 weighted-surrogate shortlist shard4
+ky-20260901-765	volc_or_local_af3_seed1	QUEUED	OVA073 highgain-v10 weighted-surrogate shortlist shard5
+ky-20260901-766	volc_or_local_af3_seed1	QUEUED	OVA073 highgain-v10 weighted-surrogate shortlist shard6
+ky-20260901-767	volc_or_local_af3_seed1	QUEUED	OVA073 highgain-v10 weighted-surrogate shortlist shard7

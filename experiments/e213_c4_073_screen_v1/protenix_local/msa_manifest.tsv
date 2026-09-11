@@ -1,0 +1,2 @@
+candidate	msa_file	record_count	effective_n_msa_observed	audit_note
+ova_body_c4_073_ms	msa/ova_iptm80_ova_body_c4_073_ms_protenix_1024.a3m	11631	11560	filename inherited a misleading _1024 suffix; all five formal seeds used this same full MSA

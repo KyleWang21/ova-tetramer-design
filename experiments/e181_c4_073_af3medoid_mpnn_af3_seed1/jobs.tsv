@@ -1,0 +1,2 @@
+task_name	mode	status	note
+ky-20260901-537	local_af3_seed1	QUEUED	waits_for_E164_then_runs_16_blended_AF3_medoid_tied_ProteinMPNN_candidates

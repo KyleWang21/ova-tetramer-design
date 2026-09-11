@@ -1,0 +1,13 @@
+source	chain_pair	unique_residue_pairs	unique_interaction_types	atom_level_events	non_vdw_interactions	Hydrophobic	HydrogenBond	SaltBridge	PiStacking	CationPi	VdWContact
+ova_body_c4_06_ms25_r04__AF3	A-B	10	18	27	12	8	2	2	0	0	6
+ova_body_c4_06_ms25_r04__AF3	A-C	15	17	61	5	4	0	0	1	0	12
+ova_body_c4_06_ms25_r04__AF3	A-D	30	43	94	18	13	3	2	0	0	25
+ova_body_c4_06_ms25_r04__AF3	B-C	30	41	93	15	10	3	2	0	0	26
+ova_body_c4_06_ms25_r04__AF3	B-D	12	13	54	4	4	0	0	0	0	9
+ova_body_c4_06_ms25_r04__AF3	C-D	10	18	31	12	8	2	2	0	0	6
+ova_body_c4_06_ms25_r04__Protenix	A-B	10	14	34	6	6	0	0	0	0	8
+ova_body_c4_06_ms25_r04__Protenix	A-C	23	37	194	14	10	2	2	0	0	23
+ova_body_c4_06_ms25_r04__Protenix	A-D	10	13	100	5	4	0	0	1	0	8
+ova_body_c4_06_ms25_r04__Protenix	B-C	10	13	93	5	4	0	0	1	0	8
+ova_body_c4_06_ms25_r04__Protenix	B-D	22	36	162	15	9	4	2	0	0	21
+ova_body_c4_06_ms25_r04__Protenix	C-D	8	11	24	5	5	0	0	0	0	6

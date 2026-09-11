@@ -1,0 +1,129 @@
+{
+  "input": "deliverables/OVA_C4_final20_AF3_single_table_20260831/cif/01_OVA-C4-IPTM80-20A.cif",
+  "interface": "A_C",
+  "ab_chains": [
+    "A"
+  ],
+  "ag_chain": "C",
+  "nrelax": 1,
+  "raw": {
+    "dG_separated": -11.06049633026123,
+    "dSASA_int": 1969.8729248046875,
+    "sc_value": 0.5949300527572632,
+    "hbonds_int": 6.0,
+    "delta_unsatHbonds": 11.0,
+    "nres_int": 67.0,
+    "packstat": 0.5525614023208618,
+    "dG_dSASA_ratio": -0.5614827275276184
+  },
+  "relaxed": {
+    "dG_separated": -52.854,
+    "dSASA_int": 1859.789,
+    "sc_value": 0.651,
+    "hbonds_int": 7.0,
+    "delta_unsatHbonds": 17.0,
+    "nres_int": 68.0,
+    "packstat": 0.642,
+    "dG_dSASA_ratio": -2.842
+  },
+  "relaxed_best": {
+    "dG_separated": -52.854496002197266,
+    "dSASA_int": 1859.7889404296875,
+    "sc_value": 0.651154637336731,
+    "hbonds_int": 7.0,
+    "delta_unsatHbonds": 17.0,
+    "nres_int": 68.0,
+    "packstat": 0.6422215104103088,
+    "dG_dSASA_ratio": -2.8419620990753174
+  },
+  "ensemble": {
+    "dG_separated": {
+      "mean": -52.854,
+      "std": 0.0,
+      "min": -52.854,
+      "max": -52.854,
+      "median": -52.854,
+      "n": 1,
+      "values": [
+        -52.854
+      ]
+    },
+    "dSASA_int": {
+      "mean": 1859.789,
+      "std": 0.0,
+      "min": 1859.789,
+      "max": 1859.789,
+      "median": 1859.789,
+      "n": 1,
+      "values": [
+        1859.789
+      ]
+    },
+    "sc_value": {
+      "mean": 0.651,
+      "std": 0.0,
+      "min": 0.651,
+      "max": 0.651,
+      "median": 0.651,
+      "n": 1,
+      "values": [
+        0.651
+      ]
+    },
+    "hbonds_int": {
+      "mean": 7.0,
+      "std": 0.0,
+      "min": 7.0,
+      "max": 7.0,
+      "median": 7.0,
+      "n": 1,
+      "values": [
+        7.0
+      ]
+    },
+    "delta_unsatHbonds": {
+      "mean": 17.0,
+      "std": 0.0,
+      "min": 17.0,
+      "max": 17.0,
+      "median": 17.0,
+      "n": 1,
+      "values": [
+        17.0
+      ]
+    },
+    "nres_int": {
+      "mean": 68.0,
+      "std": 0.0,
+      "min": 68.0,
+      "max": 68.0,
+      "median": 68.0,
+      "n": 1,
+      "values": [
+        68.0
+      ]
+    },
+    "packstat": {
+      "mean": 0.642,
+      "std": 0.0,
+      "min": 0.642,
+      "max": 0.642,
+      "median": 0.642,
+      "n": 1,
+      "values": [
+        0.642
+      ]
+    },
+    "dG_dSASA_ratio": {
+      "mean": -2.842,
+      "std": 0.0,
+      "min": -2.842,
+      "max": -2.842,
+      "median": -2.842,
+      "n": 1,
+      "values": [
+        -2.842
+      ]
+    }
+  }
+}

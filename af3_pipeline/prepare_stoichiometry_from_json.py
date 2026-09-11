@@ -37,6 +37,7 @@ def main() -> None:
                  "version":source.get("version",2),"sequences":proteins}
         jp=d/f"{name}.json"; jp.write_text(json.dumps(payload,indent=2)+"\n")
         row=dict(base); row.update({"name":name,"shard":str(shard),"n_chains":str(n),
+            "candidate":base.get("candidate", old_name),
             "chain_ids":alphabet[:n],"chain_length":",".join([str(len(first_protein['protein']['sequence']))]*n),
             "ova_ranges":";".join([first_range(base["ova_ranges"])]*n),
             "module_ranges":";".join([first_range(base["module_ranges"])]*n),

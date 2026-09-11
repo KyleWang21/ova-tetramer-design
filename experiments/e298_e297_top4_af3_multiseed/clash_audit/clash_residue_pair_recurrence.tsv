@@ -1,0 +1,7 @@
+system	residue_pair	residue_names	models_with_clash	model_names	atom_pair_count	mutation_involved
+ova_body_c4_02_ms25_r02	340-341	ARG,GLU	1	seed-3_sample-3	1	0
+ova_body_c4_05_ms25_r03	217-346	PHE,THR	1	seed-2_sample-2	4	1
+ova_body_c4_05_ms25_r03	346-350	ILE,PHE	1	seed-2_sample-3	4	1
+ova_body_c4_05_ms25_r03	191-336	ASN,TYR	1	seed-2_sample-4	1	1
+ova_body_c4_06_ms25_r01	217-345	GLU,THR	1	seed-2_sample-2	4	1
+ova_body_c4_06_ms25_r01	187-345	GLU,LYS	1	seed-2_sample-2	3	1

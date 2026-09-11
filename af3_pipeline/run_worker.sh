@@ -9,8 +9,11 @@ EXP="${1:?usage: run_worker.sh EXPERIMENT_DIR SHARD}"
 SHARD="${2:?usage: run_worker.sh EXPERIMENT_DIR SHARD}"
 IN="$EXP/in_s$SHARD"
 OUT="$EXP/out_s$SHARD"
+FAILED_MARKER="$EXP/WORKER_FAILED_s$SHARD"
+COMPLETE_MARKER="$EXP/WORKER_COMPLETE_s$SHARD"
 
 mkdir -p "$OUT" "$EXP/logs" "$PROJECT/experiments/_jaxcache"
+rm -f "$FAILED_MARKER" "$COMPLETE_MARKER"
 exec >> "$EXP/logs/af3_s${SHARD}.log" 2>&1
 echo "$(date -u '+%F %T UTC') start shard=$SHARD host=$(hostname) input=$IN"
 nvidia-smi -L
@@ -23,6 +26,7 @@ fi
 count=$(find "$IN" -maxdepth 1 -name '*.json' | wc -l)
 if [ "$count" -eq 0 ]; then
   echo "$(date -u '+%F %T UTC') no inputs for shard=$SHARD"
+  touch "$COMPLETE_MARKER"
   exit 0
 fi
 
@@ -40,4 +44,9 @@ rc=$?
 # oligomer gate. Keep summary confidences, CIFs, terms of use, and input JSONs.
 find "$OUT" -name '*_confidences.json' ! -name '*_summary_confidences.json' -delete 2>/dev/null
 echo "$(date -u '+%F %T UTC') finish shard=$SHARD rc=$rc"
+if [ "$rc" -eq 0 ]; then
+  touch "$COMPLETE_MARKER"
+else
+  touch "$FAILED_MARKER"
+fi
 exit "$rc"

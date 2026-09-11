@@ -1,0 +1,2 @@
+submitted_utc	shard	name	job_id	queue_id	mode	status	response
+2026-09-02T18:11:08.578608+00:00	15	ky-20260903-1479	t-20260903021106-hjfs9	q-20251224105744-qhrgl	submit	ok	"{     ""ResponseMetadata"": {         ""Action"": ""CreateJob"",         ""Region"": ""cn-beijing"",         ""RequestId"": ""202609030211065AA9E9B3D8BEEF953B5E"",         ""Service"": ""ml_platform"",         ""Version"": ""2024-07-01""     },     ""Result"": {         ""Id"": ""t-20260903021106-hjfs9""     } }"

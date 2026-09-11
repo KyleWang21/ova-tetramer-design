@@ -1,0 +1,18 @@
+{
+  "n_candidates": 20,
+  "seed": 31,
+  "protenix_iptm_min": 0.34670302271842957,
+  "protenix_iptm_max": 0.817899763584137,
+  "protenix_iptm_mean": 0.5343484163284302,
+  "n_iptm_ge_0_75": 3,
+  "n_iptm_ge_0_70": 4,
+  "n_iptm_ge_0_60": 7,
+  "full_connected": 20,
+  "unclashed": 20,
+  "native_ss_complete": 20,
+  "zero_interchain_ss": 20,
+  "spearman_af3_vs_protenix": -0.1294206536425867,
+  "spearman_pvalue": 0.586568788768479,
+  "pearson_af3_vs_protenix": -0.012261869771506105,
+  "pearson_pvalue": 0.9590805177542427
+}

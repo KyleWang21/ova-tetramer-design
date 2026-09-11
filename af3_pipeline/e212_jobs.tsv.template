@@ -1,0 +1,9 @@
+task_name	mode	status	note
+ky-20260901-725	volc_or_local_af3_seed1	QUEUED	candidate276 tied-AF2 plus tied-ProteinMPNN shortlist shard0
+ky-20260901-726	volc_or_local_af3_seed1	QUEUED	candidate276 tied-AF2 plus tied-ProteinMPNN shortlist shard1
+ky-20260901-727	volc_or_local_af3_seed1	QUEUED	candidate276 tied-AF2 plus tied-ProteinMPNN shortlist shard2
+ky-20260901-728	volc_or_local_af3_seed1	QUEUED	candidate276 tied-AF2 plus tied-ProteinMPNN shortlist shard3
+ky-20260901-729	volc_or_local_af3_seed1	QUEUED	candidate276 tied-AF2 plus tied-ProteinMPNN shortlist shard4
+ky-20260901-730	volc_or_local_af3_seed1	QUEUED	candidate276 tied-AF2 plus tied-ProteinMPNN shortlist shard5
+ky-20260901-731	volc_or_local_af3_seed1	QUEUED	candidate276 tied-AF2 plus tied-ProteinMPNN shortlist shard6
+ky-20260901-732	volc_or_local_af3_seed1	QUEUED	candidate276 tied-AF2 plus tied-ProteinMPNN shortlist shard7

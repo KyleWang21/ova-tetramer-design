@@ -1,0 +1,21 @@
+candidate	opendde_prolif_evidence_available	opendde_prolif_design_any_count	opendde_prolif_design_any_fraction	opendde_prolif_design_nonvdw_count	opendde_prolif_design_nonvdw_fraction	opendde_prolif_interface_type_nonvdw_counts	opendde_prolif_major_hotspots	opendde_prolif_major_hotspot_chain_support	opendde_nonvdw_position_type_count	af3_opendde_shared_nonvdw_position_type_count	af3_opendde_nonvdw_position_type_jaccard	af3_opendde_shared_nonvdw_position_types	gate_opendde_prolif_any_fraction_ge0p50	gate_opendde_prolif_nonvdw_fraction_ge0p25	gate_opendde_prolif_nonvdw_count_ge6	gate_opendde_prolif_two_interfaces_nonvdw_ge2	gate_opendde_prolif_major_hotspots_symmetry_ge3of4	gate_opendde_prolif_shared_af3_nonvdw_ge1	opendde_prolif_all_optional_gates_pass
+OVA-C4-IPTM80-20A	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-21B	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-21C	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-20D	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-21E	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-19F	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-21G	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-21H	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-21I	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-19J	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-19K	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-19L	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-21M	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-20N	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-20O	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-21P	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-22Q	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-19R	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-21S	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0
+OVA-C4-IPTM80-20T	0	0	0.0	0	0.0				0	0	0.0		0	0	0	0	0	0	0

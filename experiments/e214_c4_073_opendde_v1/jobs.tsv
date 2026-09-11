@@ -1,0 +1,2 @@
+task_name	slurm_job_id	platform	status	note
+ky-20260901-735	152794	zhongwei_A800	PENDING	OVA-C4-073 OpenDDE-v1 10 seeds, MSA capped to 1024 records

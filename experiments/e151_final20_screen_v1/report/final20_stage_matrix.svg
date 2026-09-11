@@ -1,0 +1,312 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1156" height="713">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#172033}.h{font-size:13px;font-weight:700}.r{font-size:12px}.s{font-size:11px;fill:white;font-weight:700}</style>
+<text x="18" y="28" font-size="20" font-weight="700">OVA C4 fail-closed screening matrix</text>
+<text class="h" x="243" y="56">Sequence</text>
+<text class="h" x="371" y="56">AF3</text>
+<text class="h" x="499" y="56">ProLIF</text>
+<text class="h" x="627" y="56">Protenix</text>
+<text class="h" x="755" y="56">Stoichiometry</text>
+<text class="h" x="883" y="56">Rosetta</text>
+<text class="h" x="1011" y="56">OpenDDE</text>
+<text class="r" x="18" y="88">OVA-C4-IPTM80-20A</text>
+<rect x="235" y="71" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="88">FAIL</text>
+<rect x="363" y="71" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="88">FAIL</text>
+<rect x="491" y="71" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="88">PASS</text>
+<rect x="619" y="71" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="88">FAIL</text>
+<rect x="747" y="71" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="88">PASS</text>
+<rect x="875" y="71" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="88">FAIL</text>
+<rect x="1003" y="71" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="88">NO_HIT</text>
+<text class="r" x="18" y="118">OVA-C4-IPTM80-21B</text>
+<rect x="235" y="101" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="118">FAIL</text>
+<rect x="363" y="101" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="118">FAIL</text>
+<rect x="491" y="101" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="118">PASS</text>
+<rect x="619" y="101" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="118">FAIL</text>
+<rect x="747" y="101" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="118">PASS</text>
+<rect x="875" y="101" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="118">FAIL</text>
+<rect x="1003" y="101" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="118">NO_HIT</text>
+<text class="r" x="18" y="148">OVA-C4-IPTM80-20D</text>
+<rect x="235" y="131" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="148">FAIL</text>
+<rect x="363" y="131" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="148">FAIL</text>
+<rect x="491" y="131" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="148">PASS</text>
+<rect x="619" y="131" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="148">FAIL</text>
+<rect x="747" y="131" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="148">PASS</text>
+<rect x="875" y="131" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="148">FAIL</text>
+<rect x="1003" y="131" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="148">NO_HIT</text>
+<text class="r" x="18" y="178">OVA-C4-IPTM80-21C</text>
+<rect x="235" y="161" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="178">FAIL</text>
+<rect x="363" y="161" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="178">FAIL</text>
+<rect x="491" y="161" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="534" y="178">FAIL</text>
+<rect x="619" y="161" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="178">FAIL</text>
+<rect x="747" y="161" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="178">PASS</text>
+<rect x="875" y="161" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="178">FAIL</text>
+<rect x="1003" y="161" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="178">NO_HIT</text>
+<text class="r" x="18" y="208">OVA-C4-IPTM80-21E</text>
+<rect x="235" y="191" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="208">FAIL</text>
+<rect x="363" y="191" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="208">FAIL</text>
+<rect x="491" y="191" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="208">PASS</text>
+<rect x="619" y="191" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="208">FAIL</text>
+<rect x="747" y="191" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="208">PASS</text>
+<rect x="875" y="191" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="208">FAIL</text>
+<rect x="1003" y="191" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="208">NO_HIT</text>
+<text class="r" x="18" y="238">OVA-C4-IPTM80-19K</text>
+<rect x="235" y="221" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="238">FAIL</text>
+<rect x="363" y="221" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="238">FAIL</text>
+<rect x="491" y="221" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="238">PASS</text>
+<rect x="619" y="221" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="238">FAIL</text>
+<rect x="747" y="221" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="238">PASS</text>
+<rect x="875" y="221" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="238">FAIL</text>
+<rect x="1003" y="221" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="238">NO_HIT</text>
+<text class="r" x="18" y="268">OVA-C4-IPTM80-19F</text>
+<rect x="235" y="251" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="268">FAIL</text>
+<rect x="363" y="251" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="268">FAIL</text>
+<rect x="491" y="251" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="268">PASS</text>
+<rect x="619" y="251" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="268">FAIL</text>
+<rect x="747" y="251" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="268">PASS</text>
+<rect x="875" y="251" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="268">FAIL</text>
+<rect x="1003" y="251" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="268">NO_HIT</text>
+<text class="r" x="18" y="298">OVA-C4-IPTM80-19L</text>
+<rect x="235" y="281" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="298">FAIL</text>
+<rect x="363" y="281" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="298">FAIL</text>
+<rect x="491" y="281" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="298">PASS</text>
+<rect x="619" y="281" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="298">FAIL</text>
+<rect x="747" y="281" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="298">PASS</text>
+<rect x="875" y="281" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="298">FAIL</text>
+<rect x="1003" y="281" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="298">NO_HIT</text>
+<text class="r" x="18" y="328">OVA-C4-IPTM80-21H</text>
+<rect x="235" y="311" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="328">FAIL</text>
+<rect x="363" y="311" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="328">FAIL</text>
+<rect x="491" y="311" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="328">PASS</text>
+<rect x="619" y="311" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="328">FAIL</text>
+<rect x="747" y="311" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="328">PASS</text>
+<rect x="875" y="311" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="328">FAIL</text>
+<rect x="1003" y="311" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="328">NO_HIT</text>
+<text class="r" x="18" y="358">OVA-C4-IPTM80-21G</text>
+<rect x="235" y="341" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="358">FAIL</text>
+<rect x="363" y="341" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="358">FAIL</text>
+<rect x="491" y="341" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="358">PASS</text>
+<rect x="619" y="341" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="358">FAIL</text>
+<rect x="747" y="341" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="358">PASS</text>
+<rect x="875" y="341" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="358">FAIL</text>
+<rect x="1003" y="341" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="358">NO_HIT</text>
+<text class="r" x="18" y="388">OVA-C4-IPTM80-21I</text>
+<rect x="235" y="371" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="388">FAIL</text>
+<rect x="363" y="371" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="388">FAIL</text>
+<rect x="491" y="371" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="388">PASS</text>
+<rect x="619" y="371" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="388">FAIL</text>
+<rect x="747" y="371" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="388">PASS</text>
+<rect x="875" y="371" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="388">FAIL</text>
+<rect x="1003" y="371" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="388">NO_HIT</text>
+<text class="r" x="18" y="418">OVA-C4-IPTM80-19J</text>
+<rect x="235" y="401" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="418">FAIL</text>
+<rect x="363" y="401" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="418">FAIL</text>
+<rect x="491" y="401" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="534" y="418">FAIL</text>
+<rect x="619" y="401" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="418">FAIL</text>
+<rect x="747" y="401" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="418">PASS</text>
+<rect x="875" y="401" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="418">FAIL</text>
+<rect x="1003" y="401" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="418">NO_HIT</text>
+<text class="r" x="18" y="448">OVA-C4-IPTM80-20N</text>
+<rect x="235" y="431" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="448">FAIL</text>
+<rect x="363" y="431" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="448">FAIL</text>
+<rect x="491" y="431" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="448">PASS</text>
+<rect x="619" y="431" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="448">FAIL</text>
+<rect x="747" y="431" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="448">PASS</text>
+<rect x="875" y="431" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="448">FAIL</text>
+<rect x="1003" y="431" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="448">NO_HIT</text>
+<text class="r" x="18" y="478">OVA-C4-IPTM80-19R</text>
+<rect x="235" y="461" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="478">FAIL</text>
+<rect x="363" y="461" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="478">FAIL</text>
+<rect x="491" y="461" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="534" y="478">FAIL</text>
+<rect x="619" y="461" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="478">FAIL</text>
+<rect x="747" y="461" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="478">PASS</text>
+<rect x="875" y="461" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="478">FAIL</text>
+<rect x="1003" y="461" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="478">NO_HIT</text>
+<text class="r" x="18" y="508">OVA-C4-IPTM80-20O</text>
+<rect x="235" y="491" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="508">FAIL</text>
+<rect x="363" y="491" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="508">FAIL</text>
+<rect x="491" y="491" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="508">PASS</text>
+<rect x="619" y="491" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="508">FAIL</text>
+<rect x="747" y="491" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="508">PASS</text>
+<rect x="875" y="491" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="508">FAIL</text>
+<rect x="1003" y="491" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="508">NO_HIT</text>
+<text class="r" x="18" y="538">OVA-C4-IPTM80-21M</text>
+<rect x="235" y="521" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="538">FAIL</text>
+<rect x="363" y="521" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="538">FAIL</text>
+<rect x="491" y="521" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="538">PASS</text>
+<rect x="619" y="521" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="538">FAIL</text>
+<rect x="747" y="521" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="538">PASS</text>
+<rect x="875" y="521" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="538">FAIL</text>
+<rect x="1003" y="521" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="538">NO_HIT</text>
+<text class="r" x="18" y="568">OVA-C4-IPTM80-21P</text>
+<rect x="235" y="551" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="568">FAIL</text>
+<rect x="363" y="551" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="568">FAIL</text>
+<rect x="491" y="551" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="534" y="568">FAIL</text>
+<rect x="619" y="551" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="568">FAIL</text>
+<rect x="747" y="551" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="568">PASS</text>
+<rect x="875" y="551" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="568">FAIL</text>
+<rect x="1003" y="551" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="568">NO_HIT</text>
+<text class="r" x="18" y="598">OVA-C4-IPTM80-20T</text>
+<rect x="235" y="581" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="598">FAIL</text>
+<rect x="363" y="581" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="598">FAIL</text>
+<rect x="491" y="581" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="598">PASS</text>
+<rect x="619" y="581" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="598">FAIL</text>
+<rect x="747" y="581" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="598">PASS</text>
+<rect x="875" y="581" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="598">FAIL</text>
+<rect x="1003" y="581" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="598">NO_HIT</text>
+<text class="r" x="18" y="628">OVA-C4-IPTM80-21S</text>
+<rect x="235" y="611" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="628">FAIL</text>
+<rect x="363" y="611" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="628">FAIL</text>
+<rect x="491" y="611" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="628">PASS</text>
+<rect x="619" y="611" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="628">FAIL</text>
+<rect x="747" y="611" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="628">PASS</text>
+<rect x="875" y="611" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="628">FAIL</text>
+<rect x="1003" y="611" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="628">NO_HIT</text>
+<text class="r" x="18" y="658">OVA-C4-IPTM80-22Q</text>
+<rect x="235" y="641" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="278" y="658">FAIL</text>
+<rect x="363" y="641" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="406" y="658">FAIL</text>
+<rect x="491" y="641" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="534" y="658">PASS</text>
+<rect x="619" y="641" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="662" y="658">FAIL</text>
+<rect x="747" y="641" width="122" height="24" rx="4" fill="#22c55e"/>
+<text class="s" x="790" y="658">PASS</text>
+<rect x="875" y="641" width="122" height="24" rx="4" fill="#ef4444"/>
+<text class="s" x="918" y="658">FAIL</text>
+<rect x="1003" y="641" width="122" height="24" rx="4" fill="#f59e0b"/>
+<text class="s" x="1031" y="658">NO_HIT</text>
+</svg>

@@ -1,0 +1,41 @@
+{
+  "prolif_version": "2.2.1",
+  "rdkit_version": "2025.09.6",
+  "interactions": [
+    "Hydrophobic",
+    "HBDonor",
+    "HBAcceptor",
+    "Cationic",
+    "Anionic",
+    "PiStacking",
+    "CationPi",
+    "PiCation",
+    "VdWContact"
+  ],
+  "structures": {
+    "OVA-C4-IPTM80-19F": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-19F_best_AF3.cif",
+    "OVA-C4-IPTM80-19J": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-19J_best_AF3.cif",
+    "OVA-C4-IPTM80-19K": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-19K_best_AF3.cif",
+    "OVA-C4-IPTM80-19L": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-19L_best_AF3.cif",
+    "OVA-C4-IPTM80-19R": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-19R_best_AF3.cif",
+    "OVA-C4-IPTM80-20A": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-20A_best_AF3.cif",
+    "OVA-C4-IPTM80-20D": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-20D_best_AF3.cif",
+    "OVA-C4-IPTM80-20N": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-20N_best_AF3.cif",
+    "OVA-C4-IPTM80-20O": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-20O_best_AF3.cif",
+    "OVA-C4-IPTM80-20T": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-20T_best_AF3.cif",
+    "OVA-C4-IPTM80-21B": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-21B_best_AF3.cif",
+    "OVA-C4-IPTM80-21C": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-21C_best_AF3.cif",
+    "OVA-C4-IPTM80-21E": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-21E_best_AF3.cif",
+    "OVA-C4-IPTM80-21G": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-21G_best_AF3.cif",
+    "OVA-C4-IPTM80-21H": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-21H_best_AF3.cif",
+    "OVA-C4-IPTM80-21I": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-21I_best_AF3.cif",
+    "OVA-C4-IPTM80-21M": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-21M_best_AF3.cif",
+    "OVA-C4-IPTM80-21P": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-21P_best_AF3.cif",
+    "OVA-C4-IPTM80-21S": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-21S_best_AF3.cif",
+    "OVA-C4-IPTM80-22Q": "experiments/e144_final20_iptm80_c4/best_af3_models/OVA-C4-IPTM80-22Q_best_AF3.cif"
+  },
+  "atom_level_events": 7360,
+  "unique_residue_interaction_types": 2972,
+  "top_candidate_consensus_interactions": 0,
+  "charge_model": "Lys/Arg +1; Asp/Glu -1; charged termini; neutral His; RDKit explicit H"
+}

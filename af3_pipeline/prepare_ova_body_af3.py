@@ -63,7 +63,10 @@ def main() -> None:
         raise SystemExit("shards must be 1..8")
     if any(len(sequence) != 386 for _, sequence in records):
         raise SystemExit("all pure-OVA candidates must be exactly 386 aa")
-    args.out.mkdir(parents=True)
+    # Queue/watchdog logs may intentionally pre-create the experiment directory
+    # before candidate generation finishes.  The manifest guard above remains
+    # the authoritative idempotency check.
+    args.out.mkdir(parents=True, exist_ok=True)
     for shard in range(args.shards):
         (args.out / f"in_s{shard}").mkdir()
     msa_dir = args.out / "msas"; msa_dir.mkdir()

@@ -30,8 +30,17 @@ def main() -> None:
     ap.add_argument("--out", type=pathlib.Path, required=True)
     args = ap.parse_args()
     combined = []
+    seen: set[str] = set()
     for path in args.input:
-        combined.extend(records(path)[: args.top_per_input])
+        accepted = 0
+        for header, sequence in records(path):
+            if sequence in seen:
+                continue
+            seen.add(sequence)
+            combined.append((header, sequence))
+            accepted += 1
+            if accepted == args.top_per_input:
+                break
     args.out.parent.mkdir(parents=True, exist_ok=True)
     with args.out.open("w") as handle:
         for header, sequence in combined:

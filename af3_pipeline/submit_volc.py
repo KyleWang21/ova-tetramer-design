@@ -49,10 +49,13 @@ def payload(
     beijing = dt.timezone(dt.timedelta(hours=8))
     date = dt.datetime.now(beijing).strftime("%Y%m%d")
     job_number = job_number_start + shard
-    if not 1 <= job_number <= 999:
+    if job_number < 1:
         raise SystemExit(
-            f"Volcengine job number must be in 001-999; got {job_number}"
+            f"Volcengine job number must be positive; got {job_number}"
         )
+    # The user-mandated form is ``ky-YYYYMMDD-number``.  Keep three-digit
+    # zero-padding for the historical range, but do not reject the four-digit
+    # serials used by the continuing experiment registry.
     name = f"ky-{date}-{job_number:03d}"
     return {
         "Name": name,
@@ -101,8 +104,12 @@ def main() -> None:
     parser.add_argument("--experiment", type=pathlib.Path, required=True)
     parser.add_argument("--shards", default="0-7")
     parser.add_argument("--job-number-start", type=int, required=True)
+    parser.add_argument("--record-file", default="jobs.tsv")
     parser.add_argument("--submit", action="store_true")
     args = parser.parse_args()
+    superseded = args.experiment / "SUPERSEDED_DO_NOT_SUBMIT.md"
+    if superseded.exists():
+        raise SystemExit(f"refusing superseded experiment: {superseded}")
     manifest = args.experiment / "manifest.tsv"
     if not manifest.exists():
         raise SystemExit(f"missing {manifest}")
@@ -137,7 +144,7 @@ def main() -> None:
             "response": response.replace("\t", " ").replace("\n", " "),
         })
     if args.submit:
-        jobs = args.experiment / "jobs.tsv"
+        jobs = args.experiment / args.record_file
         exists = jobs.exists() and jobs.stat().st_size > 0
         with jobs.open("a", newline="") as handle:
             writer = csv.DictWriter(handle, list(records[0]), delimiter="\t")

@@ -1,0 +1,3 @@
+task_name	mode	status	note
+ky-20260901-733	local_protenix_v2_five_seed	QUEUED	OVA-C4-073 five independent Protenix-v2 seeds after E211
+ky-20260901-734	local_rosetta_c4_fastrelax_200	RUNNING	OVA-C4-073 AF3 representative, 32 chunks, seeds 7001-7200

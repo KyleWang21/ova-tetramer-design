@@ -1,0 +1,17 @@
+candidate	seed	sample	chain_pair	chain_a	position_a	resname_a	atom_a	mutation_a	chain_b	position_b	resname_b	atom_b	mutation_b	distance_a	cif_path
+ova_body_c4_02			A-C	A	339	GLY	O		C	342	PHE	CD2	V342F	2.3990440368652344	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-0/ova_body_c4_02_seed-1_sample-0_model.cif
+ova_body_c4_02			A-D	A	187	LYS	NZ		D	346	PHE	CE2	A346F	2.362213134765625	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-0/ova_body_c4_02_seed-1_sample-0_model.cif
+ova_body_c4_02			A-D	A	346	PHE	CE2	A346F	D	187	LYS	NZ		2.253394603729248	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-0/ova_body_c4_02_seed-1_sample-0_model.cif
+ova_body_c4_02			B-C	B	187	LYS	NZ		C	346	PHE	CE2	A346F	2.2947051525115967	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-0/ova_body_c4_02_seed-1_sample-0_model.cif
+ova_body_c4_02			B-C	B	346	PHE	CE2	A346F	C	187	LYS	NZ		2.3171908855438232	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-0/ova_body_c4_02_seed-1_sample-0_model.cif
+ova_body_c4_02			A-C	A	339	GLY	O		C	342	PHE	CD2	V342F	2.2317373752593994	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-2/ova_body_c4_02_seed-1_sample-2_model.cif
+ova_body_c4_02			A-C	A	342	PHE	CD2	V342F	C	339	GLY	O		2.2182765007019043	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-2/ova_body_c4_02_seed-1_sample-2_model.cif
+ova_body_c4_02			B-D	B	339	GLY	O		D	342	PHE	CD2	V342F	2.210526704788208	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-2/ova_body_c4_02_seed-1_sample-2_model.cif
+ova_body_c4_02			B-D	B	342	PHE	CD2	V342F	D	339	GLY	O		2.249556541442871	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-2/ova_body_c4_02_seed-1_sample-2_model.cif
+ova_body_c4_02			A-C	A	339	GLY	O		C	342	PHE	CD2	V342F	2.374725103378296	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-4/ova_body_c4_02_seed-1_sample-4_model.cif
+ova_body_c4_02			A-C	A	342	PHE	CD2	V342F	C	339	GLY	O		2.35394024848938	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-4/ova_body_c4_02_seed-1_sample-4_model.cif
+ova_body_c4_02			A-D	A	346	PHE	CE2	A346F	D	187	LYS	NZ		2.3725602626800537	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-4/ova_body_c4_02_seed-1_sample-4_model.cif
+ova_body_c4_02			A-D	A	350	ILE	CD1	V350I	D	346	PHE	CE1	A346F	2.3171589374542236	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-4/ova_body_c4_02_seed-1_sample-4_model.cif
+ova_body_c4_02			B-C	B	350	ILE	CD1	V350I	C	346	PHE	CE1	A346F	2.3113527297973633	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-4/ova_body_c4_02_seed-1_sample-4_model.cif
+ova_body_c4_02			B-D	B	339	GLY	O		D	342	PHE	CD2	V342F	2.3879446983337402	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-4/ova_body_c4_02_seed-1_sample-4_model.cif
+ova_body_c4_02			B-D	B	342	PHE	CD2	V342F	D	339	GLY	O		2.3998830318450928	experiments/e178_c4_073_af3ensemble_ai_af3_seed1/out_s1/ova_body_c4_02/seed-1_sample-4/ova_body_c4_02_seed-1_sample-4_model.cif

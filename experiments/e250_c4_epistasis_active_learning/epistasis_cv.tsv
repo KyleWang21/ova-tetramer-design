@@ -1,0 +1,2 @@
+n_labels	main_features	pair_features	cluster_radius	n_sequence_clusters	clustered_ridge	clustered_cv_spearman	random_ridge	random_cv_spearman	prediction_spearman_check	kernel_clustered_cv_spearman	kernel_clustered_gamma	kernel_clustered_ridge	kernel_random_cv_spearman	kernel_random_gamma	kernel_random_ridge	epistasis_weight	used
+251	198	1200	3	92	300.0	0.7448061924392619	100.0	0.7750602437399557	0.7448061924392619	0.7541327641860855	0.06	1.0	0.7809375867959666	0.06	1.0	0.4	1

@@ -1,0 +1,9 @@
+task_name	mode	status	note
+ky-20260901-808	volc_or_local_af3_seed1	QUEUED	AI11 cross-model tied-AF2+ProteinMPNN shortlist shard0
+ky-20260901-809	volc_or_local_af3_seed1	QUEUED	AI11 cross-model tied-AF2+ProteinMPNN shortlist shard1
+ky-20260901-810	volc_or_local_af3_seed1	QUEUED	AI11 cross-model tied-AF2+ProteinMPNN shortlist shard2
+ky-20260901-811	volc_or_local_af3_seed1	QUEUED	AI11 cross-model tied-AF2+ProteinMPNN shortlist shard3
+ky-20260901-812	volc_or_local_af3_seed1	QUEUED	AI11 cross-model tied-AF2+ProteinMPNN shortlist shard4
+ky-20260901-813	volc_or_local_af3_seed1	QUEUED	AI11 cross-model tied-AF2+ProteinMPNN shortlist shard5
+ky-20260901-814	volc_or_local_af3_seed1	QUEUED	AI11 cross-model tied-AF2+ProteinMPNN shortlist shard6
+ky-20260901-815	volc_or_local_af3_seed1	QUEUED	AI11 cross-model tied-AF2+ProteinMPNN shortlist shard7

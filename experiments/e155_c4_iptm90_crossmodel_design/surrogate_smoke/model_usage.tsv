@@ -1,0 +1,5 @@
+outcome	weight_before_normalization	cv_spearman	used
+af3	0.55	0.6777795006865571	1
+protenix	0.2	0.6842105263157895	1
+clean_fraction	0.15	0.06122534679565659	1
+crossmodel_prolif	0.1	0.6856257356397295	1

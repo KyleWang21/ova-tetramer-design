@@ -1,0 +1,4 @@
+candidate	source_system	seed	iptm	ptm	plddt	min_incident_iptm	largest_component	full_connected	has_clash	native_c74_c121_bonds	interchain_ss_bonds	score_json
+OVA-C4-IPTM80-20A	ova_body_c4_103	31	0.6780459881	0.7449304461	86.53937531	0.6603921652	4	1	0	4	0	experiments/e146_final20_protenix/rank1_seed31_score.json
+OVA-C4-IPTM80-19K	ova_body_c4_38	21	0.7605850101	0.8106588125	88.10232544	0.7278693914	4	1	0	4	0	experiments/e122_iptm80_final_protenix/c4_38_seed21_score.json
+OVA-C4-IPTM80-19L	ova_body_c4_51	22	0.4526633918	0.5740246177	84.95225525	0.5764810443	4	1	0	4	0	experiments/e122_iptm80_final_protenix/c4_51_seed22_score.json

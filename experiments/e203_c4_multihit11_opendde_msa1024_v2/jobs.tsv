@@ -1,0 +1,2 @@
+task_name	slurm_job_id	mode	status	note
+ky-20260901-695	152743	paracloud_opendde_v2	RUNNING	AI11 official OpenDDE 10 seeds with audited 1024-record MSA; observed N_MSA=1025

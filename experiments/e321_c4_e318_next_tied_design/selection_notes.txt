@@ -1,0 +1,3 @@
+Next Zhongwei batch: four novel source-batch anchors plus four Accepted_AF3 anchors where possible.
+All anchors satisfy native Cys, SIINFEKL, <=24 mutations and surface mutation fraction >=0.80;
+greedy sequence Hamming distance is at least 3 where possible.

@@ -1,0 +1,1127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="9305">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#172033}.label{font-size:16px}.small{font-size:13px}.title{font-size:22px;font-weight:700}</style>
+<text x="28" y="34" class="title">AF3 oligomer screen</text>
+<rect x="245" y="18" width="16" height="16" fill="#2563eb" rx="3"/>
+<text x="267" y="31" class="small">median ipTM</text>
+<rect x="430" y="18" width="16" height="16" fill="#f59e0b" rx="3"/>
+<text x="452" y="31" class="small">weak-chain ipTM</text>
+<rect x="615" y="18" width="16" height="16" fill="#16a34a" rx="3"/>
+<text x="637" y="31" class="small">all-chain fraction</text>
+<rect x="800" y="18" width="16" height="16" fill="#7c3aed" rx="3"/>
+<text x="822" y="31" class="small">OVA pLDDT / 100</text>
+<rect x="985" y="18" width="16" height="16" fill="#0891b2" rx="3"/>
+<text x="1007" y="31" class="small">interface consistency</text>
+<line x1="245.0" y1="58" x2="245.0" y2="9280" stroke="#e5e7eb"/>
+<text x="238.0" y="76" class="small">0.0</text>
+<line x1="385.0" y1="58" x2="385.0" y2="9280" stroke="#e5e7eb"/>
+<text x="378.0" y="76" class="small">0.2</text>
+<line x1="525.0" y1="58" x2="525.0" y2="9280" stroke="#e5e7eb"/>
+<text x="518.0" y="76" class="small">0.4</text>
+<line x1="665.0" y1="58" x2="665.0" y2="9280" stroke="#e5e7eb"/>
+<text x="658.0" y="76" class="small">0.6</text>
+<line x1="805.0" y1="58" x2="805.0" y2="9280" stroke="#e5e7eb"/>
+<text x="798.0" y="76" class="small">0.8</text>
+<line x1="945.0" y1="58" x2="945.0" y2="9280" stroke="#e5e7eb"/>
+<text x="938.0" y="76" class="small">1.0</text>
+<text x="28" y="120" class="label">ova_c4_iptm80_20a_c1</text>
+<rect x="245" y="95" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="106" class="small">0.00</text>
+<rect x="245" y="112" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="123" class="small">0.00</text>
+<rect x="245" y="129" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="140" class="small">0.00</text>
+<rect x="245" y="146" width="638.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="889.1" y="157" class="small">0.91</text>
+<rect x="245" y="163" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="174" class="small">0.00</text>
+<text x="28" y="212" class="label">ova_c4_iptm80_20a_c2</text>
+<rect x="245" y="187" width="259.0" height="12" fill="#2563eb" rx="3"/>
+<text x="510.0" y="198" class="small">0.37</text>
+<rect x="245" y="204" width="259.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="510.0" y="215" class="small">0.37</text>
+<rect x="245" y="221" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="232" class="small">1.00</text>
+<rect x="245" y="238" width="627.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="878.8" y="249" class="small">0.90</text>
+<rect x="245" y="255" width="159.7" height="12" fill="#0891b2" rx="3"/>
+<text x="410.7" y="266" class="small">0.23</text>
+<text x="28" y="304" class="label">ova_c4_iptm80_20a_c3</text>
+<rect x="245" y="279" width="119.0" height="12" fill="#2563eb" rx="3"/>
+<text x="370.0" y="290" class="small">0.17</text>
+<rect x="245" y="296" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="307" class="small">0.12</text>
+<rect x="245" y="313" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="324" class="small">1.00</text>
+<rect x="245" y="330" width="606.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="857.1" y="341" class="small">0.87</text>
+<rect x="245" y="347" width="169.7" height="12" fill="#0891b2" rx="3"/>
+<text x="420.7" y="358" class="small">0.24</text>
+<text x="28" y="396" class="label">ova_c4_iptm80_20a_c5</text>
+<rect x="245" y="371" width="329.0" height="12" fill="#2563eb" rx="3"/>
+<text x="580.0" y="382" class="small">0.47</text>
+<rect x="245" y="388" width="77.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="328.0" y="399" class="small">0.11</text>
+<rect x="245" y="405" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="416" class="small">1.00</text>
+<rect x="245" y="422" width="608.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="859.2" y="433" class="small">0.87</text>
+<rect x="245" y="439" width="405.2" height="12" fill="#0891b2" rx="3"/>
+<text x="656.2" y="450" class="small">0.58</text>
+<text x="28" y="488" class="label">ova_c4_iptm80_20a_c6</text>
+<rect x="245" y="463" width="224.0" height="12" fill="#2563eb" rx="3"/>
+<text x="475.0" y="474" class="small">0.32</text>
+<rect x="245" y="480" width="231.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="482.0" y="491" class="small">0.33</text>
+<rect x="245" y="497" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="508" class="small">1.00</text>
+<rect x="245" y="514" width="603.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="854.2" y="525" class="small">0.86</text>
+<rect x="245" y="531" width="280.0" height="12" fill="#0891b2" rx="3"/>
+<text x="531.0" y="542" class="small">0.40</text>
+<text x="28" y="580" class="label">ova_c4_iptm80_21b_c1</text>
+<rect x="245" y="555" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="566" class="small">0.00</text>
+<rect x="245" y="572" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="583" class="small">0.00</text>
+<rect x="245" y="589" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="600" class="small">0.00</text>
+<rect x="245" y="606" width="636.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="887.1" y="617" class="small">0.91</text>
+<rect x="245" y="623" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="634" class="small">0.00</text>
+<text x="28" y="672" class="label">ova_c4_iptm80_21b_c2</text>
+<rect x="245" y="647" width="217.0" height="12" fill="#2563eb" rx="3"/>
+<text x="468.0" y="658" class="small">0.31</text>
+<rect x="245" y="664" width="217.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="468.0" y="675" class="small">0.31</text>
+<rect x="245" y="681" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="692" class="small">1.00</text>
+<rect x="245" y="698" width="618.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="869.8" y="709" class="small">0.88</text>
+<rect x="245" y="715" width="366.7" height="12" fill="#0891b2" rx="3"/>
+<text x="617.7" y="726" class="small">0.52</text>
+<text x="28" y="764" class="label">ova_c4_iptm80_21b_c3</text>
+<rect x="245" y="739" width="133.0" height="12" fill="#2563eb" rx="3"/>
+<text x="384.0" y="750" class="small">0.19</text>
+<rect x="245" y="756" width="98.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="349.0" y="767" class="small">0.14</text>
+<rect x="245" y="773" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="784" class="small">1.00</text>
+<rect x="245" y="790" width="613.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="864.8" y="801" class="small">0.88</text>
+<rect x="245" y="807" width="269.2" height="12" fill="#0891b2" rx="3"/>
+<text x="520.2" y="818" class="small">0.38</text>
+<text x="28" y="856" class="label">ova_c4_iptm80_21b_c5</text>
+<rect x="245" y="831" width="336.0" height="12" fill="#2563eb" rx="3"/>
+<text x="587.0" y="842" class="small">0.48</text>
+<rect x="245" y="848" width="77.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="328.0" y="859" class="small">0.11</text>
+<rect x="245" y="865" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="876" class="small">1.00</text>
+<rect x="245" y="882" width="610.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="861.3" y="893" class="small">0.87</text>
+<rect x="245" y="899" width="401.7" height="12" fill="#0891b2" rx="3"/>
+<text x="652.7" y="910" class="small">0.57</text>
+<text x="28" y="948" class="label">ova_c4_iptm80_21b_c6</text>
+<rect x="245" y="923" width="266.0" height="12" fill="#2563eb" rx="3"/>
+<text x="517.0" y="934" class="small">0.38</text>
+<rect x="245" y="940" width="308.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="559.0" y="951" class="small">0.44</text>
+<rect x="245" y="957" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="968" class="small">1.00</text>
+<rect x="245" y="974" width="608.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="859.6" y="985" class="small">0.87</text>
+<rect x="245" y="991" width="442.1" height="12" fill="#0891b2" rx="3"/>
+<text x="693.1" y="1002" class="small">0.63</text>
+<text x="28" y="1040" class="label">ova_c4_iptm80_21c_c1</text>
+<rect x="245" y="1015" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="1026" class="small">0.00</text>
+<rect x="245" y="1032" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="1043" class="small">0.00</text>
+<rect x="245" y="1049" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="1060" class="small">0.00</text>
+<rect x="245" y="1066" width="636.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="887.9" y="1077" class="small">0.91</text>
+<rect x="245" y="1083" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="1094" class="small">0.00</text>
+<text x="28" y="1132" class="label">ova_c4_iptm80_21c_c2</text>
+<rect x="245" y="1107" width="245.0" height="12" fill="#2563eb" rx="3"/>
+<text x="496.0" y="1118" class="small">0.35</text>
+<rect x="245" y="1124" width="245.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="496.0" y="1135" class="small">0.35</text>
+<rect x="245" y="1141" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1152" class="small">1.00</text>
+<rect x="245" y="1158" width="626.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="877.6" y="1169" class="small">0.90</text>
+<rect x="245" y="1175" width="495.8" height="12" fill="#0891b2" rx="3"/>
+<text x="746.8" y="1186" class="small">0.71</text>
+<text x="28" y="1224" class="label">ova_c4_iptm80_21c_c3</text>
+<rect x="245" y="1199" width="133.0" height="12" fill="#2563eb" rx="3"/>
+<text x="384.0" y="1210" class="small">0.19</text>
+<rect x="245" y="1216" width="98.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="349.0" y="1227" class="small">0.14</text>
+<rect x="245" y="1233" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1244" class="small">1.00</text>
+<rect x="245" y="1250" width="610.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="861.1" y="1261" class="small">0.87</text>
+<rect x="245" y="1267" width="248.4" height="12" fill="#0891b2" rx="3"/>
+<text x="499.4" y="1278" class="small">0.35</text>
+<text x="28" y="1316" class="label">ova_c4_iptm80_21c_c5</text>
+<rect x="245" y="1291" width="315.0" height="12" fill="#2563eb" rx="3"/>
+<text x="566.0" y="1302" class="small">0.45</text>
+<rect x="245" y="1308" width="77.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="328.0" y="1319" class="small">0.11</text>
+<rect x="245" y="1325" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1336" class="small">1.00</text>
+<rect x="245" y="1342" width="611.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="862.2" y="1353" class="small">0.87</text>
+<rect x="245" y="1359" width="449.3" height="12" fill="#0891b2" rx="3"/>
+<text x="700.3" y="1370" class="small">0.64</text>
+<text x="28" y="1408" class="label">ova_c4_iptm80_21c_c6</text>
+<rect x="245" y="1383" width="196.0" height="12" fill="#2563eb" rx="3"/>
+<text x="447.0" y="1394" class="small">0.28</text>
+<rect x="245" y="1400" width="217.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="468.0" y="1411" class="small">0.31</text>
+<rect x="245" y="1417" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1428" class="small">1.00</text>
+<rect x="245" y="1434" width="593.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="844.2" y="1445" class="small">0.85</text>
+<rect x="245" y="1451" width="379.8" height="12" fill="#0891b2" rx="3"/>
+<text x="630.8" y="1462" class="small">0.54</text>
+<text x="28" y="1500" class="label">ova_c4_iptm80_20d_c1</text>
+<rect x="245" y="1475" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="1486" class="small">0.00</text>
+<rect x="245" y="1492" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="1503" class="small">0.00</text>
+<rect x="245" y="1509" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="1520" class="small">0.00</text>
+<rect x="245" y="1526" width="638.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="889.8" y="1537" class="small">0.91</text>
+<rect x="245" y="1543" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="1554" class="small">0.00</text>
+<text x="28" y="1592" class="label">ova_c4_iptm80_20d_c2</text>
+<rect x="245" y="1567" width="161.0" height="12" fill="#2563eb" rx="3"/>
+<text x="412.0" y="1578" class="small">0.23</text>
+<rect x="245" y="1584" width="161.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="412.0" y="1595" class="small">0.23</text>
+<rect x="245" y="1601" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1612" class="small">1.00</text>
+<rect x="245" y="1618" width="619.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="870.4" y="1629" class="small">0.88</text>
+<rect x="245" y="1635" width="306.2" height="12" fill="#0891b2" rx="3"/>
+<text x="557.2" y="1646" class="small">0.44</text>
+<text x="28" y="1684" class="label">ova_c4_iptm80_20d_c3</text>
+<rect x="245" y="1659" width="119.0" height="12" fill="#2563eb" rx="3"/>
+<text x="370.0" y="1670" class="small">0.17</text>
+<rect x="245" y="1676" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="1687" class="small">0.12</text>
+<rect x="245" y="1693" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1704" class="small">1.00</text>
+<rect x="245" y="1710" width="607.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="858.3" y="1721" class="small">0.87</text>
+<rect x="245" y="1727" width="240.7" height="12" fill="#0891b2" rx="3"/>
+<text x="491.7" y="1738" class="small">0.34</text>
+<text x="28" y="1776" class="label">ova_c4_iptm80_20d_c5</text>
+<rect x="245" y="1751" width="294.0" height="12" fill="#2563eb" rx="3"/>
+<text x="545.0" y="1762" class="small">0.42</text>
+<rect x="245" y="1768" width="77.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="328.0" y="1779" class="small">0.11</text>
+<rect x="245" y="1785" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1796" class="small">1.00</text>
+<rect x="245" y="1802" width="609.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="860.2" y="1813" class="small">0.87</text>
+<rect x="245" y="1819" width="390.9" height="12" fill="#0891b2" rx="3"/>
+<text x="641.9" y="1830" class="small">0.56</text>
+<text x="28" y="1868" class="label">ova_c4_iptm80_20d_c6</text>
+<rect x="245" y="1843" width="245.0" height="12" fill="#2563eb" rx="3"/>
+<text x="496.0" y="1854" class="small">0.35</text>
+<rect x="245" y="1860" width="238.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="489.0" y="1871" class="small">0.34</text>
+<rect x="245" y="1877" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="1888" class="small">1.00</text>
+<rect x="245" y="1894" width="603.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="854.7" y="1905" class="small">0.86</text>
+<rect x="245" y="1911" width="273.4" height="12" fill="#0891b2" rx="3"/>
+<text x="524.4" y="1922" class="small">0.39</text>
+<text x="28" y="1960" class="label">ova_c4_iptm80_21e_c1</text>
+<rect x="245" y="1935" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="1946" class="small">0.00</text>
+<rect x="245" y="1952" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="1963" class="small">0.00</text>
+<rect x="245" y="1969" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="1980" class="small">0.00</text>
+<rect x="245" y="1986" width="637.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="888.1" y="1997" class="small">0.91</text>
+<rect x="245" y="2003" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="2014" class="small">0.00</text>
+<text x="28" y="2052" class="label">ova_c4_iptm80_21e_c2</text>
+<rect x="245" y="2027" width="203.0" height="12" fill="#2563eb" rx="3"/>
+<text x="454.0" y="2038" class="small">0.29</text>
+<rect x="245" y="2044" width="203.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="454.0" y="2055" class="small">0.29</text>
+<rect x="245" y="2061" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2072" class="small">1.00</text>
+<rect x="245" y="2078" width="622.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="873.9" y="2089" class="small">0.89</text>
+<rect x="245" y="2095" width="546.8" height="12" fill="#0891b2" rx="3"/>
+<text x="797.8" y="2106" class="small">0.78</text>
+<text x="28" y="2144" class="label">ova_c4_iptm80_21e_c3</text>
+<rect x="245" y="2119" width="126.0" height="12" fill="#2563eb" rx="3"/>
+<text x="377.0" y="2130" class="small">0.18</text>
+<rect x="245" y="2136" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="2147" class="small">0.13</text>
+<rect x="245" y="2153" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2164" class="small">1.00</text>
+<rect x="245" y="2170" width="608.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="859.0" y="2181" class="small">0.87</text>
+<rect x="245" y="2187" width="246.1" height="12" fill="#0891b2" rx="3"/>
+<text x="497.1" y="2198" class="small">0.35</text>
+<text x="28" y="2236" class="label">ova_c4_iptm80_21e_c5</text>
+<rect x="245" y="2211" width="308.0" height="12" fill="#2563eb" rx="3"/>
+<text x="559.0" y="2222" class="small">0.44</text>
+<rect x="245" y="2228" width="77.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="328.0" y="2239" class="small">0.11</text>
+<rect x="245" y="2245" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2256" class="small">1.00</text>
+<rect x="245" y="2262" width="609.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="860.3" y="2273" class="small">0.87</text>
+<rect x="245" y="2279" width="423.9" height="12" fill="#0891b2" rx="3"/>
+<text x="674.9" y="2290" class="small">0.61</text>
+<text x="28" y="2328" class="label">ova_c4_iptm80_21e_c6</text>
+<rect x="245" y="2303" width="238.0" height="12" fill="#2563eb" rx="3"/>
+<text x="489.0" y="2314" class="small">0.34</text>
+<rect x="245" y="2320" width="238.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="489.0" y="2331" class="small">0.34</text>
+<rect x="245" y="2337" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2348" class="small">1.00</text>
+<rect x="245" y="2354" width="599.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="850.6" y="2365" class="small">0.86</text>
+<rect x="245" y="2371" width="314.5" height="12" fill="#0891b2" rx="3"/>
+<text x="565.5" y="2382" class="small">0.45</text>
+<text x="28" y="2420" class="label">ova_c4_iptm80_19f_c1</text>
+<rect x="245" y="2395" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="2406" class="small">0.00</text>
+<rect x="245" y="2412" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="2423" class="small">0.00</text>
+<rect x="245" y="2429" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="2440" class="small">0.00</text>
+<rect x="245" y="2446" width="635.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="886.3" y="2457" class="small">0.91</text>
+<rect x="245" y="2463" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="2474" class="small">0.00</text>
+<text x="28" y="2512" class="label">ova_c4_iptm80_19f_c2</text>
+<rect x="245" y="2487" width="196.0" height="12" fill="#2563eb" rx="3"/>
+<text x="447.0" y="2498" class="small">0.28</text>
+<rect x="245" y="2504" width="196.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="447.0" y="2515" class="small">0.28</text>
+<rect x="245" y="2521" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2532" class="small">1.00</text>
+<rect x="245" y="2538" width="619.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="870.6" y="2549" class="small">0.89</text>
+<rect x="245" y="2555" width="104.2" height="12" fill="#0891b2" rx="3"/>
+<text x="355.2" y="2566" class="small">0.15</text>
+<text x="28" y="2604" class="label">ova_c4_iptm80_19f_c3</text>
+<rect x="245" y="2579" width="112.0" height="12" fill="#2563eb" rx="3"/>
+<text x="363.0" y="2590" class="small">0.16</text>
+<rect x="245" y="2596" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="2607" class="small">0.12</text>
+<rect x="245" y="2613" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2624" class="small">1.00</text>
+<rect x="245" y="2630" width="605.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="856.7" y="2641" class="small">0.87</text>
+<rect x="245" y="2647" width="198.7" height="12" fill="#0891b2" rx="3"/>
+<text x="449.7" y="2658" class="small">0.28</text>
+<text x="28" y="2696" class="label">ova_c4_iptm80_19f_c5</text>
+<rect x="245" y="2671" width="301.0" height="12" fill="#2563eb" rx="3"/>
+<text x="552.0" y="2682" class="small">0.43</text>
+<rect x="245" y="2688" width="77.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="328.0" y="2699" class="small">0.11</text>
+<rect x="245" y="2705" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2716" class="small">1.00</text>
+<rect x="245" y="2722" width="607.5" height="12" fill="#7c3aed" rx="3"/>
+<text x="858.5" y="2733" class="small">0.87</text>
+<rect x="245" y="2739" width="404.2" height="12" fill="#0891b2" rx="3"/>
+<text x="655.2" y="2750" class="small">0.58</text>
+<text x="28" y="2788" class="label">ova_c4_iptm80_19f_c6</text>
+<rect x="245" y="2763" width="273.0" height="12" fill="#2563eb" rx="3"/>
+<text x="524.0" y="2774" class="small">0.39</text>
+<rect x="245" y="2780" width="357.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="608.0" y="2791" class="small">0.51</text>
+<rect x="245" y="2797" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2808" class="small">1.00</text>
+<rect x="245" y="2814" width="609.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="860.4" y="2825" class="small">0.87</text>
+<rect x="245" y="2831" width="403.4" height="12" fill="#0891b2" rx="3"/>
+<text x="654.4" y="2842" class="small">0.58</text>
+<text x="28" y="2880" class="label">ova_c4_iptm80_21g_c1</text>
+<rect x="245" y="2855" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="2866" class="small">0.00</text>
+<rect x="245" y="2872" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="2883" class="small">0.00</text>
+<rect x="245" y="2889" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="2900" class="small">0.00</text>
+<rect x="245" y="2906" width="637.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="888.7" y="2917" class="small">0.91</text>
+<rect x="245" y="2923" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="2934" class="small">0.00</text>
+<text x="28" y="2972" class="label">ova_c4_iptm80_21g_c2</text>
+<rect x="245" y="2947" width="126.0" height="12" fill="#2563eb" rx="3"/>
+<text x="377.0" y="2958" class="small">0.18</text>
+<rect x="245" y="2964" width="126.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="377.0" y="2975" class="small">0.18</text>
+<rect x="245" y="2981" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="2992" class="small">1.00</text>
+<rect x="245" y="2998" width="613.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="864.0" y="3009" class="small">0.88</text>
+<rect x="245" y="3015" width="119.5" height="12" fill="#0891b2" rx="3"/>
+<text x="370.5" y="3026" class="small">0.17</text>
+<text x="28" y="3064" class="label">ova_c4_iptm80_21g_c3</text>
+<rect x="245" y="3039" width="119.0" height="12" fill="#2563eb" rx="3"/>
+<text x="370.0" y="3050" class="small">0.17</text>
+<rect x="245" y="3056" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="3067" class="small">0.13</text>
+<rect x="245" y="3073" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3084" class="small">1.00</text>
+<rect x="245" y="3090" width="602.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="853.3" y="3101" class="small">0.86</text>
+<rect x="245" y="3107" width="179.5" height="12" fill="#0891b2" rx="3"/>
+<text x="430.5" y="3118" class="small">0.26</text>
+<text x="28" y="3156" class="label">ova_c4_iptm80_21g_c5</text>
+<rect x="245" y="3131" width="329.0" height="12" fill="#2563eb" rx="3"/>
+<text x="580.0" y="3142" class="small">0.47</text>
+<rect x="245" y="3148" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="3159" class="small">0.13</text>
+<rect x="245" y="3165" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3176" class="small">1.00</text>
+<rect x="245" y="3182" width="602.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="853.1" y="3193" class="small">0.86</text>
+<rect x="245" y="3199" width="454.0" height="12" fill="#0891b2" rx="3"/>
+<text x="705.0" y="3210" class="small">0.65</text>
+<text x="28" y="3248" class="label">ova_c4_iptm80_21g_c6</text>
+<rect x="245" y="3223" width="203.0" height="12" fill="#2563eb" rx="3"/>
+<text x="454.0" y="3234" class="small">0.29</text>
+<rect x="245" y="3240" width="189.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="440.0" y="3251" class="small">0.27</text>
+<rect x="245" y="3257" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3268" class="small">1.00</text>
+<rect x="245" y="3274" width="597.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="848.0" y="3285" class="small">0.85</text>
+<rect x="245" y="3291" width="318.2" height="12" fill="#0891b2" rx="3"/>
+<text x="569.2" y="3302" class="small">0.45</text>
+<text x="28" y="3340" class="label">ova_c4_iptm80_21h_c1</text>
+<rect x="245" y="3315" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="3326" class="small">0.00</text>
+<rect x="245" y="3332" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="3343" class="small">0.00</text>
+<rect x="245" y="3349" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="3360" class="small">0.00</text>
+<rect x="245" y="3366" width="638.5" height="12" fill="#7c3aed" rx="3"/>
+<text x="889.5" y="3377" class="small">0.91</text>
+<rect x="245" y="3383" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="3394" class="small">0.00</text>
+<text x="28" y="3432" class="label">ova_c4_iptm80_21h_c2</text>
+<rect x="245" y="3407" width="147.0" height="12" fill="#2563eb" rx="3"/>
+<text x="398.0" y="3418" class="small">0.21</text>
+<rect x="245" y="3424" width="147.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="398.0" y="3435" class="small">0.21</text>
+<rect x="245" y="3441" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3452" class="small">1.00</text>
+<rect x="245" y="3458" width="617.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="868.3" y="3469" class="small">0.88</text>
+<rect x="245" y="3475" width="302.3" height="12" fill="#0891b2" rx="3"/>
+<text x="553.3" y="3486" class="small">0.43</text>
+<text x="28" y="3524" class="label">ova_c4_iptm80_21h_c3</text>
+<rect x="245" y="3499" width="119.0" height="12" fill="#2563eb" rx="3"/>
+<text x="370.0" y="3510" class="small">0.17</text>
+<rect x="245" y="3516" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="3527" class="small">0.13</text>
+<rect x="245" y="3533" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3544" class="small">1.00</text>
+<rect x="245" y="3550" width="605.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="856.4" y="3561" class="small">0.86</text>
+<rect x="245" y="3567" width="233.3" height="12" fill="#0891b2" rx="3"/>
+<text x="484.3" y="3578" class="small">0.33</text>
+<text x="28" y="3616" class="label">ova_c4_iptm80_21h_c5</text>
+<rect x="245" y="3591" width="308.0" height="12" fill="#2563eb" rx="3"/>
+<text x="559.0" y="3602" class="small">0.44</text>
+<rect x="245" y="3608" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="3619" class="small">0.12</text>
+<rect x="245" y="3625" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3636" class="small">1.00</text>
+<rect x="245" y="3642" width="603.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="854.3" y="3653" class="small">0.86</text>
+<rect x="245" y="3659" width="434.2" height="12" fill="#0891b2" rx="3"/>
+<text x="685.2" y="3670" class="small">0.62</text>
+<text x="28" y="3708" class="label">ova_c4_iptm80_21h_c6</text>
+<rect x="245" y="3683" width="231.0" height="12" fill="#2563eb" rx="3"/>
+<text x="482.0" y="3694" class="small">0.33</text>
+<rect x="245" y="3700" width="238.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="489.0" y="3711" class="small">0.34</text>
+<rect x="245" y="3717" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3728" class="small">1.00</text>
+<rect x="245" y="3734" width="601.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="852.9" y="3745" class="small">0.86</text>
+<rect x="245" y="3751" width="501.9" height="12" fill="#0891b2" rx="3"/>
+<text x="752.9" y="3762" class="small">0.72</text>
+<text x="28" y="3800" class="label">ova_c4_iptm80_21i_c1</text>
+<rect x="245" y="3775" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="3786" class="small">0.00</text>
+<rect x="245" y="3792" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="3803" class="small">0.00</text>
+<rect x="245" y="3809" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="3820" class="small">0.00</text>
+<rect x="245" y="3826" width="636.5" height="12" fill="#7c3aed" rx="3"/>
+<text x="887.5" y="3837" class="small">0.91</text>
+<rect x="245" y="3843" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="3854" class="small">0.00</text>
+<text x="28" y="3892" class="label">ova_c4_iptm80_21i_c2</text>
+<rect x="245" y="3867" width="224.0" height="12" fill="#2563eb" rx="3"/>
+<text x="475.0" y="3878" class="small">0.32</text>
+<rect x="245" y="3884" width="224.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="475.0" y="3895" class="small">0.32</text>
+<rect x="245" y="3901" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="3912" class="small">1.00</text>
+<rect x="245" y="3918" width="625.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="876.2" y="3929" class="small">0.89</text>
+<rect x="245" y="3935" width="403.1" height="12" fill="#0891b2" rx="3"/>
+<text x="654.1" y="3946" class="small">0.58</text>
+<text x="28" y="3984" class="label">ova_c4_iptm80_21i_c3</text>
+<rect x="245" y="3959" width="105.0" height="12" fill="#2563eb" rx="3"/>
+<text x="356.0" y="3970" class="small">0.15</text>
+<rect x="245" y="3976" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="3987" class="small">0.12</text>
+<rect x="245" y="3993" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4004" class="small">1.00</text>
+<rect x="245" y="4010" width="606.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="857.1" y="4021" class="small">0.87</text>
+<rect x="245" y="4027" width="203.6" height="12" fill="#0891b2" rx="3"/>
+<text x="454.6" y="4038" class="small">0.29</text>
+<text x="28" y="4076" class="label">ova_c4_iptm80_21i_c5</text>
+<rect x="245" y="4051" width="308.0" height="12" fill="#2563eb" rx="3"/>
+<text x="559.0" y="4062" class="small">0.44</text>
+<rect x="245" y="4068" width="77.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="328.0" y="4079" class="small">0.11</text>
+<rect x="245" y="4085" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4096" class="small">1.00</text>
+<rect x="245" y="4102" width="609.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="860.7" y="4113" class="small">0.87</text>
+<rect x="245" y="4119" width="407.5" height="12" fill="#0891b2" rx="3"/>
+<text x="658.5" y="4130" class="small">0.58</text>
+<text x="28" y="4168" class="label">ova_c4_iptm80_21i_c6</text>
+<rect x="245" y="4143" width="280.0" height="12" fill="#2563eb" rx="3"/>
+<text x="531.0" y="4154" class="small">0.40</text>
+<rect x="245" y="4160" width="301.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="552.0" y="4171" class="small">0.43</text>
+<rect x="245" y="4177" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4188" class="small">1.00</text>
+<rect x="245" y="4194" width="609.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="860.2" y="4205" class="small">0.87</text>
+<rect x="245" y="4211" width="344.3" height="12" fill="#0891b2" rx="3"/>
+<text x="595.3" y="4222" class="small">0.49</text>
+<text x="28" y="4260" class="label">ova_c4_iptm80_19j_c1</text>
+<rect x="245" y="4235" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="4246" class="small">0.00</text>
+<rect x="245" y="4252" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="4263" class="small">0.00</text>
+<rect x="245" y="4269" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="4280" class="small">0.00</text>
+<rect x="245" y="4286" width="639.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="890.0" y="4297" class="small">0.91</text>
+<rect x="245" y="4303" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="4314" class="small">0.00</text>
+<text x="28" y="4352" class="label">ova_c4_iptm80_19j_c2</text>
+<rect x="245" y="4327" width="161.0" height="12" fill="#2563eb" rx="3"/>
+<text x="412.0" y="4338" class="small">0.23</text>
+<rect x="245" y="4344" width="161.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="412.0" y="4355" class="small">0.23</text>
+<rect x="245" y="4361" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4372" class="small">1.00</text>
+<rect x="245" y="4378" width="621.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="872.9" y="4389" class="small">0.89</text>
+<rect x="245" y="4395" width="307.3" height="12" fill="#0891b2" rx="3"/>
+<text x="558.3" y="4406" class="small">0.44</text>
+<text x="28" y="4444" class="label">ova_c4_iptm80_19j_c3</text>
+<rect x="245" y="4419" width="119.0" height="12" fill="#2563eb" rx="3"/>
+<text x="370.0" y="4430" class="small">0.17</text>
+<rect x="245" y="4436" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="4447" class="small">0.13</text>
+<rect x="245" y="4453" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4464" class="small">1.00</text>
+<rect x="245" y="4470" width="608.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="859.7" y="4481" class="small">0.87</text>
+<rect x="245" y="4487" width="214.3" height="12" fill="#0891b2" rx="3"/>
+<text x="465.3" y="4498" class="small">0.31</text>
+<text x="28" y="4536" class="label">ova_c4_iptm80_19j_c5</text>
+<rect x="245" y="4511" width="308.0" height="12" fill="#2563eb" rx="3"/>
+<text x="559.0" y="4522" class="small">0.44</text>
+<rect x="245" y="4528" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="4539" class="small">0.12</text>
+<rect x="245" y="4545" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4556" class="small">1.00</text>
+<rect x="245" y="4562" width="604.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="855.6" y="4573" class="small">0.86</text>
+<rect x="245" y="4579" width="386.8" height="12" fill="#0891b2" rx="3"/>
+<text x="637.8" y="4590" class="small">0.55</text>
+<text x="28" y="4628" class="label">ova_c4_iptm80_19j_c6</text>
+<rect x="245" y="4603" width="329.0" height="12" fill="#2563eb" rx="3"/>
+<text x="580.0" y="4614" class="small">0.47</text>
+<rect x="245" y="4620" width="350.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="601.0" y="4631" class="small">0.50</text>
+<rect x="245" y="4637" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4648" class="small">1.00</text>
+<rect x="245" y="4654" width="604.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="855.4" y="4665" class="small">0.86</text>
+<rect x="245" y="4671" width="379.7" height="12" fill="#0891b2" rx="3"/>
+<text x="630.7" y="4682" class="small">0.54</text>
+<text x="28" y="4720" class="label">ova_c4_iptm80_19k_c1</text>
+<rect x="245" y="4695" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="4706" class="small">0.00</text>
+<rect x="245" y="4712" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="4723" class="small">0.00</text>
+<rect x="245" y="4729" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="4740" class="small">0.00</text>
+<rect x="245" y="4746" width="636.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="887.6" y="4757" class="small">0.91</text>
+<rect x="245" y="4763" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="4774" class="small">0.00</text>
+<text x="28" y="4812" class="label">ova_c4_iptm80_19k_c2</text>
+<rect x="245" y="4787" width="308.0" height="12" fill="#2563eb" rx="3"/>
+<text x="559.0" y="4798" class="small">0.44</text>
+<rect x="245" y="4804" width="308.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="559.0" y="4815" class="small">0.44</text>
+<rect x="245" y="4821" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4832" class="small">1.00</text>
+<rect x="245" y="4838" width="628.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="879.8" y="4849" class="small">0.90</text>
+<rect x="245" y="4855" width="361.3" height="12" fill="#0891b2" rx="3"/>
+<text x="612.3" y="4866" class="small">0.52</text>
+<text x="28" y="4904" class="label">ova_c4_iptm80_19k_c3</text>
+<rect x="245" y="4879" width="147.0" height="12" fill="#2563eb" rx="3"/>
+<text x="398.0" y="4890" class="small">0.21</text>
+<rect x="245" y="4896" width="98.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="349.0" y="4907" class="small">0.14</text>
+<rect x="245" y="4913" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="4924" class="small">1.00</text>
+<rect x="245" y="4930" width="611.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="862.7" y="4941" class="small">0.87</text>
+<rect x="245" y="4947" width="191.9" height="12" fill="#0891b2" rx="3"/>
+<text x="442.9" y="4958" class="small">0.27</text>
+<text x="28" y="4996" class="label">ova_c4_iptm80_19k_c5</text>
+<rect x="245" y="4971" width="266.0" height="12" fill="#2563eb" rx="3"/>
+<text x="517.0" y="4982" class="small">0.38</text>
+<rect x="245" y="4988" width="77.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="328.0" y="4999" class="small">0.11</text>
+<rect x="245" y="5005" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5016" class="small">1.00</text>
+<rect x="245" y="5022" width="605.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="856.3" y="5033" class="small">0.86</text>
+<rect x="245" y="5039" width="383.5" height="12" fill="#0891b2" rx="3"/>
+<text x="634.5" y="5050" class="small">0.55</text>
+<text x="28" y="5088" class="label">ova_c4_iptm80_19k_c6</text>
+<rect x="245" y="5063" width="287.0" height="12" fill="#2563eb" rx="3"/>
+<text x="538.0" y="5074" class="small">0.41</text>
+<rect x="245" y="5080" width="350.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="601.0" y="5091" class="small">0.50</text>
+<rect x="245" y="5097" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5108" class="small">1.00</text>
+<rect x="245" y="5114" width="608.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="859.9" y="5125" class="small">0.87</text>
+<rect x="245" y="5131" width="290.0" height="12" fill="#0891b2" rx="3"/>
+<text x="541.0" y="5142" class="small">0.41</text>
+<text x="28" y="5180" class="label">ova_c4_iptm80_19l_c1</text>
+<rect x="245" y="5155" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="5166" class="small">0.00</text>
+<rect x="245" y="5172" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="5183" class="small">0.00</text>
+<rect x="245" y="5189" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="5200" class="small">0.00</text>
+<rect x="245" y="5206" width="639.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="890.0" y="5217" class="small">0.91</text>
+<rect x="245" y="5223" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="5234" class="small">0.00</text>
+<text x="28" y="5272" class="label">ova_c4_iptm80_19l_c2</text>
+<rect x="245" y="5247" width="350.0" height="12" fill="#2563eb" rx="3"/>
+<text x="601.0" y="5258" class="small">0.50</text>
+<rect x="245" y="5264" width="350.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="601.0" y="5275" class="small">0.50</text>
+<rect x="245" y="5281" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5292" class="small">1.00</text>
+<rect x="245" y="5298" width="623.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="874.4" y="5309" class="small">0.89</text>
+<rect x="245" y="5315" width="509.1" height="12" fill="#0891b2" rx="3"/>
+<text x="760.1" y="5326" class="small">0.73</text>
+<text x="28" y="5364" class="label">ova_c4_iptm80_19l_c3</text>
+<rect x="245" y="5339" width="126.0" height="12" fill="#2563eb" rx="3"/>
+<text x="377.0" y="5350" class="small">0.18</text>
+<rect x="245" y="5356" width="98.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="349.0" y="5367" class="small">0.14</text>
+<rect x="245" y="5373" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5384" class="small">1.00</text>
+<rect x="245" y="5390" width="606.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="857.0" y="5401" class="small">0.87</text>
+<rect x="245" y="5407" width="244.4" height="12" fill="#0891b2" rx="3"/>
+<text x="495.4" y="5418" class="small">0.35</text>
+<text x="28" y="5456" class="label">ova_c4_iptm80_19l_c5</text>
+<rect x="245" y="5431" width="203.0" height="12" fill="#2563eb" rx="3"/>
+<text x="454.0" y="5442" class="small">0.29</text>
+<rect x="245" y="5448" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="5459" class="small">0.12</text>
+<rect x="245" y="5465" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5476" class="small">1.00</text>
+<rect x="245" y="5482" width="606.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="857.1" y="5493" class="small">0.87</text>
+<rect x="245" y="5499" width="290.0" height="12" fill="#0891b2" rx="3"/>
+<text x="541.0" y="5510" class="small">0.41</text>
+<text x="28" y="5548" class="label">ova_c4_iptm80_19l_c6</text>
+<rect x="245" y="5523" width="259.0" height="12" fill="#2563eb" rx="3"/>
+<text x="510.0" y="5534" class="small">0.37</text>
+<rect x="245" y="5540" width="343.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="594.0" y="5551" class="small">0.49</text>
+<rect x="245" y="5557" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5568" class="small">1.00</text>
+<rect x="245" y="5574" width="611.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="862.7" y="5585" class="small">0.87</text>
+<rect x="245" y="5591" width="479.6" height="12" fill="#0891b2" rx="3"/>
+<text x="730.6" y="5602" class="small">0.69</text>
+<text x="28" y="5640" class="label">ova_c4_iptm80_21m_c1</text>
+<rect x="245" y="5615" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="5626" class="small">0.00</text>
+<rect x="245" y="5632" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="5643" class="small">0.00</text>
+<rect x="245" y="5649" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="5660" class="small">0.00</text>
+<rect x="245" y="5666" width="637.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="888.4" y="5677" class="small">0.91</text>
+<rect x="245" y="5683" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="5694" class="small">0.00</text>
+<text x="28" y="5732" class="label">ova_c4_iptm80_21m_c2</text>
+<rect x="245" y="5707" width="147.0" height="12" fill="#2563eb" rx="3"/>
+<text x="398.0" y="5718" class="small">0.21</text>
+<rect x="245" y="5724" width="147.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="398.0" y="5735" class="small">0.21</text>
+<rect x="245" y="5741" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5752" class="small">1.00</text>
+<rect x="245" y="5758" width="615.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="866.0" y="5769" class="small">0.88</text>
+<rect x="245" y="5775" width="280.0" height="12" fill="#0891b2" rx="3"/>
+<text x="531.0" y="5786" class="small">0.40</text>
+<text x="28" y="5824" class="label">ova_c4_iptm80_21m_c3</text>
+<rect x="245" y="5799" width="105.0" height="12" fill="#2563eb" rx="3"/>
+<text x="356.0" y="5810" class="small">0.15</text>
+<rect x="245" y="5816" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="5827" class="small">0.12</text>
+<rect x="245" y="5833" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5844" class="small">1.00</text>
+<rect x="245" y="5850" width="599.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="850.8" y="5861" class="small">0.86</text>
+<rect x="245" y="5867" width="175.0" height="12" fill="#0891b2" rx="3"/>
+<text x="426.0" y="5878" class="small">0.25</text>
+<text x="28" y="5916" class="label">ova_c4_iptm80_21m_c5</text>
+<rect x="245" y="5891" width="266.0" height="12" fill="#2563eb" rx="3"/>
+<text x="517.0" y="5902" class="small">0.38</text>
+<rect x="245" y="5908" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="5919" class="small">0.12</text>
+<rect x="245" y="5925" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="5936" class="small">1.00</text>
+<rect x="245" y="5942" width="598.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="849.8" y="5953" class="small">0.86</text>
+<rect x="245" y="5959" width="422.2" height="12" fill="#0891b2" rx="3"/>
+<text x="673.2" y="5970" class="small">0.60</text>
+<text x="28" y="6008" class="label">ova_c4_iptm80_21m_c6</text>
+<rect x="245" y="5983" width="189.0" height="12" fill="#2563eb" rx="3"/>
+<text x="440.0" y="5994" class="small">0.27</text>
+<rect x="245" y="6000" width="175.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="426.0" y="6011" class="small">0.25</text>
+<rect x="245" y="6017" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="6028" class="small">1.00</text>
+<rect x="245" y="6034" width="596.5" height="12" fill="#7c3aed" rx="3"/>
+<text x="847.5" y="6045" class="small">0.85</text>
+<rect x="245" y="6051" width="466.7" height="12" fill="#0891b2" rx="3"/>
+<text x="717.7" y="6062" class="small">0.67</text>
+<text x="28" y="6100" class="label">ova_c4_iptm80_20n_c1</text>
+<rect x="245" y="6075" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="6086" class="small">0.00</text>
+<rect x="245" y="6092" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="6103" class="small">0.00</text>
+<rect x="245" y="6109" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="6120" class="small">0.00</text>
+<rect x="245" y="6126" width="636.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="887.1" y="6137" class="small">0.91</text>
+<rect x="245" y="6143" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="6154" class="small">0.00</text>
+<text x="28" y="6192" class="label">ova_c4_iptm80_20n_c2</text>
+<rect x="245" y="6167" width="196.0" height="12" fill="#2563eb" rx="3"/>
+<text x="447.0" y="6178" class="small">0.28</text>
+<rect x="245" y="6184" width="196.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="447.0" y="6195" class="small">0.28</text>
+<rect x="245" y="6201" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="6212" class="small">1.00</text>
+<rect x="245" y="6218" width="620.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="871.4" y="6229" class="small">0.89</text>
+<rect x="245" y="6235" width="108.9" height="12" fill="#0891b2" rx="3"/>
+<text x="359.9" y="6246" class="small">0.16</text>
+<text x="28" y="6284" class="label">ova_c4_iptm80_20n_c3</text>
+<rect x="245" y="6259" width="112.0" height="12" fill="#2563eb" rx="3"/>
+<text x="363.0" y="6270" class="small">0.16</text>
+<rect x="245" y="6276" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="6287" class="small">0.12</text>
+<rect x="245" y="6293" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="6304" class="small">1.00</text>
+<rect x="245" y="6310" width="609.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="860.8" y="6321" class="small">0.87</text>
+<rect x="245" y="6327" width="195.7" height="12" fill="#0891b2" rx="3"/>
+<text x="446.7" y="6338" class="small">0.28</text>
+<text x="28" y="6376" class="label">ova_c4_iptm80_20n_c5</text>
+<rect x="245" y="6351" width="259.0" height="12" fill="#2563eb" rx="3"/>
+<text x="510.0" y="6362" class="small">0.37</text>
+<rect x="245" y="6368" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="6379" class="small">0.13</text>
+<rect x="245" y="6385" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="6396" class="small">1.00</text>
+<rect x="245" y="6402" width="603.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="854.3" y="6413" class="small">0.86</text>
+<rect x="245" y="6419" width="387.9" height="12" fill="#0891b2" rx="3"/>
+<text x="638.9" y="6430" class="small">0.55</text>
+<text x="28" y="6468" class="label">ova_c4_iptm80_20n_c6</text>
+<rect x="245" y="6443" width="203.0" height="12" fill="#2563eb" rx="3"/>
+<text x="454.0" y="6454" class="small">0.29</text>
+<rect x="245" y="6460" width="203.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="454.0" y="6471" class="small">0.29</text>
+<rect x="245" y="6477" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="6488" class="small">1.00</text>
+<rect x="245" y="6494" width="606.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="857.1" y="6505" class="small">0.87</text>
+<rect x="245" y="6511" width="298.6" height="12" fill="#0891b2" rx="3"/>
+<text x="549.5" y="6522" class="small">0.43</text>
+<text x="28" y="6560" class="label">ova_c4_iptm80_20o_c1</text>
+<rect x="245" y="6535" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="6546" class="small">0.00</text>
+<rect x="245" y="6552" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="6563" class="small">0.00</text>
+<rect x="245" y="6569" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="6580" class="small">0.00</text>
+<rect x="245" y="6586" width="638.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="889.8" y="6597" class="small">0.91</text>
+<rect x="245" y="6603" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="6614" class="small">0.00</text>
+<text x="28" y="6652" class="label">ova_c4_iptm80_20o_c2</text>
+<rect x="245" y="6627" width="147.0" height="12" fill="#2563eb" rx="3"/>
+<text x="398.0" y="6638" class="small">0.21</text>
+<rect x="245" y="6644" width="147.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="398.0" y="6655" class="small">0.21</text>
+<rect x="245" y="6661" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="6672" class="small">1.00</text>
+<rect x="245" y="6678" width="620.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="871.1" y="6689" class="small">0.89</text>
+<rect x="245" y="6695" width="293.0" height="12" fill="#0891b2" rx="3"/>
+<text x="544.0" y="6706" class="small">0.42</text>
+<text x="28" y="6744" class="label">ova_c4_iptm80_20o_c3</text>
+<rect x="245" y="6719" width="119.0" height="12" fill="#2563eb" rx="3"/>
+<text x="370.0" y="6730" class="small">0.17</text>
+<rect x="245" y="6736" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="6747" class="small">0.13</text>
+<rect x="245" y="6753" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="6764" class="small">1.00</text>
+<rect x="245" y="6770" width="606.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="857.0" y="6781" class="small">0.87</text>
+<rect x="245" y="6787" width="165.3" height="12" fill="#0891b2" rx="3"/>
+<text x="416.3" y="6798" class="small">0.24</text>
+<text x="28" y="6836" class="label">ova_c4_iptm80_20o_c5</text>
+<rect x="245" y="6811" width="308.0" height="12" fill="#2563eb" rx="3"/>
+<text x="559.0" y="6822" class="small">0.44</text>
+<rect x="245" y="6828" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="6839" class="small">0.12</text>
+<rect x="245" y="6845" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="6856" class="small">1.00</text>
+<rect x="245" y="6862" width="605.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="856.8" y="6873" class="small">0.87</text>
+<rect x="245" y="6879" width="417.6" height="12" fill="#0891b2" rx="3"/>
+<text x="668.5" y="6890" class="small">0.60</text>
+<text x="28" y="6928" class="label">ova_c4_iptm80_20o_c6</text>
+<rect x="245" y="6903" width="308.0" height="12" fill="#2563eb" rx="3"/>
+<text x="559.0" y="6914" class="small">0.44</text>
+<rect x="245" y="6920" width="357.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="608.0" y="6931" class="small">0.51</text>
+<rect x="245" y="6937" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="6948" class="small">1.00</text>
+<rect x="245" y="6954" width="607.6" height="12" fill="#7c3aed" rx="3"/>
+<text x="858.6" y="6965" class="small">0.87</text>
+<rect x="245" y="6971" width="240.0" height="12" fill="#0891b2" rx="3"/>
+<text x="491.0" y="6982" class="small">0.34</text>
+<text x="28" y="7020" class="label">ova_c4_iptm80_21p_c1</text>
+<rect x="245" y="6995" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="7006" class="small">0.00</text>
+<rect x="245" y="7012" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="7023" class="small">0.00</text>
+<rect x="245" y="7029" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="7040" class="small">0.00</text>
+<rect x="245" y="7046" width="637.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="888.4" y="7057" class="small">0.91</text>
+<rect x="245" y="7063" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="7074" class="small">0.00</text>
+<text x="28" y="7112" class="label">ova_c4_iptm80_21p_c2</text>
+<rect x="245" y="7087" width="392.0" height="12" fill="#2563eb" rx="3"/>
+<text x="643.0" y="7098" class="small">0.56</text>
+<rect x="245" y="7104" width="392.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="643.0" y="7115" class="small">0.56</text>
+<rect x="245" y="7121" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="7132" class="small">1.00</text>
+<rect x="245" y="7138" width="630.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="881.0" y="7149" class="small">0.90</text>
+<rect x="245" y="7155" width="597.0" height="12" fill="#0891b2" rx="3"/>
+<text x="848.0" y="7166" class="small">0.85</text>
+<text x="28" y="7204" class="label">ova_c4_iptm80_21p_c3</text>
+<rect x="245" y="7179" width="133.0" height="12" fill="#2563eb" rx="3"/>
+<text x="384.0" y="7190" class="small">0.19</text>
+<rect x="245" y="7196" width="98.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="349.0" y="7207" class="small">0.14</text>
+<rect x="245" y="7213" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="7224" class="small">1.00</text>
+<rect x="245" y="7230" width="611.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="862.4" y="7241" class="small">0.87</text>
+<rect x="245" y="7247" width="261.0" height="12" fill="#0891b2" rx="3"/>
+<text x="512.0" y="7258" class="small">0.37</text>
+<text x="28" y="7296" class="label">ova_c4_iptm80_21p_c5</text>
+<rect x="245" y="7271" width="308.0" height="12" fill="#2563eb" rx="3"/>
+<text x="559.0" y="7282" class="small">0.44</text>
+<rect x="245" y="7288" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="7299" class="small">0.12</text>
+<rect x="245" y="7305" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="7316" class="small">1.00</text>
+<rect x="245" y="7322" width="608.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="859.3" y="7333" class="small">0.87</text>
+<rect x="245" y="7339" width="393.1" height="12" fill="#0891b2" rx="3"/>
+<text x="644.1" y="7350" class="small">0.56</text>
+<text x="28" y="7388" class="label">ova_c4_iptm80_21p_c6</text>
+<rect x="245" y="7363" width="266.0" height="12" fill="#2563eb" rx="3"/>
+<text x="517.0" y="7374" class="small">0.38</text>
+<rect x="245" y="7380" width="413.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="664.0" y="7391" class="small">0.59</text>
+<rect x="245" y="7397" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="7408" class="small">1.00</text>
+<rect x="245" y="7414" width="614.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="865.9" y="7425" class="small">0.88</text>
+<rect x="245" y="7431" width="177.0" height="12" fill="#0891b2" rx="3"/>
+<text x="428.0" y="7442" class="small">0.25</text>
+<text x="28" y="7480" class="label">ova_c4_iptm80_22q_c1</text>
+<rect x="245" y="7455" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="7466" class="small">0.00</text>
+<rect x="245" y="7472" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="7483" class="small">0.00</text>
+<rect x="245" y="7489" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="7500" class="small">0.00</text>
+<rect x="245" y="7506" width="638.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="889.4" y="7517" class="small">0.91</text>
+<rect x="245" y="7523" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="7534" class="small">0.00</text>
+<text x="28" y="7572" class="label">ova_c4_iptm80_22q_c2</text>
+<rect x="245" y="7547" width="189.0" height="12" fill="#2563eb" rx="3"/>
+<text x="440.0" y="7558" class="small">0.27</text>
+<rect x="245" y="7564" width="189.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="440.0" y="7575" class="small">0.27</text>
+<rect x="245" y="7581" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="7592" class="small">1.00</text>
+<rect x="245" y="7598" width="619.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="870.4" y="7609" class="small">0.88</text>
+<rect x="245" y="7615" width="473.6" height="12" fill="#0891b2" rx="3"/>
+<text x="724.5" y="7626" class="small">0.68</text>
+<text x="28" y="7664" class="label">ova_c4_iptm80_22q_c3</text>
+<rect x="245" y="7639" width="126.0" height="12" fill="#2563eb" rx="3"/>
+<text x="377.0" y="7650" class="small">0.18</text>
+<rect x="245" y="7656" width="98.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="349.0" y="7667" class="small">0.14</text>
+<rect x="245" y="7673" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="7684" class="small">1.00</text>
+<rect x="245" y="7690" width="604.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="855.8" y="7701" class="small">0.86</text>
+<rect x="245" y="7707" width="207.4" height="12" fill="#0891b2" rx="3"/>
+<text x="458.4" y="7718" class="small">0.30</text>
+<text x="28" y="7756" class="label">ova_c4_iptm80_22q_c5</text>
+<rect x="245" y="7731" width="196.0" height="12" fill="#2563eb" rx="3"/>
+<text x="447.0" y="7742" class="small">0.28</text>
+<rect x="245" y="7748" width="98.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="349.0" y="7759" class="small">0.14</text>
+<rect x="245" y="7765" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="7776" class="small">1.00</text>
+<rect x="245" y="7782" width="597.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="848.7" y="7793" class="small">0.85</text>
+<rect x="245" y="7799" width="383.9" height="12" fill="#0891b2" rx="3"/>
+<text x="634.9" y="7810" class="small">0.55</text>
+<text x="28" y="7848" class="label">ova_c4_iptm80_22q_c6</text>
+<rect x="245" y="7823" width="196.0" height="12" fill="#2563eb" rx="3"/>
+<text x="447.0" y="7834" class="small">0.28</text>
+<rect x="245" y="7840" width="189.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="440.0" y="7851" class="small">0.27</text>
+<rect x="245" y="7857" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="7868" class="small">1.00</text>
+<rect x="245" y="7874" width="600.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="851.9" y="7885" class="small">0.86</text>
+<rect x="245" y="7891" width="504.0" height="12" fill="#0891b2" rx="3"/>
+<text x="755.0" y="7902" class="small">0.72</text>
+<text x="28" y="7940" class="label">ova_c4_iptm80_19r_c1</text>
+<rect x="245" y="7915" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="7926" class="small">0.00</text>
+<rect x="245" y="7932" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="7943" class="small">0.00</text>
+<rect x="245" y="7949" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="7960" class="small">0.00</text>
+<rect x="245" y="7966" width="637.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="888.2" y="7977" class="small">0.91</text>
+<rect x="245" y="7983" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="7994" class="small">0.00</text>
+<text x="28" y="8032" class="label">ova_c4_iptm80_19r_c2</text>
+<rect x="245" y="8007" width="189.0" height="12" fill="#2563eb" rx="3"/>
+<text x="440.0" y="8018" class="small">0.27</text>
+<rect x="245" y="8024" width="189.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="440.0" y="8035" class="small">0.27</text>
+<rect x="245" y="8041" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="8052" class="small">1.00</text>
+<rect x="245" y="8058" width="618.7" height="12" fill="#7c3aed" rx="3"/>
+<text x="869.7" y="8069" class="small">0.88</text>
+<rect x="245" y="8075" width="484.6" height="12" fill="#0891b2" rx="3"/>
+<text x="735.6" y="8086" class="small">0.69</text>
+<text x="28" y="8124" class="label">ova_c4_iptm80_19r_c3</text>
+<rect x="245" y="8099" width="112.0" height="12" fill="#2563eb" rx="3"/>
+<text x="363.0" y="8110" class="small">0.16</text>
+<rect x="245" y="8116" width="84.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="335.0" y="8127" class="small">0.12</text>
+<rect x="245" y="8133" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="8144" class="small">1.00</text>
+<rect x="245" y="8150" width="603.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="854.4" y="8161" class="small">0.86</text>
+<rect x="245" y="8167" width="219.3" height="12" fill="#0891b2" rx="3"/>
+<text x="470.3" y="8178" class="small">0.31</text>
+<text x="28" y="8216" class="label">ova_c4_iptm80_19r_c5</text>
+<rect x="245" y="8191" width="238.0" height="12" fill="#2563eb" rx="3"/>
+<text x="489.0" y="8202" class="small">0.34</text>
+<rect x="245" y="8208" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="8219" class="small">0.13</text>
+<rect x="245" y="8225" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="8236" class="small">1.00</text>
+<rect x="245" y="8242" width="605.0" height="12" fill="#7c3aed" rx="3"/>
+<text x="856.0" y="8253" class="small">0.86</text>
+<rect x="245" y="8259" width="386.2" height="12" fill="#0891b2" rx="3"/>
+<text x="637.2" y="8270" class="small">0.55</text>
+<text x="28" y="8308" class="label">ova_c4_iptm80_19r_c6</text>
+<rect x="245" y="8283" width="294.0" height="12" fill="#2563eb" rx="3"/>
+<text x="545.0" y="8294" class="small">0.42</text>
+<rect x="245" y="8300" width="343.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="594.0" y="8311" class="small">0.49</text>
+<rect x="245" y="8317" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="8328" class="small">1.00</text>
+<rect x="245" y="8334" width="618.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="869.9" y="8345" class="small">0.88</text>
+<rect x="245" y="8351" width="574.0" height="12" fill="#0891b2" rx="3"/>
+<text x="825.0" y="8362" class="small">0.82</text>
+<text x="28" y="8400" class="label">ova_c4_iptm80_21s_c1</text>
+<rect x="245" y="8375" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="8386" class="small">0.00</text>
+<rect x="245" y="8392" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="8403" class="small">0.00</text>
+<rect x="245" y="8409" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="8420" class="small">0.00</text>
+<rect x="245" y="8426" width="636.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="887.3" y="8437" class="small">0.91</text>
+<rect x="245" y="8443" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="8454" class="small">0.00</text>
+<text x="28" y="8492" class="label">ova_c4_iptm80_21s_c2</text>
+<rect x="245" y="8467" width="406.0" height="12" fill="#2563eb" rx="3"/>
+<text x="657.0" y="8478" class="small">0.58</text>
+<rect x="245" y="8484" width="406.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="657.0" y="8495" class="small">0.58</text>
+<rect x="245" y="8501" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="8512" class="small">1.00</text>
+<rect x="245" y="8518" width="630.2" height="12" fill="#7c3aed" rx="3"/>
+<text x="881.2" y="8529" class="small">0.90</text>
+<rect x="245" y="8535" width="583.3" height="12" fill="#0891b2" rx="3"/>
+<text x="834.3" y="8546" class="small">0.83</text>
+<text x="28" y="8584" class="label">ova_c4_iptm80_21s_c3</text>
+<rect x="245" y="8559" width="119.0" height="12" fill="#2563eb" rx="3"/>
+<text x="370.0" y="8570" class="small">0.17</text>
+<rect x="245" y="8576" width="98.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="349.0" y="8587" class="small">0.14</text>
+<rect x="245" y="8593" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="8604" class="small">1.00</text>
+<rect x="245" y="8610" width="608.1" height="12" fill="#7c3aed" rx="3"/>
+<text x="859.1" y="8621" class="small">0.87</text>
+<rect x="245" y="8627" width="263.9" height="12" fill="#0891b2" rx="3"/>
+<text x="514.9" y="8638" class="small">0.38</text>
+<text x="28" y="8676" class="label">ova_c4_iptm80_21s_c5</text>
+<rect x="245" y="8651" width="322.0" height="12" fill="#2563eb" rx="3"/>
+<text x="573.0" y="8662" class="small">0.46</text>
+<rect x="245" y="8668" width="77.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="328.0" y="8679" class="small">0.11</text>
+<rect x="245" y="8685" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="8696" class="small">1.00</text>
+<rect x="245" y="8702" width="608.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="859.9" y="8713" class="small">0.87</text>
+<rect x="245" y="8719" width="396.4" height="12" fill="#0891b2" rx="3"/>
+<text x="647.4" y="8730" class="small">0.57</text>
+<text x="28" y="8768" class="label">ova_c4_iptm80_21s_c6</text>
+<rect x="245" y="8743" width="266.0" height="12" fill="#2563eb" rx="3"/>
+<text x="517.0" y="8754" class="small">0.38</text>
+<rect x="245" y="8760" width="336.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="587.0" y="8771" class="small">0.48</text>
+<rect x="245" y="8777" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="8788" class="small">1.00</text>
+<rect x="245" y="8794" width="613.5" height="12" fill="#7c3aed" rx="3"/>
+<text x="864.5" y="8805" class="small">0.88</text>
+<rect x="245" y="8811" width="251.1" height="12" fill="#0891b2" rx="3"/>
+<text x="502.1" y="8822" class="small">0.36</text>
+<text x="28" y="8860" class="label">ova_c4_iptm80_20t_c1</text>
+<rect x="245" y="8835" width="0.0" height="12" fill="#2563eb" rx="3"/>
+<text x="251.0" y="8846" class="small">0.00</text>
+<rect x="245" y="8852" width="0.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="251.0" y="8863" class="small">0.00</text>
+<rect x="245" y="8869" width="0.0" height="12" fill="#16a34a" rx="3"/>
+<text x="251.0" y="8880" class="small">0.00</text>
+<rect x="245" y="8886" width="634.8" height="12" fill="#7c3aed" rx="3"/>
+<text x="885.8" y="8897" class="small">0.91</text>
+<rect x="245" y="8903" width="0.0" height="12" fill="#0891b2" rx="3"/>
+<text x="251.0" y="8914" class="small">0.00</text>
+<text x="28" y="8952" class="label">ova_c4_iptm80_20t_c2</text>
+<rect x="245" y="8927" width="252.0" height="12" fill="#2563eb" rx="3"/>
+<text x="503.0" y="8938" class="small">0.36</text>
+<rect x="245" y="8944" width="252.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="503.0" y="8955" class="small">0.36</text>
+<rect x="245" y="8961" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="8972" class="small">1.00</text>
+<rect x="245" y="8978" width="624.3" height="12" fill="#7c3aed" rx="3"/>
+<text x="875.3" y="8989" class="small">0.89</text>
+<rect x="245" y="8995" width="448.0" height="12" fill="#0891b2" rx="3"/>
+<text x="699.0" y="9006" class="small">0.64</text>
+<text x="28" y="9044" class="label">ova_c4_iptm80_20t_c3</text>
+<rect x="245" y="9019" width="119.0" height="12" fill="#2563eb" rx="3"/>
+<text x="370.0" y="9030" class="small">0.17</text>
+<rect x="245" y="9036" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="9047" class="small">0.13</text>
+<rect x="245" y="9053" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="9064" class="small">1.00</text>
+<rect x="245" y="9070" width="605.4" height="12" fill="#7c3aed" rx="3"/>
+<text x="856.4" y="9081" class="small">0.86</text>
+<rect x="245" y="9087" width="211.3" height="12" fill="#0891b2" rx="3"/>
+<text x="462.3" y="9098" class="small">0.30</text>
+<text x="28" y="9136" class="label">ova_c4_iptm80_20t_c5</text>
+<rect x="245" y="9111" width="245.0" height="12" fill="#2563eb" rx="3"/>
+<text x="496.0" y="9122" class="small">0.35</text>
+<rect x="245" y="9128" width="91.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="342.0" y="9139" class="small">0.13</text>
+<rect x="245" y="9145" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="9156" class="small">1.00</text>
+<rect x="245" y="9162" width="603.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="854.9" y="9173" class="small">0.86</text>
+<rect x="245" y="9179" width="372.1" height="12" fill="#0891b2" rx="3"/>
+<text x="623.1" y="9190" class="small">0.53</text>
+<text x="28" y="9228" class="label">ova_c4_iptm80_20t_c6</text>
+<rect x="245" y="9203" width="203.0" height="12" fill="#2563eb" rx="3"/>
+<text x="454.0" y="9214" class="small">0.29</text>
+<rect x="245" y="9220" width="252.0" height="12" fill="#f59e0b" rx="3"/>
+<text x="503.0" y="9231" class="small">0.36</text>
+<rect x="245" y="9237" width="700.0" height="12" fill="#16a34a" rx="3"/>
+<text x="951.0" y="9248" class="small">1.00</text>
+<rect x="245" y="9254" width="603.9" height="12" fill="#7c3aed" rx="3"/>
+<text x="854.9" y="9265" class="small">0.86</text>
+<rect x="245" y="9271" width="535.3" height="12" fill="#0891b2" rx="3"/>
+<text x="786.3" y="9282" class="small">0.76</text>
+</svg>

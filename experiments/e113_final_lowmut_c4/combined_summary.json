@@ -1,0 +1,22 @@
+{
+  "candidate": "OVA-LM-C4-17-A",
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "n_models": 25,
+  "median_iptm": 0.79,
+  "median_weakest_chain": 0.75,
+  "median_interface_pae_a": 3.3,
+  "median_min_ova_plddt": 89.0671241839315,
+  "confidence_passing_models": 20,
+  "full_connected_models": 25,
+  "unclashed_models": 25,
+  "chemical_mode": "noncovalent",
+  "chemically_clean_models": 25,
+  "joint_passing_models": 20,
+  "unexpected_ss_models": 0
+}

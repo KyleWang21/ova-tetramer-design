@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sparse tied-homotetramer AF2 design on an AF3 C4 backbone.
+"""Sparse tied-homooligomer AF2 design on an AF3-derived backbone.
 
 The four copies share one 386-aa sequence.  The target AF3 coordinates define
 three differentiable restraints: intrachain fold contacts, contacts involving
@@ -36,7 +36,7 @@ SECOND_INTERFACE = {
     348, 349, 350,
 }
 NATIVE_CYS = {12, 31, 74, 121, 368, 383}
-PROTECTED = NATIVE_CYS | set(range(257, 265))
+PROTECTED = NATIVE_CYS | set(range(258, 266))  # SIINFEKL, 1-based positions 258-265
 
 
 def fasta_sequence(path: pathlib.Path, prefix: str | None = None) -> str:
@@ -90,8 +90,25 @@ def main() -> None:
     ap.add_argument("--target-pdb", type=pathlib.Path, required=True)
     ap.add_argument("--reference-fasta", type=pathlib.Path, required=True)
     ap.add_argument("--reference-name", default="D0-P3-13R")
-    ap.add_argument("--current-fasta", type=pathlib.Path, required=True)
+    ap.add_argument("--base-fasta", type=pathlib.Path, required=True,
+                    help="sequence retained at positions outside the design mask")
+    ap.add_argument("--base-name", help="optional FASTA header prefix selecting the base record")
+    ap.add_argument("--init-fasta", type=pathlib.Path,
+                    help="optional sequence used to initialize mutable positions")
+    ap.add_argument("--init-name", help="optional FASTA header prefix selecting the initial record")
     ap.add_argument("--design-positions", type=pathlib.Path, required=True)
+    ap.add_argument(
+        "--surface-positions", type=pathlib.Path,
+        help="optional 1-based surface set; mutations outside it receive a differentiable penalty",
+    )
+    ap.add_argument(
+        "--first-restraint-positions", type=pathlib.Path,
+        help="optional residue set replacing the built-in first-interface restraint mask",
+    )
+    ap.add_argument(
+        "--second-restraint-positions", type=pathlib.Path,
+        help="optional residue set replacing the built-in second-interface restraint mask",
+    )
     ap.add_argument("--params", type=pathlib.Path, required=True)
     ap.add_argument("--out", type=pathlib.Path, required=True)
     ap.add_argument("--seed", type=int, required=True)
@@ -100,6 +117,7 @@ def main() -> None:
     ap.add_argument("--mutation-budget", type=float, default=20.0)
     ap.add_argument("--w-budget", type=float, default=8.0)
     ap.add_argument("--w-sparse", type=float, default=1.0)
+    ap.add_argument("--w-buried-mutation", type=float, default=0.0)
     ap.add_argument("--w-fold", type=float, default=0.75)
     ap.add_argument("--w-first", type=float, default=2.5)
     ap.add_argument("--w-second", type=float, default=2.5)
@@ -111,27 +129,40 @@ def main() -> None:
     args = ap.parse_args()
 
     reference = fasta_sequence(args.reference_fasta, args.reference_name)
-    current = fasta_sequence(args.current_fasta)
+    base = fasta_sequence(args.base_fasta, args.base_name)
+    initial = (
+        fasta_sequence(args.init_fasta, args.init_name or args.base_name)
+        if args.init_fasta else base
+    )
     design_positions = read_positions(args.design_positions)
-    if len(reference) != 386 or len(current) != 386:
-        raise ValueError(f"expected 386-aa sequences, got {len(reference)} and {len(current)}")
+    surface_positions = set(read_positions(args.surface_positions)) if args.surface_positions else set(range(1, len(reference) + 1))
+    first_interface = (
+        set(read_positions(args.first_restraint_positions))
+        if args.first_restraint_positions else FIRST_INTERFACE
+    )
+    second_interface = (
+        set(read_positions(args.second_restraint_positions))
+        if args.second_restraint_positions else SECOND_INTERFACE
+    )
+    if len(reference) != 386 or len(base) != 386 or len(initial) != 386:
+        raise ValueError(
+            f"expected 386-aa sequences, got {len(reference)}, {len(base)}, {len(initial)}"
+        )
     if min(design_positions) < 1 or max(design_positions) > len(reference):
         raise ValueError("design position outside sequence")
     if set(design_positions) & PROTECTED:
         raise ValueError("design mask overlaps native Cys or SIINFEKL")
-    current_mutations = {i for i, (a, b) in enumerate(zip(reference, current), 1) if a != b}
-    missing = current_mutations - set(design_positions)
-    if missing:
-        raise ValueError(f"design mask must include every current mutation: {sorted(missing)}")
-
     n_chains = len([x for x in args.chains.split(",") if x])
-    if n_chains != 4:
-        raise ValueError("this experiment requires exactly four tied chains")
+    if n_chains not in {2, 4}:
+        raise ValueError("this experiment requires two or four tied chains")
     fixed_positions = [i for i in range(1, len(reference) + 1) if i not in design_positions]
     fixed_spec = compress_ranges(fixed_positions)
     ref_idx = np.asarray([AA_ORDER[aa] for aa in reference], dtype=np.int32)
     design_idx = jnp.asarray(np.asarray(design_positions, dtype=np.int32) - 1)
-    ref_design_idx = jnp.asarray(ref_idx[np.asarray(design_positions) - 1])
+    buried_design_positions = sorted(set(design_positions) - surface_positions)
+    buried_design_idx = jnp.asarray(np.asarray(buried_design_positions, dtype=np.int32) - 1)
+    ref_all_idx = jnp.asarray(ref_idx)
+    base_idx = np.asarray([AA_ORDER[aa] for aa in base], dtype=np.int32)
 
     args.out.mkdir(parents=True, exist_ok=True)
     (args.out / "pdb").mkdir(exist_ok=True)
@@ -153,15 +184,20 @@ def main() -> None:
     def restrained_losses(inputs, outputs) -> dict[str, jax.Array]:
         probability = contact_probability(outputs, cutoff=14.0)
         seq_prob = inputs["seq"]["pseudo"][0, : len(reference), :20]
-        p_reference = seq_prob[design_idx, ref_design_idx]
+        p_reference = seq_prob[jnp.arange(len(reference)), ref_all_idx]
         expected_mutations = (1.0 - p_reference).sum()
+        expected_buried_mutations = (
+            (1.0 - p_reference)[buried_design_idx].sum()
+            if buried_design_positions else jnp.asarray(0.0, dtype=p_reference.dtype)
+        )
         excess = jax.nn.relu(expected_mutations - args.mutation_budget)
         return {
             "fold_target_con": masked_contact_loss(probability, target_masks["fold"]),
             "first_target_con": masked_contact_loss(probability, target_masks["first"]),
             "second_target_con": masked_contact_loss(probability, target_masks["second"]),
             "mutation_budget": jnp.square(excess / max(args.mutation_budget, 1.0)),
-            "mutation_sparse": expected_mutations / len(design_positions),
+            "mutation_sparse": expected_mutations / len(reference),
+            "mutation_buried": expected_buried_mutations / max(len(buried_design_positions), 1),
             "mutation_expected": expected_mutations,
         }
 
@@ -185,6 +221,7 @@ def main() -> None:
             "first_target_con": float(losses.get("first_target_con", np.nan)),
             "second_target_con": float(losses.get("second_target_con", np.nan)),
             "mutation_expected": float(losses.get("mutation_expected", np.nan)),
+            "mutation_buried": float(losses.get("mutation_buried", np.nan)),
             "n_mutations": sum(a != b for a, b in zip(reference, sequence)),
             "mutations": mutation_string(reference, sequence),
             "sequence": sequence,
@@ -212,8 +249,10 @@ def main() -> None:
         rm_template_ic=args.free_interchain,
         fix_pos=fixed_spec,
     )
-    if af._len != len(reference) or af._args["copies"] != 4:
-        raise ValueError(f"expected tied 4x386 input, got copies={af._args['copies']} L={af._len}")
+    if af._len != len(reference) or af._args["copies"] != n_chains:
+        raise ValueError(
+            f"expected tied {n_chains}x386 input, got copies={af._args['copies']} L={af._len}"
+        )
 
     # Derive the three target-contact masks from the AF3 coordinates.
     total = n_chains * len(reference)
@@ -226,8 +265,8 @@ def main() -> None:
     same_chain = chain_id[:, None] == chain_id[None, :]
     sequence_separation = np.abs(residue_number[:, None] - residue_number[None, :])
     interchain = ~same_chain
-    first_site = np.isin(residue_number, sorted(FIRST_INTERFACE))
-    second_site = np.isin(residue_number, sorted(SECOND_INTERFACE))
+    first_site = np.isin(residue_number, sorted(first_interface))
+    second_site = np.isin(residue_number, sorted(second_interface))
     fold_mask = valid & same_chain & (sequence_separation >= 6) & (d2 < 10.0**2)
     first_mask = valid & interchain & (first_site[:, None] | first_site[None, :]) & (d2 < 12.0**2)
     second_mask = valid & interchain & (second_site[:, None] | second_site[None, :]) & (d2 < 12.0**2)
@@ -244,8 +283,8 @@ def main() -> None:
     if min(int(fold_mask.sum()), int(first_mask.sum()), int(second_mask.sum())) == 0:
         raise ValueError("one target restraint has no contacts")
 
-    # Every fixed site and the mutation prior reference P3-13R, not the target-PDB sequence.
-    af._wt_aatype = ref_idx
+    # Fixed sites retain the supplied base sequence.  The mutation prior still references P3-13R.
+    af._wt_aatype = base_idx
     af.opt["weights"].update({
         "dgram_cce": 0.60,
         "fape": 0.05,
@@ -260,18 +299,19 @@ def main() -> None:
         "second_target_con": args.w_second,
         "mutation_budget": args.w_budget,
         "mutation_sparse": args.w_sparse,
+        "mutation_buried": args.w_buried_mutation,
         "mutation_expected": 0.0,
     })
     af.opt["i_con"].update({"num": 4, "cutoff": 14.0, "binary": True})
     af._opt = copy_dict(af.opt)
 
     if args.init == "current":
-        af.restart(seed=args.seed, seq=current, rm_aa="C")
+        af.restart(seed=args.seed, seq=initial, rm_aa="C")
     elif args.init == "reference":
         af.restart(seed=args.seed, seq=reference, rm_aa="C")
     else:
         af.restart(seed=args.seed, mode="gumbel", rm_aa="C")
-    af._wt_aatype = ref_idx
+    af._wt_aatype = base_idx
 
     if args.logits_iters:
         active_stage = "logits"
@@ -299,11 +339,14 @@ def main() -> None:
     n_mutations = sum(a != b for a, b in zip(reference, sequence))
     if any(sequence[p - 1] == "C" for p in design_positions):
         raise RuntimeError("new Cys escaped the design bias")
-    if any(sequence[p - 1] != reference[p - 1] for p in fixed_positions):
-        raise RuntimeError("fixed P3-13R position changed")
+    if any(sequence[p - 1] != base[p - 1] for p in fixed_positions):
+        raise RuntimeError("fixed base-sequence position changed")
     best = af._tmp["best"]["aux"]
     log = best["log"]
-    candidate = f"c4diff_seed{args.seed:02d}_{args.init}_{'free' if args.free_interchain else 'fixed'}_b{int(args.mutation_budget):02d}"
+    candidate = (
+        f"c{n_chains}diff_seed{args.seed:02d}_{args.init}_"
+        f"{'free' if args.free_interchain else 'fixed'}_b{int(args.mutation_budget):02d}"
+    )
     pdb_path = args.out / "pdb" / f"{candidate}.pdb"
     af.save_pdb(str(pdb_path), get_best=True)
     final = {
@@ -321,6 +364,7 @@ def main() -> None:
         "first_target_con": float(log.get("first_target_con", np.nan)),
         "second_target_con": float(log.get("second_target_con", np.nan)),
         "mutation_expected": float(log.get("mutation_expected", np.nan)),
+        "mutation_buried": float(log.get("mutation_buried", np.nan)),
         "n_mutations": n_mutations,
         "mutations": mutation_string(reference, sequence),
         "native_cys_positions": ",".join(str(i) for i, aa in enumerate(sequence, 1) if aa == "C"),

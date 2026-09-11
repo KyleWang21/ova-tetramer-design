@@ -1,0 +1,2 @@
+candidate	source_model	iptm	effective_edges	design_interface_edges	background_edges	design_interface_selection	cif_path
+ova_body_c4_23_ms25_r01	AF3	0.87	A-B,A-C,A-D,B-C,B-D,C-D	A-C,B-D	A-B,A-D,B-C,C-D	TOP1_PRIMARY_DESIGN_CLASS:A-C,B-D:8	/vepfs-mlp2/c20250508/400083/ova_p3_tetramer_design/experiments/e306_e303_rank13_20_af3_multiseed/out_s2/ova_body_c4_23_ms25_r01/seed-4_sample-2/ova_body_c4_23_ms25_r01_seed-4_sample-2_model.cif

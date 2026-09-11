@@ -1,0 +1,34 @@
+residue_1	residue_2	category	chain_pair_support_ova_body_c4_multihit11_ms__AF3	chain_pair_support_ova_body_c4_multihit11_ms__Protenix	mutation_1	mutation_2
+ALA348	ASP96	VdWContact	3	2		
+ARG340	PHE342	Hydrophobic	4	4		V342F
+ARG340	PHE342	VdWContact	4	4		V342F
+ASN272	ASP86	HydrogenBond	4	4		
+ASN272	ASP86	Hydrophobic	3	4		
+ASN272	ASP86	VdWContact	4	4		
+ASP86	TRP271	Hydrophobic	4	4		S271W
+ASP86	TRP271	VdWContact	4	4		S271W
+ASP96	LYS190	HydrogenBond	3	2		
+ASP96	LYS190	SaltBridge	4	4		
+ASP96	LYS190	VdWContact	4	4		
+ASP96	PHE192	VdWContact	4	4		
+ASP96	PHE342	Hydrophobic	1	4		V342F
+GLN90	TRP271	Hydrophobic	4	4		S271W
+HIS182	PHE192	Hydrophobic	4	4	K182H	
+HIS182	PHE192	PiStacking	2	4	K182H	
+HIS182	PHE192	VdWContact	4	4	K182H	
+HIS182	TYR191	VdWContact	4	4	K182H	A191Y
+ILE350	PHE346	VdWContact	4	4	V350I	A346F
+ILE87	TRP271	Hydrophobic	4	4		S271W
+ILE87	TRP271	VdWContact	4	4		S271W
+LEU184	PHE192	Hydrophobic	4	4		
+LEU184	PHE192	VdWContact	4	4		
+LEU217	PHE346	VdWContact	4	3		A346F
+PHE192	TRP99	Hydrophobic	4	4		S99W
+PHE192	TYR98	VdWContact	4	2		
+PHE192	VAL97	VdWContact	4	4		
+PHE342	VAL97	VdWContact	4	4	V342F	
+PHE346	PHE346	Hydrophobic	2	2	A346F	A346F
+PHE346	PHE346	VdWContact	2	2	A346F	A346F
+THR374	TRP271	VdWContact	3	4		S271W
+TRP354	TRP354	Hydrophobic	2	2	S354W	S354W
+TRP354	TRP354	VdWContact	2	2	S354W	S354W

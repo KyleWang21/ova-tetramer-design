@@ -1,0 +1,2 @@
+shard	name	kind	n_seeds	input_json
+8	OVA-C4-IPTM80-20T	final_candidate	10	input/ova_c4_iptm80_20t_opendde_c4.json

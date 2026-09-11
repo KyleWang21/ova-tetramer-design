@@ -1,0 +1,2 @@
+task_name	mode	status	note
+ky-20260901-683	local_af3_multiseed_failfast	FAILED	seed2 mean ipTM 0.856 but only 3/5 zero-clash; seeds3-5 skipped

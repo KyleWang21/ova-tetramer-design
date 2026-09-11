@@ -13,6 +13,7 @@ import json
 import math
 import pathlib
 import statistics
+from collections import defaultdict
 from typing import Iterable
 
 import numpy as np
@@ -323,24 +324,53 @@ def main() -> None:
     parser.add_argument("--experiment", type=pathlib.Path, required=True)
     args = parser.parse_args()
     manifest_rows = list(csv.DictReader((args.experiment / "manifest.tsv").open(), delimiter="\t"))
-    manifest = {row["name"]: row for row in manifest_rows}
+    rows_by_system: dict[str, list[dict[str, str]]] = defaultdict(list)
+    for row in manifest_rows:
+        rows_by_system[row["name"]].append(row)
+    manifest: dict[str, dict[str, str]] = {}
+    for system, rows in rows_by_system.items():
+        if len({row.get("sequence", "") for row in rows}) != 1:
+            raise ValueError(f"{system}: duplicate manifest rows have different sequences")
+        meta = dict(rows[0])
+        expected = [int(row["expected_samples"]) for row in rows]
+        # prepare_reseed_shards records the combined total on every row, while
+        # other splitters may record a per-shard total. Support both conventions.
+        meta["expected_samples"] = str(
+            max(expected) if max(expected) >= 5 * len(rows) else sum(expected)
+        )
+        manifest[system] = meta
     scored: list[dict[str, object]] = []
-    for system, meta in manifest.items():
-        paths = [
-            path
-            for path in sorted(args.experiment.glob(f"out_s*/{system}/seed-*/*_summary_confidences.json"))
-            if path.parent.name.startswith("seed-")
-        ]
-        for path in paths:
-            n_chains = int(meta["n_chains"])
-            scored.append(score_model(
-                path,
-                system,
-                n_chains,
-                parse_ranges(meta["ova_ranges"], n_chains),
-                parse_ranges(meta["module_ranges"], n_chains),
-                parse_ranges(meta.get("binder_ranges", meta["module_ranges"]), n_chains),
-            ))
+    seen_paths: set[pathlib.Path] = set()
+    for system, metas in rows_by_system.items():
+        for meta in metas:
+            # Use only manifest-assigned shards. This excludes outputs from a
+            # stopped duplicate task while allowing intentional reseed shards
+            # that repeat the same system name in multiple manifest rows.
+            shard_pattern = f"out_s{meta['shard']}" if meta.get("shard", "") else "out_s*"
+            # AF3 writes either directly below <shard>/<system>/seed-* or,
+            # when the JSON name is retained as an output subdirectory, below
+            # <shard>/<system>/<system>/seed-*.  Accept both layouts.
+            candidates = []
+            for pattern in (
+                f"{shard_pattern}/{system}/seed-*/*_summary_confidences.json",
+                f"{shard_pattern}/{system}/{system}/seed-*/*_summary_confidences.json",
+            ):
+                candidates.extend(args.experiment.glob(pattern))
+            paths = [
+                path for path in sorted(set(candidates))
+                if path.parent.name.startswith("seed-") and path not in seen_paths
+            ]
+            seen_paths.update(paths)
+            for path in paths:
+                n_chains = int(meta["n_chains"])
+                scored.append(score_model(
+                    path,
+                    system,
+                    n_chains,
+                    parse_ranges(meta["ova_ranges"], n_chains),
+                    parse_ranges(meta["module_ranges"], n_chains),
+                    parse_ranges(meta.get("binder_ranges", meta["module_ranges"]), n_chains),
+                ))
     if not scored:
         raise SystemExit("no AF3 summary outputs found")
     write_tsv(args.experiment / "model_scores.tsv", scored)

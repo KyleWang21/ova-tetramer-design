@@ -1,0 +1,2 @@
+passing_models	best_iptm	best_weakest_chain	best_cif	selected_positions
+25	0.8	0.77	experiments/e112_lowmut_c4_07_multiseed/out_s0/ova_lm_c4_07_reseed/seed-2_sample-1/ova_lm_c4_07_reseed_seed-2_sample-1_model.cif	86,90,96,97,98,99,182,184,187,190,191,192,217,271,272,278,338,340,341,342,353,354,373,374

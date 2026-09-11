@@ -1,0 +1,2 @@
+candidate	af3_nonvdw_position_type_count	protenix_nonvdw_position_type_count	shared_nonvdw_position_type_count	nonvdw_position_type_jaccard	shared_nonvdw_position_types
+ova_body_c4_multihit11_ms	20	21	15	0.5769230769230769	86-271:Hydrophobic;86-272:HydrogenBond;86-272:Hydrophobic;87-271:Hydrophobic;90-271:Hydrophobic;96-190:HydrogenBond;96-190:SaltBridge;96-342:Hydrophobic;99-192:Hydrophobic;182-192:Hydrophobic;182-192:PiStacking;184-192:Hydrophobic;340-342:Hydrophobic;346-346:Hydrophobic;354-354:Hydrophobic

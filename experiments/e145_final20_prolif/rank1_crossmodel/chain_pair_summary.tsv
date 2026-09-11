@@ -1,0 +1,13 @@
+source	chain_pair	unique_residue_pairs	unique_interaction_types	atom_level_events	non_vdw_interactions	Hydrophobic	HydrogenBond	SaltBridge	PiStacking	CationPi	VdWContact
+OVA-C4-IPTM80-20A_AF3	A-B	11	14	73	3	2	0	0	1	0	11
+OVA-C4-IPTM80-20A_AF3	A-C	33	43	105	15	7	6	2	0	0	28
+OVA-C4-IPTM80-20A_AF3	A-D	8	16	25	10	8	2	0	0	0	6
+OVA-C4-IPTM80-20A_AF3	B-C	10	18	24	10	8	2	0	0	0	8
+OVA-C4-IPTM80-20A_AF3	B-D	31	41	105	15	7	6	2	0	0	26
+OVA-C4-IPTM80-20A_AF3	C-D	14	17	76	3	2	0	0	1	0	14
+OVA-C4-IPTM80-20A_Protenix31	A-B	10	20	89	10	8	2	0	0	0	10
+OVA-C4-IPTM80-20A_Protenix31	A-C	9	15	134	6	4	0	0	2	0	9
+OVA-C4-IPTM80-20A_Protenix31	A-D	16	24	63	12	6	4	2	0	0	12
+OVA-C4-IPTM80-20A_Protenix31	B-C	27	38	92	18	12	4	2	0	0	20
+OVA-C4-IPTM80-20A_Protenix31	B-D	8	14	120	6	4	0	0	2	0	8
+OVA-C4-IPTM80-20A_Protenix31	C-D	11	21	100	11	8	2	0	1	0	10

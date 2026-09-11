@@ -1,0 +1,101 @@
+{
+  "plddt": 81.61605834960938,
+  "ptm": 0.5384647846221924,
+  "iptm": 0.40492135286331177,
+  "has_clash": false,
+  "chain_pair_iptm": [
+    [
+      0.0,
+      0.3421306014060974,
+      0.33227649331092834,
+      0.37844380736351013
+    ],
+    [
+      0.3421306014060974,
+      0.0,
+      0.37942054867744446,
+      0.3325810432434082
+    ],
+    [
+      0.33227649331092834,
+      0.37942054867744446,
+      0.0,
+      0.34027180075645447
+    ],
+    [
+      0.37844380736351013,
+      0.3325810432434082,
+      0.34027180075645447,
+      0.0
+    ]
+  ],
+  "min_incident_iptm": 0.37844380736351013,
+  "contacts_8a": {
+    "A-B": 54,
+    "A-C": 92,
+    "A-D": 65,
+    "B-C": 64,
+    "B-D": 94,
+    "C-D": 49
+  },
+  "contact_edges": [
+    "A-B",
+    "A-C",
+    "A-D",
+    "B-C",
+    "B-D",
+    "C-D"
+  ],
+  "largest_component": 4,
+  "full_connected": true,
+  "native_c74_c121_bonds": 4,
+  "interchain_ss_bonds": 0,
+  "close_ss": [
+    {
+      "left": [
+        "A",
+        74
+      ],
+      "right": [
+        "A",
+        121
+      ],
+      "distance_a": 1.1240874528884888
+    },
+    {
+      "left": [
+        "B",
+        74
+      ],
+      "right": [
+        "B",
+        121
+      ],
+      "distance_a": 1.074471354484558
+    },
+    {
+      "left": [
+        "C",
+        74
+      ],
+      "right": [
+        "C",
+        121
+      ],
+      "distance_a": 1.0903832912445068
+    },
+    {
+      "left": [
+        "D",
+        74
+      ],
+      "right": [
+        "D",
+        121
+      ],
+      "distance_a": 1.1317166090011597
+    }
+  ],
+  "summary": "experiments/e108_protenix_v2_current_c4/out_c4_openfoldln_formal_seeds13_14/ova_nc_c4_d2_92_ai01_c4_shallowmsa/seed_14/predictions/ova_nc_c4_d2_92_ai01_c4_shallowmsa_summary_confidence_sample_0.json",
+  "cif": "experiments/e108_protenix_v2_current_c4/out_c4_openfoldln_formal_seeds13_14/ova_nc_c4_d2_92_ai01_c4_shallowmsa/seed_14/predictions/ova_nc_c4_d2_92_ai01_c4_shallowmsa_sample_0.cif"
+}

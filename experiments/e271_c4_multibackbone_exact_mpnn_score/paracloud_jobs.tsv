@@ -1,0 +1,9 @@
+task_index	task_name	slurm_job_id	method	status
+0	ky-20260902-1256	153263	exact_tied_c4_ProteinMPNN_eight_backbone_NLL	SUBMITTED
+1	ky-20260902-1257	153264	exact_tied_c4_ProteinMPNN_eight_backbone_NLL	SUBMITTED
+2	ky-20260902-1258	153265	exact_tied_c4_ProteinMPNN_eight_backbone_NLL	SUBMITTED
+3	ky-20260902-1259	153266	exact_tied_c4_ProteinMPNN_eight_backbone_NLL	SUBMITTED
+4	ky-20260902-1260	153267	exact_tied_c4_ProteinMPNN_eight_backbone_NLL	SUBMITTED
+5	ky-20260902-1261	153268	exact_tied_c4_ProteinMPNN_eight_backbone_NLL	SUBMITTED
+6	ky-20260902-1262	153269	exact_tied_c4_ProteinMPNN_eight_backbone_NLL	SUBMITTED
+7	ky-20260902-1263	153270	exact_tied_c4_ProteinMPNN_eight_backbone_NLL	SUBMITTED

@@ -1,0 +1,5 @@
+shard	name	kind	n_seeds	input_json
+0	CTRL-WT-C4	negative_background	10	input/ctrl_wt_c4_opendde_c4.json
+1	CTRL-P3-13R-C4	negative_background	10	input/ctrl_p3_13r_c4_opendde_c4.json
+2	OVA-C4-IPTM80-19K	process_positive	10	input/ova_c4_iptm80_19k_opendde_c4.json
+4	OVA-C4-IPTM80-21B	process_positive	10	input/ova_c4_iptm80_21b_opendde_c4.json

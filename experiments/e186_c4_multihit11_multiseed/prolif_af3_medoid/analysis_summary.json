@@ -1,0 +1,22 @@
+{
+  "prolif_version": "2.1.0",
+  "rdkit_version": "2026.03.5",
+  "interactions": [
+    "Hydrophobic",
+    "HBDonor",
+    "HBAcceptor",
+    "Cationic",
+    "Anionic",
+    "PiStacking",
+    "CationPi",
+    "PiCation",
+    "VdWContact"
+  ],
+  "structures": {
+    "ova_body_c4_multihit11_ms_AF3": "experiments/e186_c4_multihit11_multiseed/out_s1/ova_body_c4_multihit11_ms/seed-3_sample-4/ova_body_c4_multihit11_ms_seed-3_sample-4_model.cif"
+  },
+  "atom_level_events": 403,
+  "unique_residue_interaction_types": 157,
+  "top_candidate_consensus_interactions": 0,
+  "charge_model": "Lys/Arg +1; Asp/Glu -1; charged termini; neutral His; RDKit explicit H"
+}

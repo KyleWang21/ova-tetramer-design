@@ -1,0 +1,6 @@
+E280 was stopped before candidate generation.  Context 4 chain AD was not the
+canonical second interface: its 5.3-A contact-map Jaccard to the reference AD
+interface was 0.000, whereas chain pair AB scored 0.821.  Slurm jobs
+153731-153738 were cancelled after their first iteration and are excluded from
+all candidate and acceptance statistics.  E283 is the corrected chain-mapped
+replacement.

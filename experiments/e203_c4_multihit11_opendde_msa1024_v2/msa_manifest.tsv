@@ -1,0 +1,2 @@
+candidate	source_msa	source_records	kept_records	capped_msa	runtime_msa
+ova_body_c4_multihit11_ms	experiments/e190_c4_multihit11_screen_v1/protenix_local/msa/ova_iptm80_ova_body_c4_multihit11_ms_protenix_1024.a3m	11631	1024	msa/ova_body_c4_multihit11_ms_opendde_1024.a3m	/data/home/scwb671/run/wky/ova_p3_tetramer_design/experiments/e203_c4_multihit11_opendde_msa1024_v2/msa/ova_body_c4_multihit11_ms_opendde_1024.a3m

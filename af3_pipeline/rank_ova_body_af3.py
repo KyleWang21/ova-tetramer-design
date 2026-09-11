@@ -54,11 +54,19 @@ def main() -> None:
                   if not disulfide or row in clean]
         description = manifest[name]["description"]
         mutation_text = description.split("|mut=", 1)[1].split("|", 1)[0] if "|mut=" in description else ""
+        if mutation_text:
+            n_mutations = len(mutation_text.split(","))
+        elif "mutations=" in description:
+            n_mutations = int(description.split("mutations=", 1)[1].split()[0])
+        elif "nmut=" in description:
+            n_mutations = int(description.split("nmut=", 1)[1].split()[0])
+        else:
+            n_mutations = 0
         output.append({
             "rank": 0,
             "system": name,
             "mutations": mutation_text,
-            "n_mutations": 0 if not mutation_text else len(mutation_text.split(",")),
+            "n_mutations": n_mutations,
             "n_models": len(rows),
             "passing_models": len(passed),
             "pass_fraction": len(passed) / len(rows),
@@ -66,6 +74,9 @@ def main() -> None:
             "chemical_mode": chemical_mode,
             "chemically_clean_models": len(clean) if disulfide else "",
             "chemically_clean_fraction": len(clean) / len(rows) if disulfide else "",
+            "mean_iptm": float(np.mean([float(row["iptm"]) for row in rows])),
+            "mean_weakest_chain": float(np.mean([float(row["min_incident_iptm"]) for row in rows])),
+            "min_iptm": min(float(row["iptm"]) for row in rows),
             "median_iptm": float(system["median_iptm"]),
             "median_weakest_chain": float(system["median_min_incident_iptm"]),
             "median_interface_pae_a": float(system["median_contact_pair_pae"]),
@@ -80,6 +91,7 @@ def main() -> None:
         })
     output.sort(key=lambda row: (
         int(row["passing_models"]),
+        float(row["mean_iptm"]),
         float(row["median_weakest_chain"]),
         float(row["median_iptm"]),
         -float(row["median_interface_pae_a"]),

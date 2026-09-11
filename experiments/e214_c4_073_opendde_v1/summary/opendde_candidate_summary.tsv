@@ -1,0 +1,2 @@
+candidate	kind	n_seeds	mean_iptm	median_iptm	max_iptm	mean_ptm	mean_plddt_normalized	main_topology_cluster_size	gate_opendde_10_seeds	geometry_selectable_seed_count	selectable_seed_count	selected_seed	selected_iptm	selected_dockq_to_design	selected_cif_path	opendde_evidence_available
+ova_body_c4_073_ms	accepted_af3_candidate	10	0.2780250936746597	0.26815474033355713	0.3582203984260559	0.4404831051826477	0.845894905090332	2	1	0	0					0
